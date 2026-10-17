@@ -1,0 +1,37 @@
+name: 產品規格自動更新
+
+on:
+  schedule:
+    - cron: "0 1 * * 1"   # 每週一 09:00（台北時間）
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: update-data
+  cancel-in-progress: false
+
+jobs:
+  products:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: pip install anthropic==1.9.0
+      - name: 檢查最新規格
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+        run: python scripts/update_products.py
+      - name: 提交更新
+        run: |
+          git config user.name "data-bot"
+          git config user.email "data-bot@users.noreply.github.com"
+          git add data/products.json
+          if git diff --cached --quiet; then echo "沒有變更"; exit 0; fi
+          git commit -m "products: 規格更新 $(TZ=Asia/Taipei date '+%Y-%m-%d')"
+          git pull --rebase
+          git push
