@@ -1,0 +1,74 @@
+{
+  "updated": "2026-10-17",
+  "intro": "應用端的實際採用量，決定 AI 需求能否從訓練延伸到長期、穩定的推論負載。以下追蹤已有可量化數據的場域，數據不足者標示為「待補數據」。",
+  "sectors": [
+    {
+      "id": "robotaxi",
+      "name": "自駕與 Robotaxi",
+      "stage": "商轉擴張",
+      "metrics": [
+        {"label": "Waymo 每週付費載客", "value": "50 萬+", "note": "年底目標 100 萬"},
+        {"label": "Waymo 車隊", "value": "4,000+ 輛", "note": "14 個美國市場（2026/9）"},
+        {"label": "Apollo Go 累計載客", "value": "2,000 萬+", "note": "2026/4；每週量與 Waymo 相近"},
+        {"label": "Tesla Robotaxi 累計付費里程", "value": "170 萬英里", "note": "截至 2026 Q1"}
+      ],
+      "trend": {"title": "Waymo 每週付費載客", "unit": "萬次", "labels": ["2024/05", "2025/04", "2026/02", "2026/03", "2026 年底目標"], "values": [5, 25, 40, 50, 100]},
+      "compute": "車隊規模擴大同時推升雲端訓練與車端推論晶片需求；Tesla AI5 晶片已轉向人形機器人與資料中心用途。",
+      "watch": ["每週付費載客數", "營運城市數", "車隊規模", "單車每日營收"]
+    },
+    {
+      "id": "coding",
+      "name": "AI 程式開發與企業代理",
+      "stage": "快速放量",
+      "metrics": [
+        {"label": "Claude Code 年化營收", "value": "$2.5B", "note": "2026/2；上市 6 個月內突破 $1B"},
+        {"label": "Google Cloud AI 工作負載", "value": "3 倍", "note": "成長速度為整體雲端營收的 3 倍"}
+      ],
+      "trend": null,
+      "compute": "程式代理為長時間、多步驟的推論工作，單一任務的 token 消耗遠高於聊天，是目前推論需求成長最快的來源之一。",
+      "watch": ["AI 編程工具 ARR", "企業付費席次", "每任務 token 消耗"]
+    },
+    {
+      "id": "robots",
+      "name": "人形與工業機器人",
+      "stage": "早期",
+      "metrics": [
+        {"label": "Tesla AI5", "value": "2026/4 tape-out", "note": "轉向人形機器人與資料中心"}
+      ],
+      "trend": null,
+      "compute": "具身智慧需要大量模擬與影片資料訓練，量產後將形成新的邊緣推論市場。",
+      "watch": ["出貨量", "訂單與試點工廠數", "單機成本"],
+      "pending": true
+    },
+    {
+      "id": "manufacturing",
+      "name": "製造與半導體",
+      "stage": "導入中",
+      "metrics": [],
+      "trend": null,
+      "compute": "以良率分析、設備預測維護、廠務能源最佳化為主，多採私有部署。",
+      "watch": ["導入案例數", "良率或稼動率改善幅度"],
+      "pending": true
+    },
+    {
+      "id": "health",
+      "name": "醫療健康",
+      "stage": "導入中",
+      "metrics": [],
+      "trend": null,
+      "compute": "醫療文件、影像判讀與消費端健康諮詢，受法規影響進度不一。",
+      "watch": ["獲監管核准的 AI 醫材數", "醫院導入率"],
+      "pending": true
+    },
+    {
+      "id": "finance",
+      "name": "金融與客服",
+      "stage": "導入中",
+      "metrics": [],
+      "trend": null,
+      "compute": "客服代理、法遵審查與研究助理，是企業推論需求的穩定來源。",
+      "watch": ["客服自動化比例", "金融業 AI 支出"],
+      "pending": true
+    }
+  ]
+}

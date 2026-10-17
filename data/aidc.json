@@ -1,0 +1,69 @@
+{
+  "updated": "2026-10-17",
+  "kpis": [
+    {"label": "四大 CSP 2026 資本支出指引", "value": "$735–750B", "note": "2026/7 指引；年初為 $640B+"},
+    {"label": "2026 Q2 四大 CSP 合計", "value": "$172B", "note": "季增 29%、年增 77%"},
+    {"label": "2026 上半年累計", "value": "$305B", "note": "四大 CSP 合計"},
+    {"label": "Stargate 2029 目標", "value": ">9 GW", "note": "Abilene 已部分營運"}
+  ],
+  "guidance": {
+    "unit": "十億美元",
+    "columns": ["2026/1 指引", "2026/4 指引", "2026/7 指引"],
+    "rows": [
+      {"name": "Amazon", "values": ["200", "200", "220"], "note": "上調主因為記憶體成本上升"},
+      {"name": "Alphabet", "values": ["175–185", "180–190", "195–205"], "note": "2027 年將再大幅增加"},
+      {"name": "Meta", "values": ["115–135", "125–145", "130–145"], "note": "另與 BlackRock 合資表外開發"},
+      {"name": "Microsoft", "values": ["140+（估）", "190", "175"], "note": "租賃改列營業租賃，實際支出不變（約 $190B）"}
+    ],
+    "total": ["640+", "695–725", "735–750"]
+  },
+  "quarterly_capex": {
+    "unit": "十億美元",
+    "labels": ["2025 Q2", "2026 Q1", "2026 Q2"],
+    "series": [
+      {"name": "Amazon", "values": [33.2, 45.6, 54.8]},
+      {"name": "Alphabet", "values": [22.5, 35.7, 44.9]},
+      {"name": "Microsoft", "values": [24.3, 31.8, 41.0]},
+      {"name": "Meta", "values": [17.0, 19.8, 31.1]}
+    ],
+    "note": "2026 Q2 為公司公布值（含融資租賃）；Alphabet 2026 Q1 為公布值；其餘由公布之季增率、年增率回推，為約略值。部署後由財報資料自動替換。"
+  },
+  "results": {
+    "period": "2026 Q1（Microsoft 為 FY26 Q3）",
+    "rows": [
+      {"name": "Microsoft", "revenue": "$82.89B", "growth": "+18%", "eps": "$4.27", "cloud": "Azure +40%；Microsoft Cloud $54.5B（+29%）"},
+      {"name": "Alphabet", "revenue": "$109.9B", "growth": "+20%", "eps": "$5.11", "cloud": "Google Cloud $20B（+63%）；backlog $462B"},
+      {"name": "Amazon", "revenue": "$181.5B", "growth": "+17%", "eps": "—", "cloud": "AWS Q2 成長 28% 以上"},
+      {"name": "Meta", "revenue": "—", "growth": "—", "eps": "—", "cloud": "Q2 自由現金流僅 $0.78B"}
+    ],
+    "notes": [
+      "Alphabet 2026 Q2 自由現金流為 -$5.9B，主因資本支出。",
+      "Microsoft 2026 Q2 資本支出 $41B，約三分之二為 CPU、GPU 等短期資產。",
+      "Microsoft 自 FY27 起將資料中心耐用年限由 15 年延長至 25 年。",
+      "四大 CSP 合計 TTM 自由現金流季減 18%、年減 24%。"
+    ]
+  },
+  "projects": [
+    {"name": "Stargate Abilene", "owner": "OpenAI／Oracle／Crusoe", "location": "美國德州 Abilene", "region": "美國", "mw": 1200, "status": "部分營運", "note": "8 棟建物，2026/4 估計約 4 棟已營運；最多容納約 40 萬顆 GB200；OpenAI 已退出後續擴建"},
+    {"name": "Stargate 其他美國站點", "owner": "OpenAI／Oracle／SoftBank", "location": "美國多州（含俄亥俄 Lordstown）", "region": "美國", "mw": null, "status": "興建中", "note": "另有 6 個站點施工中；整體 2029 年目標超過 9 GW"},
+    {"name": "Meta Hyperion", "owner": "Meta", "location": "美國路易斯安那 Richland Parish", "region": "美國", "mw": 1000, "status": "興建中", "note": "初期 1 GW 以上，可擴充至 5 GW"},
+    {"name": "Meta Mason County", "owner": "Meta", "location": "美國肯塔基 Mason County", "region": "美國", "mw": null, "status": "規劃中", "note": "3,000 英畝；2026/10 確認業主"},
+    {"name": "Meta × BlackRock El Paso", "owner": "Meta／BlackRock", "location": "美國德州 El Paso", "region": "美國", "mw": null, "status": "規劃中", "note": "2026/7 宣布之表外合資開發"},
+    {"name": "xAI Colossus 2", "owner": "xAI", "location": "美國田納西 Memphis", "region": "美國", "mw": 1000, "status": "興建中", "note": "孟菲斯市議會正討論一年期新案暫停令"},
+    {"name": "Microsoft Fairwater", "owner": "Microsoft", "location": "美國威斯康辛、亞特蘭大", "region": "美國", "mw": null, "status": "營運／擴建中", "note": "多 GW 等級、跨站點 AI 超級電腦"},
+    {"name": "Project Rainier", "owner": "Amazon", "location": "美國印第安納", "region": "美國", "mw": null, "status": "營運中", "note": "2025/10 啟用，投資約 $11B，1,200 英畝"},
+    {"name": "AWS Indiana County 園區", "owner": "Amazon", "location": "美國賓州 Indiana County", "region": "美國", "mw": null, "status": "規劃中", "note": "36 棟建物"},
+    {"name": "TeraWulf Kentucky", "owner": "TeraWulf", "location": "美國肯塔基", "region": "美國", "mw": 1000, "status": "規劃中", "note": "第一階段 2028 爬坡，第二階段 500 MW 目標 2029"},
+    {"name": "Applied Digital Brookwood", "owner": "Applied Digital", "location": "美國阿拉巴馬 Brookwood", "region": "美國", "mw": null, "status": "規劃中", "note": "$3.2B，市議會已表態支持"},
+    {"name": "Sesterce Jämsä", "owner": "Sesterce", "location": "芬蘭 Jämsä", "region": "歐洲", "mw": null, "status": "規劃中", "note": "€10B AI 園區"},
+    {"name": "JERA 東京近郊 AIDC", "owner": "JERA", "location": "日本東京近郊", "region": "亞洲", "mw": null, "status": "規劃中", "note": "日本 $140B AI 資料中心推動計畫的一部分（Dell、JERA 參與）"},
+    {"name": "Microsoft 台灣資料中心", "owner": "Microsoft", "location": "台灣", "region": "亞洲", "mw": null, "status": "規劃中", "note": "宣布倍增在台資料中心"},
+    {"name": "KT Cloud Cheongna", "owner": "KT Cloud", "location": "南韓仁川", "region": "亞洲", "mw": 50, "status": "規劃中", "note": ""},
+    {"name": "Trentar Maharashtra", "owner": "Trentar", "location": "印度馬哈拉施特拉", "region": "亞洲", "mw": 500, "status": "MoU", "note": "$3.3B"}
+  ],
+  "risks": [
+    {"title": "地方暫停令擴散", "text": "維吉尼亞提案全州暫停三年、奧勒岡暫停許可、孟菲斯討論一年期暫停，選址與併網風險升高。"},
+    {"title": "自由現金流壓力", "text": "Amazon TTM 自由現金流轉負、Alphabet 單季轉負，資本支出開始依賴舉債與表外融資。"},
+    {"title": "零組件漲價", "text": "Amazon 與 Meta 均將資本支出上調部分歸因於記憶體等零組件價格上升。"}
+  ]
+}

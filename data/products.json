@@ -1,0 +1,98 @@
+{
+  "updated": "2026-10-17",
+  "last_checked": "2026-10-17",
+  "auto_update_note": "每週一由 update_products.py 透過 Claude API（含網路搜尋）檢查各類別最新規格，有變更時寫入下方紀錄。",
+  "categories": [
+    {
+      "id": "chips",
+      "name": "算力晶片",
+      "summary": "GPU 進入 HBM4 世代，NVIDIA 以年度節奏推進；CSP 自研 ASIC 同步放量，形成 GPU 與 ASIC 並行的格局。",
+      "columns": ["產品", "廠商", "記憶體", "AI 算力", "時程", "備註"],
+      "items": [
+        ["B200／GB200", "NVIDIA", "192GB HBM3E", "約 20 PF FP4", "量產中", "Blackwell 首代"],
+        ["B300／GB300（Blackwell Ultra）", "NVIDIA", "288GB HBM3E", "NVL72 機櫃 1.1 EF FP4（dense）", "出貨中", ""],
+        ["Rubin", "NVIDIA", "288GB HBM4", "50 PF FP4", "2026 下半年", "搭配 Vera CPU，台積電 3nm"],
+        ["Rubin CPX", "NVIDIA", "128GB GDDR7", "30 PF NVFP4", "2026 下半年", "專攻長上下文推論的 prefill 階段"],
+        ["Rubin Ultra", "NVIDIA", "1TB HBM4E／4 die", "100 PF FP4", "2027 下半年", "NVL576 機櫃 15 EF FP4"],
+        ["Feynman", "NVIDIA", "—", "—", "2028", "已列入路線圖"],
+        ["MI355X", "AMD", "288GB HBM3E", "—", "量產中", ""],
+        ["MI450（Helios 機櫃）", "AMD", "432GB HBM4", "—", "2026 下半年", "AMD 首款機櫃級方案"],
+        ["TPU v7 Ironwood", "Google", "192GB HBM3E", "4.6 PF FP8", "部署中", "Anthropic 為主要外部客戶之一"],
+        ["Trainium3", "AWS", "144GB HBM3E", "—", "部署中", "3nm 製程"]
+      ]
+    },
+    {
+      "id": "servers",
+      "name": "伺服器與機櫃",
+      "summary": "交付單位由單台伺服器轉為整櫃系統，機櫃功率與重量同步上升，對機房承重、搬運吊裝與液冷管線都是新要求。",
+      "columns": ["系統", "GPU 數", "機櫃功率", "散熱", "時程", "備註"],
+      "items": [
+        ["GB200 NVL72", "72", "約 120 kW", "液冷", "量產中", "整櫃重量約 1.36 公噸"],
+        ["GB300 NVL72", "72", "約 135–140 kW", "液冷", "出貨中", "TrendForce 估計"],
+        ["Vera Rubin NVL144", "144 die（72 封裝）", "—", "液冷", "2026 下半年", "3.6 EF FP4／1.2 EF FP8，約為 GB300 NVL72 的 3.3 倍；CES 2026 起改稱 NVL72"],
+        ["Rubin Ultra NVL576", "576 die", "規劃約 600 kW", "液冷", "2027 下半年", "Kyber 機櫃架構"]
+      ],
+      "chart": {
+        "title": "單一機櫃功率演進",
+        "unit": "kW",
+        "labels": ["H100 機櫃", "GB200 NVL72", "GB300 NVL72", "Rubin Ultra NVL576"],
+        "values": [40, 120, 140, 600],
+        "note": "H100 為典型氣冷機櫃估計值；Rubin Ultra 為規劃值。"
+      }
+    },
+    {
+      "id": "memory",
+      "name": "記憶體與儲存",
+      "summary": "HBM 是每顆 GPU 成本中占比最高的零組件之一；2026 年記憶體漲價已直接推升 CSP 資本支出。",
+      "columns": ["規格", "介面／容量", "頻寬", "主要用途", "時程", "備註"],
+      "items": [
+        ["HBM3E 12-Hi", "1024-bit／36GB 每堆疊", "約 1.2 TB/s 每堆疊", "Blackwell、MI355X、TPU v7", "量產中", ""],
+        ["HBM4", "2048-bit", "約 2 TB/s 以上每堆疊", "Rubin、MI450", "2026 放量", "介面寬度倍增"],
+        ["HBM4E", "—", "NVL576 合計 4.6 PB/s", "Rubin Ultra", "2027", ""],
+        ["SOCAMM2", "LPDDR 模組", "—", "Vera CPU", "2026 下半年", "Vera Rubin 主機板搭載 8 組"],
+        ["GDDR7", "128GB（CPX）", "—", "Rubin CPX", "2026 下半年", "以較低成本記憶體分擔 prefill"]
+      ]
+    },
+    {
+      "id": "power",
+      "name": "電力系統",
+      "summary": "電力已成 AIDC 第一瓶頸。機櫃功率邁向數百 kW，推動 800V HVDC、儲能 BBU、現場發電與新型配電技術。",
+      "columns": ["項目", "現況", "趨勢", "關鍵規格", "時程", "備註"],
+      "items": [
+        ["機櫃配電", "54V／48V 直流母線", "800V HVDC", "降低銅材與轉換損耗", "2027 起", "配合 Kyber 機櫃"],
+        ["備援電力", "UPS", "機櫃內 BBU、超級電容", "平抑 GPU 負載突波", "導入中", ""],
+        ["現場發電", "電網為主", "燃氣渦輪、燃料電池", "縮短併網等待", "導入中", ""],
+        ["配電技術", "銅排", "超導電力傳輸", "高電流密度", "早期", "VEIR 2026/10 完成 $110M C 輪"],
+        ["電網需求", "—", "每年 +24%", "至 2030 年", "—", "McKinsey 2026/10"]
+      ]
+    },
+    {
+      "id": "cooling",
+      "name": "散熱系統",
+      "summary": "GB200 起液冷成為標配，散熱由機房空調問題轉為機櫃內的流體系統工程。",
+      "columns": ["項目", "現況", "趨勢", "關鍵規格", "時程", "備註"],
+      "items": [
+        ["晶片散熱", "直接液冷冷板", "冷板＋局部浸沒", "單晶片 1,000W 以上", "主流", ""],
+        ["CDU", "機櫃列式", "大型設施級 CDU", "MW 級換熱", "主流", ""],
+        ["冷卻水溫", "中溫水", "45°C 溫水", "減少冰水主機", "導入中", "提升能源效率"],
+        ["浸沒式", "小眾", "特定高密度場景", "—", "評估中", ""]
+      ]
+    },
+    {
+      "id": "network",
+      "name": "網路通訊",
+      "summary": "Scale-up（機櫃內）與 Scale-out（機櫃間）同時升級；光模組由 800G 走向 1.6T，CPO 交換器開始導入。",
+      "columns": ["項目", "現行世代", "下一世代", "關鍵規格", "時程", "備註"],
+      "items": [
+        ["Scale-up 互連", "NVLink 5", "NVLink 6／7", "NVLink 6 每 GPU 3.6 TB/s", "2026 下半年", "Ultra Ethernet 1.1 加入 Scale-up 支援"],
+        ["網路卡", "ConnectX-8", "ConnectX-9 SuperNIC", "1.6 Tb/s", "2026 下半年", ""],
+        ["交換器", "Spectrum-X／Quantum-X", "Spectrum-6、CPO 交換器", "共同封裝光學", "2026–2027", ""],
+        ["光模組", "800G", "1.6T", "—", "放量中", ""],
+        ["DPU", "BlueField-3", "BlueField-4", "—", "2026 下半年", "Vera Rubin 六晶片平台之一"]
+      ]
+    }
+  ],
+  "changelog": [
+    {"date": "2026-10-17", "category": "全部", "text": "首版建立"}
+  ]
+}

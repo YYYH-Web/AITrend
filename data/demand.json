@@ -1,0 +1,40 @@
+{
+  "updated": "2026-10-17",
+  "kpis": [
+    {"label": "Anthropic 年化營收", "value": "$65B+", "note": "2026/7 底，Bloomberg 報導；官方最新揭露為 $47B（2026/5）"},
+    {"label": "OpenAI 年化營收", "value": "$25B", "note": "2026/2 底，The Information；年中各方估計 $24–40B"},
+    {"label": "2026 Q1 AI 產業募資", "value": "$297B", "note": "單季創紀錄"},
+    {"label": "Google Cloud 未認列訂單", "value": "$462B", "note": "2026 Q1；雲端營收年增 63%"}
+  ],
+  "runrate": {
+    "unit": "十億美元",
+    "labels": ["2025/12", "2026/02", "2026/03", "2026/04", "2026/05", "2026/07"],
+    "series": [
+      {"name": "Anthropic", "values": [9, 14, 19, 30, 47, 65]},
+      {"name": "OpenAI", "values": [21.4, 25, null, null, null, null]}
+    ],
+    "note": "年化營收（run rate）是以近期營收外推全年，非經審計數字；兩家公司計算方式可能不同。OpenAI 2026 年中數字各方報導落差大（$24–40B），暫不繪製。"
+  },
+  "companies": [
+    {"name": "Anthropic", "product": "Claude、Claude Code", "revenue": "$47B（官方，2026/5）／$65B+（報導，2026/7）", "valuation": "$965B（Series H，2026/5）", "note": "Claude Code 2026/2 年化營收約 $2.5B；市場預期最快 2026 秋季 IPO"},
+    {"name": "OpenAI", "product": "ChatGPT、API", "revenue": "$25B（2026/2）", "valuation": "$852B（2026/3）", "note": "2026/5/22 秘密遞交 IPO 文件；2030 年前算力支出目標約 $600B"},
+    {"name": "Google（Gemini）", "product": "Gemini、Google Cloud", "revenue": "Cloud 單季 $20B（2026 Q1，+63%）", "valuation": "上市公司（GOOGL）", "note": "AI 工作負載成長速度為整體雲端營收的 3 倍"},
+    {"name": "Databricks", "product": "資料與 AI 平台", "revenue": "$5.4B 年化", "valuation": "$134B", "note": ""},
+    {"name": "Scale AI", "product": "資料標註與評測", "revenue": "2026 預估 $2B", "valuation": "$29B", "note": ""},
+    {"name": "Perplexity", "product": "AI 搜尋", "revenue": "2026 目標 $656M", "valuation": "$20B", "note": ""}
+  ],
+  "neoclouds": [
+    {"name": "CoreWeave", "role": "GPU 雲端龍頭", "note": "2026/10 與 AdaniConneX 合作進入印度；已確認 2026 下半年提供 Vera Rubin 執行個體"},
+    {"name": "Oracle OCI", "role": "Stargate 主要算力承包商", "note": "Abilene 園區容量全數供 Stargate 使用"},
+    {"name": "Crusoe", "role": "AIDC 開發商", "note": "Stargate Abilene 開發與興建"},
+    {"name": "Nebius", "role": "GPU 雲端", "note": "已確認 2026 下半年提供 Vera Rubin 執行個體"},
+    {"name": "Lambda", "role": "GPU 雲端", "note": "已確認 2026 下半年提供 Vera Rubin 執行個體"},
+    {"name": "Modal", "role": "推論雲平台", "note": "2026/10 完成 $750M D 輪募資"}
+  ],
+  "signals": [
+    {"who": "Amazon", "text": "即使 2026 年資本支出約 $220B，產能仍不足以滿足全部需求，且預期 2027 年同樣如此。", "date": "2026-07"},
+    {"who": "Microsoft", "text": "客戶需求持續超過可用產能；預期 FY27 資本支出仍將年增。", "date": "2026-07"},
+    {"who": "Gartner", "text": "至 2030 年，企業與消費端 AI 營收不足以讓所有已規劃的資本支出取得獲利報酬。", "date": "2026-10"},
+    {"who": "McKinsey", "text": "資料中心電力需求至 2030 年預估每年成長 24%。", "date": "2026-10"}
+  ]
+}

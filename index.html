@@ -1,0 +1,102 @@
+<!doctype html>
+<html lang="zh-Hant">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>AI 趨勢研究追蹤</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Barlow+Condensed:wght@500;600;700&family=Noto+Sans+TC:wght@400;500;700&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="assets/style.css">
+<!--INLINE_CSS-->
+</head>
+<body>
+<header class="topbar">
+  <div class="topbar-inner">
+    <a class="brand" href="#home">
+      <svg class="brand-mark" viewBox="0 0 24 24" aria-hidden="true"><path d="M3 20V9l5 3V8l5 3V6l8 5v9z" fill="currentColor"/></svg>
+      <span>AI 趨勢研究追蹤</span>
+    </a>
+    <div class="topbar-actions">
+      <span class="data-date" id="dataDate">資料日期 —</span>
+      <button class="btn btn-update" id="btnUpdate" type="button">
+        <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M20 12a8 8 0 1 1-2.34-5.66M20 4v5h-5" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></svg>
+        <span>更新資料</span>
+      </button>
+      <button class="icon-btn" id="btnTheme" type="button" aria-label="切換深淺色">
+        <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M12 3a9 9 0 1 0 9 9 7 7 0 0 1-9-9z" fill="currentColor"/></svg>
+      </button>
+      <button class="icon-btn" id="btnSettings" type="button" aria-label="更新設定">
+        <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M12 15.5a3.5 3.5 0 1 0 0-7 3.5 3.5 0 0 0 0 7zm7.4-2.5.1-1-.1-1 2-1.6-2-3.4-2.4 1a7 7 0 0 0-1.7-1L15 3h-4l-.3 2.5a7 7 0 0 0-1.7 1l-2.4-1-2 3.4L6.6 11l-.1 1 .1 1-2 1.6 2 3.4 2.4-1a7 7 0 0 0 1.7 1L11 21h4l.3-2.5a7 7 0 0 0 1.7-1l2.4 1 2-3.4z" fill="currentColor"/></svg>
+      </button>
+    </div>
+  </div>
+  <nav class="tabs" aria-label="主選單">
+    <a href="#home" data-tab="home">首頁</a>
+    <a href="#demand" data-tab="demand">AI 需求</a>
+    <a href="#aidc" data-tab="aidc">AIDC 建置與投資</a>
+    <a href="#products" data-tab="products">產品與規格</a>
+    <a href="#supply" data-tab="supply">供應鏈與股價</a>
+    <a href="#apps" data-tab="apps">應用場域</a>
+  </nav>
+</header>
+
+<div class="ticker" id="ticker" aria-label="追蹤清單行情"></div>
+
+<main id="main">
+  <section class="page" id="page-home" data-page="home"></section>
+  <section class="page" id="page-demand" data-page="demand" hidden></section>
+  <section class="page" id="page-aidc" data-page="aidc" hidden></section>
+  <section class="page" id="page-products" data-page="products" hidden></section>
+  <section class="page" id="page-supply" data-page="supply" hidden></section>
+  <section class="page" id="page-apps" data-page="apps" hidden></section>
+</main>
+
+<footer class="footer">
+  <p>本站資料彙整自公開報導、公司財報與研究機構，僅供研究參考，不構成投資建議。各區塊皆標示資料日期與來源。</p>
+</footer>
+
+<dialog id="dlgSettings" class="dialog">
+  <form method="dialog" class="dialog-body" id="settingsForm">
+    <h2>一鍵更新設定</h2>
+    <p class="muted">按下「更新資料」時，網站會觸發 GitHub Actions 抓取最新股價、財報與新聞，完成後自動重新載入。設定只存在這台裝置的瀏覽器中。</p>
+    <label>GitHub 帳號或組織<input name="owner" autocomplete="off" placeholder="例如 yenhsi"></label>
+    <label>Repository 名稱<input name="repo" autocomplete="off" placeholder="例如 ai-trends"></label>
+    <label>分支<input name="branch" autocomplete="off" placeholder="main"></label>
+    <label>Personal access token<input name="token" type="password" autocomplete="off" placeholder="fine-grained token，需 Actions 讀寫權限"></label>
+    <p class="hint">請勿在共用電腦上儲存 token。建議使用只授權此 repository 的 fine-grained token。</p>
+    <div class="dialog-actions">
+      <button class="btn btn-ghost" value="cancel" type="submit">取消</button>
+      <button class="btn btn-primary" value="save" type="submit" id="btnSaveSettings">儲存設定</button>
+    </div>
+  </form>
+</dialog>
+
+<dialog id="dlgFin" class="dialog dialog-wide">
+  <div class="dialog-body">
+    <div class="fin-head">
+      <div>
+        <h2 id="finTitle">財報</h2>
+        <p class="muted" id="finSub"></p>
+      </div>
+      <button class="icon-btn icon-btn-plain" type="button" id="btnFinClose" aria-label="關閉">
+        <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M6 6l12 12M18 6 6 18" stroke="currentColor" stroke-width="2" stroke-linecap="round"/></svg>
+      </button>
+    </div>
+    <div class="demo-flag" id="finDemo" hidden>示意資料：部署後按「更新資料」即替換為實際財報</div>
+    <div class="chart-box"><canvas id="finChart" aria-label="近八季營收與 EPS"></canvas></div>
+    <div class="table-wrap" id="finTable"></div>
+    <div class="dialog-actions">
+      <button class="btn btn-primary" type="button" id="btnFinCsv">下載近八季財報（CSV）</button>
+    </div>
+  </div>
+</dialog>
+
+<div class="toast" id="toast" role="status" aria-live="polite" hidden></div>
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/4.4.1/chart.umd.min.js"></script>
+<!--INLINE_DATA-->
+<script src="assets/app.js"></script>
+<!--INLINE_JS-->
+</body>
+</html>

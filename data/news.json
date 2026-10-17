@@ -1,0 +1,143 @@
+{
+  "updated": "2026-10-17",
+  "source_note": "首版由人工彙整；部署後由 update_news.py 自動抓取 RSS 更新",
+  "items": [
+    {
+      "title": "Gartner：至 2030 年，AI 營收仍不足以支撐所有已規劃的資料中心資本支出",
+      "summary": "Gartner 認為企業與消費端 AI 營收的成長速度，追不上目前各家宣布的 AIDC 投資規模，投資回收將是未來兩年市場最大的檢驗點。",
+      "tag": "aidc",
+      "source": "Network World",
+      "date": "2026-10-16",
+      "url": "https://networkworld.com/article/4236617/ai-datacenter-capex-will-far-exceed-forecast-revenue-through-2030.html",
+      "lead": true
+    },
+    {
+      "title": "維吉尼亞州參議員提案：全州暫停新資料中心三年",
+      "summary": "全球最大資料中心聚落所在州出現全面暫停提案，與奧勒岡、孟菲斯的限制措施形成連鎖效應。",
+      "tag": "aidc",
+      "source": "DCD",
+      "date": "2026-10-15",
+      "url": "https://www.datacenterdynamics.com/en/news/"
+    },
+    {
+      "title": "Meta 確認為肯塔基州 Mason County 3,000 英畝資料中心案業主",
+      "summary": "Meta 繼路易斯安那 Hyperion 之後再添大型園區，持續擴張 2026–2027 年算力容量。",
+      "tag": "aidc",
+      "source": "DCD",
+      "date": "2026-10-15",
+      "url": "https://www.datacenterdynamics.com/en/"
+    },
+    {
+      "title": "奧勒岡州長要求環保主管機關暫停資料中心許可，形同實質暫停令",
+      "summary": "此前該州已禁止在州有土地上興建相關專案。",
+      "tag": "aidc",
+      "source": "Mission Critical News",
+      "date": "2026-10-15",
+      "url": "https://missioncriticalconnections.substack.com/p/mission-critical-news-october-15"
+    },
+    {
+      "title": "TeraWulf 將肯塔基資料中心電力承諾擴大至 1 GW",
+      "summary": "第一階段預計 2028 年開始爬坡，第二階段 500 MW 目標 2029 年。",
+      "tag": "aidc",
+      "source": "Mission Critical News",
+      "date": "2026-10-15",
+      "url": "https://missioncriticalconnections.substack.com/p/mission-critical-news-october-15"
+    },
+    {
+      "title": "孟菲斯市議會延後表決一年期資料中心暫停令",
+      "summary": "xAI Colossus 所在城市，未來 12 個月可能禁止新開發案。",
+      "tag": "aidc",
+      "source": "Mission Critical News",
+      "date": "2026-10-15",
+      "url": "https://missioncriticalconnections.substack.com/p/mission-critical-news-october-15"
+    },
+    {
+      "title": "AI 雲端新創 Modal 完成 7.5 億美元 D 輪募資",
+      "summary": "Neocloud 與推論雲平台持續吸引大型資金。",
+      "tag": "demand",
+      "source": "DCD",
+      "date": "2026-10-16",
+      "url": "https://www.datacenterdynamics.com/en/news/"
+    },
+    {
+      "title": "Ultra Ethernet 1.1 規格加入 Scale-up 支援與可程式化壅塞控制",
+      "summary": "乙太網路陣營正式切入原本由 NVLink 主導的機櫃內互連市場。",
+      "tag": "products",
+      "source": "Network World",
+      "date": "2026-10-14",
+      "url": null
+    },
+    {
+      "title": "VEIR 完成 1.1 億美元 C 輪，推動超導電力傳輸用於 AI 資料中心",
+      "summary": "機櫃功率持續上升，電力配送成為新的技術競賽領域。",
+      "tag": "products",
+      "source": "DataX Connect",
+      "date": "2026-10-09",
+      "url": "https://dataxconnect.com/weekly-data-centre-news-9th-october-2026/"
+    },
+    {
+      "title": "CNN：美國為資料中心爭吵之際，中國快速興建",
+      "summary": "報導指出中國 AIDC 投資仍不到美國同業約 8,000 億美元的五分之一，但建置速度明顯較快。",
+      "tag": "aidc",
+      "source": "CNN",
+      "date": "2026-10-13",
+      "url": "https://www.cnn.com/2026/10/13/china/china-data-centers-ai-race-intl-hnk-dst"
+    },
+    {
+      "title": "CoreWeave 與 AdaniConneX 合作進軍印度",
+      "summary": "美國 Neocloud 龍頭開始海外擴張。",
+      "tag": "demand",
+      "source": "DataX Connect",
+      "date": "2026-10-09",
+      "url": "https://dataxconnect.com/weekly-data-centre-news-9th-october-2026/"
+    },
+    {
+      "title": "AWS 規劃於賓州 Indiana County 興建 36 棟資料中心園區",
+      "summary": "Amazon 2026 年資本支出指引已上調至約 2,200 億美元。",
+      "tag": "aidc",
+      "source": "DataX Connect",
+      "date": "2026-10-09",
+      "url": "https://dataxconnect.com/weekly-data-centre-news-9th-october-2026/"
+    },
+    {
+      "title": "Microsoft 將倍增在台灣的資料中心，AI 需求超過供給",
+      "summary": "台灣本地 AIDC 建置需求同步升溫。",
+      "tag": "aidc",
+      "source": "DataX Connect",
+      "date": "2026-10-02",
+      "url": "https://dataxconnect.com/weekly-data-centre-news-2nd-october-2026/"
+    },
+    {
+      "title": "日本規劃 1,400 億美元 AI 資料中心推動計畫，Dell 與 JERA 參與",
+      "summary": "JERA 另將於東京近郊興建大型 AI 資料中心。",
+      "tag": "aidc",
+      "source": "DataX Connect",
+      "date": "2026-10-02",
+      "url": "https://dataxconnect.com/weekly-data-centre-news-2nd-october-2026/"
+    },
+    {
+      "title": "Anthropic 年化營收傳突破 650 億美元",
+      "summary": "Bloomberg 報導 2026 年 7 月底數字；官方最新揭露為 5 月的 470 億美元。",
+      "tag": "demand",
+      "source": "Unite.AI",
+      "date": "2026-08-17",
+      "url": "https://www.unite.ai/?p=453467"
+    },
+    {
+      "title": "四大 CSP 2026 年資本支出指引升至 7,350–7,500 億美元",
+      "summary": "Q2 單季合計約 1,720 億美元，年增 77%；Google、Amazon、Meta 均再上調全年指引。",
+      "tag": "aidc",
+      "source": "Platformonomics",
+      "date": "2026-07-31",
+      "url": "https://platformonomics.com/2026/07/follow-the-capex-q2-2026-scoreboard/"
+    },
+    {
+      "title": "Waymo 新增丹佛、聖地牙哥、坦帕付費服務，擴及 14 個市場",
+      "summary": "車隊超過 4,000 輛，每週付費載客逾 50 萬次，年底目標每週 100 萬次。",
+      "tag": "apps",
+      "source": "Crypto Briefing",
+      "date": "2026-09-01",
+      "url": "https://cryptobriefing.com/waymo-paid-robotaxi-denver-san-diego-tampa/"
+    }
+  ]
+}
