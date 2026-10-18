@@ -1,0 +1,156 @@
+{
+ "updated": "2026-10-18",
+ "etfs": [
+  {
+   "code": "0050",
+   "name": "元大台灣50",
+   "issuer": "元大投信",
+   "type": "市值型",
+   "ok": true,
+   "source": "Yahoo股市",
+   "holdings_date": "2026-07-01",
+   "industry_date": "2026-08-15",
+   "holdings": [
+    {
+     "name": "台積電",
+     "ticker": "2330.TW",
+     "weight": 60.59
+    },
+    {
+     "name": "聯發科",
+     "ticker": "2454.TW",
+     "weight": 5.35
+    },
+    {
+     "name": "台達電",
+     "ticker": "2308.TW",
+     "weight": 3.24
+    },
+    {
+     "name": "鴻海",
+     "ticker": "2317.TW",
+     "weight": 3.13
+    },
+    {
+     "name": "日月光投控",
+     "ticker": "3711.TW",
+     "weight": 1.88
+    },
+    {
+     "name": "聯電",
+     "ticker": "2303.TW",
+     "weight": 1.45
+    },
+    {
+     "name": "台光電",
+     "ticker": "2383.TW",
+     "weight": 1.41
+    },
+    {
+     "name": "中信金",
+     "ticker": "2891.TW",
+     "weight": 1.18
+    },
+    {
+     "name": "富邦金",
+     "ticker": "2881.TW",
+     "weight": 1.11
+    },
+    {
+     "name": "智邦",
+     "ticker": "2345.TW",
+     "weight": 1.08
+    }
+   ],
+   "industries": [
+    {
+     "name": "半導體業",
+     "weight": 69.26
+    },
+    {
+     "name": "電子零組件業",
+     "weight": 9.66
+    },
+    {
+     "name": "金融保險",
+     "weight": 7.86
+    },
+    {
+     "name": "電腦及週邊設備業",
+     "weight": 4.57
+    },
+    {
+     "name": "其他電子業",
+     "weight": 4.32
+    },
+    {
+     "name": "通信網路業",
+     "weight": 1.94
+    },
+    {
+     "name": "塑膠工業",
+     "weight": 1.0
+    },
+    {
+     "name": "光電業",
+     "weight": 0.42
+    }
+   ],
+   "assets": {
+    "股票": 99.59,
+    "現金": 0.22,
+    "債券": 0.19
+   }
+  },
+  {
+   "code": "0052",
+   "name": "富邦科技",
+   "issuer": "富邦投信",
+   "type": "科技型",
+   "ok": false,
+   "holdings": [],
+   "industries": [],
+   "assets": {}
+  },
+  {
+   "code": "0056",
+   "name": "元大高股息",
+   "issuer": "元大投信",
+   "type": "高股息",
+   "ok": false,
+   "holdings": [],
+   "industries": [],
+   "assets": {}
+  },
+  {
+   "code": "00919",
+   "name": "群益台灣精選高息",
+   "issuer": "群益投信",
+   "type": "高股息",
+   "ok": false,
+   "holdings": [],
+   "industries": [],
+   "assets": {}
+  },
+  {
+   "code": "00891",
+   "name": "中信關鍵半導體",
+   "issuer": "中信投信",
+   "type": "半導體主題",
+   "ok": false,
+   "holdings": [],
+   "industries": [],
+   "assets": {}
+  },
+  {
+   "code": "00991A",
+   "name": "主動復華未來50",
+   "issuer": "復華投信",
+   "type": "主動式",
+   "ok": false,
+   "holdings": [],
+   "industries": [],
+   "assets": {}
+  }
+ ]
+}
