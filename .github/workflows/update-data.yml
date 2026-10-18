@@ -1,6 +1,10 @@
 name: 一鍵更新資料
 
 on:
+  # 每天自動更新兩次（台北時間 02:00、08:00、14:00、20:00；GitHub 排程使用 UTC）
+  schedule:
+    - cron: "0 */6 * * *"    # 台北時間 14:00
+  # 網頁「更新資料」按鈕或 Actions 頁面手動執行
   workflow_dispatch:
     inputs:
       watchlist:
@@ -23,6 +27,9 @@ jobs:
   update:
     runs-on: ubuntu-latest
     timeout-minutes: 20
+    env:
+      # 排程執行時沒有 inputs，預設為 all
+      SCOPE: ${{ inputs.scope || 'all' }}
     steps:
       - uses: actions/checkout@v4
       - uses: actions/setup-python@v5
@@ -33,7 +40,7 @@ jobs:
       - run: pip install -r scripts/requirements.txt
 
       - name: 行情與財報
-        if: inputs.scope == 'all' || inputs.scope == 'market'
+        if: env.SCOPE == 'all' || env.SCOPE == 'market'
         env:
           WATCHLIST: ${{ inputs.watchlist }}
           SEC_USER_AGENT: ${{ secrets.SEC_USER_AGENT }}
@@ -41,7 +48,7 @@ jobs:
         run: python scripts/update_market.py
 
       - name: 新聞頭條
-        if: inputs.scope == 'all' || inputs.scope == 'news'
+        if: env.SCOPE == 'all' || env.SCOPE == 'news'
         env:
           ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
         run: python scripts/update_news.py
