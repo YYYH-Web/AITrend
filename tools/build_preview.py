@@ -4,7 +4,7 @@ ROOT = pathlib.Path(__file__).resolve().parents[1]
 html = (ROOT / "index.html").read_text(encoding="utf-8")
 css = (ROOT / "assets/style.css").read_text(encoding="utf-8")
 js = (ROOT / "assets/app.js").read_text(encoding="utf-8")
-names = ["news", "demand", "aidc", "products", "applications", "market", "financials", "watchlist"]
+names = ["news", "demand", "aidc", "products", "applications", "market", "financials", "watchlist", "etf"]
 data = {n: json.loads((ROOT / f"data/{n}.json").read_text(encoding="utf-8")) for n in names}
 blob = json.dumps(data, ensure_ascii=False).replace("</", "<\\/")
 html = html.replace('<link rel="stylesheet" href="assets/style.css">', "")
