@@ -179,6 +179,11 @@
       "ticker": "2357.TW",
       "name": "華碩",
       "category": "自訂"
+    },
+    {
+      "ticker": "8299.TW",
+      "name": "群聯",
+      "category": "記憶體"
     }
   ]
 }
