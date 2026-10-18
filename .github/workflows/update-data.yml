@@ -46,7 +46,14 @@ jobs:
           SEC_USER_AGENT: ${{ secrets.SEC_USER_AGENT }}
           FINMIND_TOKEN: ${{ secrets.FINMIND_TOKEN }}
         run: python scripts/update_market.py
-
+        
+      - name: 台股 ETF 持股
+        if: env.SCOPE == 'all' || env.SCOPE == 'market'
+        continue-on-error: true
+        env:
+          FINMIND_TOKEN: ${{ secrets.FINMIND_TOKEN }}
+        run: python scripts/update_etf.py
+        
       - name: 新聞頭條
         if: env.SCOPE == 'all' || env.SCOPE == 'news'
         env:
