@@ -159,6 +159,26 @@
       "ticker": "2345.TW",
       "name": "智邦",
       "category": "網路通訊"
+    },
+    {
+      "ticker": "2344.TW",
+      "name": "華邦電",
+      "category": "記憶體"
+    },
+    {
+      "ticker": "2408.TW",
+      "name": "南亞科",
+      "category": "記憶體"
+    },
+    {
+      "ticker": "3711.TW",
+      "name": "日月光",
+      "category": "算力晶片"
+    },
+    {
+      "ticker": "2357.TW",
+      "name": "華碩",
+      "category": "自訂"
     }
   ]
 }

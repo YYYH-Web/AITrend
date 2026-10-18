@@ -1,7 +1,15 @@
 {
-  "updated": "2026-10-18 11:08",
+  "updated": "2026-10-18 11:28",
   "source_note": "Google News RSS",
   "items": [
+    {
+      "title": "Spooky Season: Goldman’s AI Credit Charts Hint at a 15% Hyperscaler Catch Down",
+      "summary": "",
+      "tag": "aidc",
+      "source": "The Dark Side Of The Boom",
+      "date": "2026-10-18",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPRGRyZXpvZ1pnM0RMaWVPMzNwd2lidXdwN0x1Z3pFUklrMTJfMjdmMWZDaDFHbEdYclpzOERONHpqaF9UNlk1aVRLdlpGbW9RSWxqX29ETi0ydUQtdWY5QUs5VjZ4TWVtcTcycW1HNmsxSlY1MzFKeVJLWURmNzJCekx3?oc=5"
+    },
     {
       "title": "Authorities investigate public harassment of teen girl by humanoid robot",
       "summary": "",
@@ -25,14 +33,6 @@
       "source": "Reuters",
       "date": "2026-10-17",
       "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQRW4tSGppV2U0ZWtvaXBsQmlyaDVVLVFCSmJNMWdmMHpod0FWd25kUXRNQzFvZXJPTmhoQUNvMlFrQzI3NjBQVG9McWFPRHdUODhMbVItOGg4S0N3ZmJ4R2psZVd1aWFZM2M0aEY4R3VaYnFZWUxhOFZiRXAxTnc5UG9hMm1ERGpKbURkX3BWYzQ5UWl3THBFTDhWUWR0SVhUSWJsekpMZjM4OUZRQl9BVmY2djVKRENDSldCSUpOWmdvbHVK?oc=5"
-    },
-    {
-      "title": "NVDA Reportedly Weighs Lower-Memory Rubin Ultra GPU Designs To Ease HBM Bottleneck — Why Retail Is Watching Micron",
-      "summary": "",
-      "tag": "products",
-      "source": "Stocktwits",
-      "date": "2026-10-17",
-      "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxQUTZJX1J1SjZlTERCX2tUWmZQNmNRVjR0Sm5hSjZoVTREUGJQQ2tXZm4zekhpV0Q1aTJyWjVjS05lbmhGWHl6aThwUkd1MjZMUHItQVlWamJUV19wd3JtVUFUU0FQa1B4OGJHYzZ3ODdLLWI4Q2VDSEdtZDMxWFdteXNJTTJDaFlRN2ZMX1BtbU1LSWlaUVhISlF5Vmp5Z0Q2M2VraGtoODUtUWk0MVNoVTQ5bXNPNHRQcEFBWXBiaXFJTDRWMU9yUU5XSVBtRW80SDRreHdjajlSTGRXTFBGTENFakRkR2E5clVVemUzOExLODMtRGFIMU1ncFhlWF85emRmVHhKVjFlUQ?oc=5"
     },
     {
       "title": "AI: Anthropic’s Mega Data Center Sprint ahead of its Mega-AI IPO. AI-RTZ #1241",
@@ -129,6 +129,14 @@
       "source": "iThome",
       "date": "2026-10-15",
       "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1adFJJeFBrLVJRek1YNUs2UlRUdS1pYVJGRHNEYmVyNWUtcTNoNzgtbC02anBCQWZ6R0xMM1pWNnRNaVE0bjNRRmNVZDIwUQ?oc=5"
+    },
+    {
+      "title": "廖明輝專欄》美國AI資料中心受阻 台灣搶快的代價高昂",
+      "summary": "",
+      "tag": "aidc",
+      "source": "中時新聞網",
+      "date": "2026-10-15",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBiNks1cnRKbmdkYUZjRm5ZcDVHbUN0cHB3TkF1dG9zYnRmT2l4QUY4TElQbkxGT3N1Z2tXeE4yZGtVdWZzR3hrcUp0cnRxRnVoTkJSb3I1a1FBd2xvOWZXZWRPUl82Tzg?oc=5"
     },
     {
       "title": "Anthropic's third-quarter revenue is said to hit $16.8 billion ahead of IPO",
@@ -257,14 +265,6 @@
       "source": "經濟日報",
       "date": "2026-10-14",
       "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE00N0JkNmJvM3JsYVlIcVpmUk5idjhlYTRtUXhFRGRkQlRCakgzMUdxSWNGYXdJbHZyNU9qbVJrTmN1ZFJvVXJWTHNudTJ3YWpfZ3Y4WGNEbUxyUdIBX0FVX3lxTFBId1RjVk1rcUlWMnlvVUQySElGRnRBc1g5eUdxcDAwY3lGWkhoQms4Xzh3dnU3OHJvQ3RmZmhNTWd1aHV3TVNtdTNtckhtdHRJTXF5MXpBUXVVOVJucEtB?oc=5"
-    },
-    {
-      "title": "AI資料中心建置金額估光電30倍 雲豹能源搶商機",
-      "summary": "",
-      "tag": "aidc",
-      "source": "民報",
-      "date": "2026-10-14",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1mN0czaGZMVWg3bW0xNnBvQ0dlZjBqTjk1R1NmQVZEN2Y5Y3Bub2lzX3h2NFFsWjlmaEtTUUVsVld3Q3VQLXVtal9MVzNLTUpUUGVyM0FFRWhYZ2tmOV9EWkhFWl8?oc=5"
     },
     {
       "title": "Anthropic Says Revenue Jumped 45% to $16.8 Billion in Third Quarter",
