@@ -2,7 +2,7 @@
 (() => {
   'use strict';
 
-  const FILES = ['news', 'demand', 'aidc', 'products', 'applications', 'market', 'financials', 'watchlist'];
+  const FILES = ['news', 'demand', 'aidc', 'products', 'applications', 'market', 'financials', 'watchlist', 'etf'];
   const D = {};
   const charts = new Map();
   const $ = (s, el = document) => el.querySelector(s);
@@ -283,6 +283,72 @@
     const pts = vals.map((v, i) => `${(i / (vals.length - 1) * w).toFixed(1)},${(h - 2 - (v - min) / (max - min || 1) * (h - 4)).toFixed(1)}`).join(' ');
     return `<svg class="spark" viewBox="0 0 ${w} ${h}" aria-hidden="true"><polyline points="${pts}" fill="none" stroke="var(${up ? '--up' : '--down'})" stroke-width="1.6"/></svg>`;
   }
+
+  /* ---------- 台股 ETF 持股 ---------- */
+  let etfSel = null;
+  function etfBlock(wl) {
+    const E = D.etf;
+    if (!E || !E.etfs || !E.etfs.length) return '';
+    const etfs = E.etfs;
+    if (!etfSel || !etfs.some((x) => x.code === etfSel)) etfSel = (etfs.find((x) => x.ok) || etfs[0]).code;
+    const e = etfs.find((x) => x.code === etfSel);
+    const wset = new Set(wl.map((w) => w.ticker));
+    const hs = e.holdings || [];
+    const maxW = Math.max(1, ...hs.map((h) => h.weight || 0));
+    const top10 = hs.reduce((sum, h) => sum + (h.weight || 0), 0);
+    const mark = (h) => (h.ticker && wset.has(h.ticker)
+      ? '<span class="aidc-mark">追蹤中</span>'
+      : h.ticker ? `<button class="rm" type="button" data-etf-add="${esc(h.ticker)}" data-etf-name="${esc(h.name)}">加入追蹤</button>` : '');
+
+    // 重疊持股：出現在兩檔以上 ETF，或已在追蹤清單中的公司
+    const map = new Map();
+    etfs.forEach((x) => (x.holdings || []).forEach((h) => {
+      const key = h.ticker || h.name;
+      if (!map.has(key)) map.set(key, { name: h.name, ticker: h.ticker, w: {} });
+      map.get(key).w[x.code] = h.weight;
+    }));
+    const overlap = [...map.values()]
+      .filter((r) => Object.keys(r.w).length >= 2 || (r.ticker && wset.has(r.ticker)))
+      .sort((a, b) => Object.keys(b.w).length - Object.keys(a.w).length || Object.values(b.w).reduce((p, c) => p + c, 0) - Object.values(a.w).reduce((p, c) => p + c, 0))
+      .slice(0, 20);
+
+    return `
+      <div class="block" id="etf-block"><h2>台股主要 ETF 持股配置</h2>
+        <p class="sub">每次更新時自動抓取各 ETF 前十大持股與產業比重${E.updated ? `；最後更新 ${esc(E.updated)}` : ''}</p>
+        <div class="filters stack-gap" role="group" aria-label="選擇 ETF">${etfs.map((x) => `<button class="chip" type="button" data-etf="${esc(x.code)}" aria-pressed="${x.code === etfSel}">${esc(x.code)} ${esc(x.name)}</button>`).join('')}</div>
+        ${!e.ok ? `<div class="pending-box">${esc(e.code)} ${esc(e.name)} 尚無持股資料，下次更新時會自動抓取。</div>` : `
+        ${e.stale ? '<div class="demo-flag">本次更新未取得最新資料，以下為上次成功抓取的內容。</div>' : ''}
+        <div class="grid-2">
+          <div class="table-wrap"><table>
+            <thead><tr><th>排名</th><th>公司</th><th class="r">權重</th><th></th><th></th></tr></thead>
+            <tbody>${hs.map((h, i) => `<tr>
+              <td class="num">${i + 1}</td>
+              <td class="nowrap"><b style="font-weight:500">${esc(h.name)}</b>${h.ticker ? `<small class="muted" style="display:block;font-size:12px">${esc(h.ticker)}</small>` : ''}</td>
+              <td class="r"><span class="num">${Number(h.weight).toFixed(2)}%</span></td>
+              <td style="width:32%"><div class="wbar"><span style="width:${(h.weight / maxW * 100).toFixed(1)}%"></span></div></td>
+              <td class="nowrap">${mark(h)}</td></tr>`).join('')}</tbody></table></div>
+          <div>
+            <dl class="etf-meta">
+              <div><dt>類型</dt><dd>${esc(e.type || '—')}</dd></div>
+              <div><dt>發行投信</dt><dd>${esc(e.issuer || '—')}</dd></div>
+              <div><dt>前十大合計</dt><dd class="num">${top10.toFixed(1)}%</dd></div>
+              <div><dt>股票部位</dt><dd class="num">${e.assets && e.assets['股票'] != null ? `${Number(e.assets['股票']).toFixed(1)}%` : '—'}</dd></div>
+            </dl>
+            ${(e.industries || []).length ? `<h3 class="mini-h">產業比重</h3>${e.industries.slice(0, 8).map((d) => `
+              <div class="ind-row"><span>${esc(d.name)}</span><div class="wbar"><span style="width:${Math.min(100, d.weight).toFixed(1)}%"></span></div><span class="num">${Number(d.weight).toFixed(1)}%</span></div>`).join('')}` : ''}
+            <p class="note">持股資料日期 ${esc(e.holdings_date || '—')}；產業資料日期 ${esc(e.industry_date || '—')}；來源 ${esc(e.source || '—')}。ETF 持股依投信揭露頻率更新，主動式 ETF 異動較頻繁。</p>
+          </div>
+        </div>`}
+        ${overlap.length ? `<h3 class="mini-h" style="margin-top:20px">重疊持股對照</h3>
+          <p class="sub">出現在兩檔以上 ETF 前十大，或已在追蹤清單中的公司（數字為該 ETF 權重）</p>
+          <div class="table-wrap"><table>
+            <thead><tr><th>公司</th>${etfs.map((x) => `<th class="r">${esc(x.code)}</th>`).join('')}<th></th></tr></thead>
+            <tbody>${overlap.map((r) => `<tr><td class="nowrap"><b style="font-weight:500">${esc(r.name)}</b></td>
+              ${etfs.map((x) => `<td class="r">${r.w[x.code] != null ? `<span class="num">${Number(r.w[x.code]).toFixed(2)}%</span>` : '<span class="muted">—</span>'}</td>`).join('')}
+              <td class="nowrap">${r.ticker && wset.has(r.ticker) ? '<span class="aidc-mark">追蹤中</span>' : ''}</td></tr>`).join('')}</tbody></table></div>` : ''}
+      </div>`;
+  }
+
   function renderSupply() {
     const el = $('#page-supply');
     const wl = getWatchlist();
@@ -328,7 +394,8 @@
           <thead><tr><th>公司</th><th class="r">股價</th><th class="r">漲跌</th><th class="r">1 個月</th><th class="r">3 個月</th><th class="r">今年以來</th><th class="r">1 年</th><th class="r">本益比</th><th>近一年走勢</th><th></th></tr></thead>
           <tbody>${rows.join('')}</tbody></table></div>
         <p class="note">代號格式：美股直接輸入（NVDA）；台股上市加 .TW、上櫃加 .TWO；韓股加 .KS；歐股依交易所（例 SU.PA）。</p>
-      </div>`;
+      </div>
+      ${etfBlock(wl)}`;
 
     $('#wlForm').addEventListener('submit', (e) => {
       e.preventDefault();
@@ -342,6 +409,15 @@
       toast(quoteOf(t) ? `已加入 ${t}` : `已加入 ${t}，按「更新資料」取得行情與財報`);
     });
     $('#wlReset').addEventListener('click', () => { store.del('watchlist_v1'); renderSupply(); renderTicker(); toast('已還原預設追蹤清單'); });
+    $$('[data-etf]', el).forEach((b) => b.addEventListener('click', () => {
+      etfSel = b.dataset.etf; const y = window.scrollY; renderSupply(); window.scrollTo(0, y);
+    }));
+    $$('[data-etf-add]', el).forEach((b) => b.addEventListener('click', () => {
+      const t = b.dataset.etfAdd; const list = getWatchlist();
+      if (!list.some((x) => x.ticker === t)) list.push({ ticker: t, name: b.dataset.etfName || t, category: '自訂' });
+      saveWatchlist(list); const y = window.scrollY; renderSupply(); renderTicker(); window.scrollTo(0, y);
+      toast(quoteOf(t) ? `已加入 ${b.dataset.etfName}` : `已加入 ${b.dataset.etfName}，按「更新資料」取得行情與財報`);
+    }));
     $$('[data-rm]', el).forEach((b) => b.addEventListener('click', () => {
       saveWatchlist(getWatchlist().filter((x) => x.ticker !== b.dataset.rm)); renderSupply(); renderTicker(); toast(`已移除 ${b.dataset.rm}`);
     }));
