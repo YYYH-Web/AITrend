@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-18 19:24",
+  "updated": "2026-10-19 00:00",
   "source_note": "Google News RSS",
   "items": [
     {
@@ -9,6 +9,14 @@
       "source": "The Dark Side Of The Boom",
       "date": "2026-10-18",
       "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPRGRyZXpvZ1pnM0RMaWVPMzNwd2lidXdwN0x1Z3pFUklrMTJfMjdmMWZDaDFHbEdYclpzOERONHpqaF9UNlk1aVRLdlpGbW9RSWxqX29ETi0ydUQtdWY5QUs5VjZ4TWVtcTcycW1HNmsxSlY1MzFKeVJLWURmNzJCekx3?oc=5"
+    },
+    {
+      "title": "Neocloud Shakeout Looms, and Nvidia Has a Lot to Lose",
+      "summary": "",
+      "tag": "demand",
+      "source": "The Information",
+      "date": "2026-10-18",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNVVVydlVtRDNpV0d6X3JIZlJENk5sSzU2YmlWYlBvRFllQTBTRjZEMk9lblVPMno3aG9Jc1NRRFlhQy1IdktiVUUtM1JoWEI1UHVlV1RuaVp6WDBaS01rTktSU0hLZE82RkFPaWI5ekk0TU04RHphakZKbGtmNmVLWFJGRGkxbkNsdFozNXBudC1ObjIxbjNDdUtYSHVVRjdqLUE?oc=5"
     },
     {
       "title": "Authorities investigate public harassment of teen girl by humanoid robot",
@@ -33,14 +41,6 @@
       "source": "Yahoo Finance",
       "date": "2026-10-17",
       "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNbExCMEFRLVJKaUREdHdRc1pJMTVLdno1THl3RmkyZlRLTkR0cmV2OUZieE41LVQyUUZ6eGZrYk45ZXp5OGxLRnlmSmV6a3l5U2M4M0dmZ3I1eG9TSGRmUzRwVGcxcXNZTXNXbUNwSFVQb2d6ckJJX0dnODBLUWpRZjZRT3ZPVExDc2xNOXpmQlRQN1NqQWFwY2NDTEE5VVRyb2Z0b3p5MDRXd2s?oc=5"
-    },
-    {
-      "title": "NVDA Reportedly Weighs Lower-Memory Rubin Ultra GPU Designs To Ease HBM Bottleneck — Why Retail Is Watching Micron",
-      "summary": "",
-      "tag": "products",
-      "source": "Stocktwits",
-      "date": "2026-10-17",
-      "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxQUTZJX1J1SjZlTERCX2tUWmZQNmNRVjR0Sm5hSjZoVTREUGJQQ2tXZm4zekhpV0Q1aTJyWjVjS05lbmhGWHl6aThwUkd1MjZMUHItQVlWamJUV19wd3JtVUFUU0FQa1B4OGJHYzZ3ODdLLWI4Q2VDSEdtZDMxWFdteXNJTTJDaFlRN2ZMX1BtbU1LSWlaUVhISlF5Vmp5Z0Q2M2VraGtoODUtUWk0MVNoVTQ5bXNPNHRQcEFBWXBiaXFJTDRWMU9yUU5XSVBtRW80SDRreHdjajlSTGRXTFBGTENFakRkR2E5clVVemUzOExLODMtRGFIMU1ncFhlWF85emRmVHhKVjFlUQ?oc=5"
     },
     {
       "title": "OpenAI Is Building A Humanoid Robot, But The Body Isn't The Real Challenge",
@@ -91,20 +91,20 @@
       "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5ZVnR5M1NYSVUxVDJJQmlKQUJvYk1pWS1nSGNyUm85ZnhJSTJ6bXlkTElnWVZvVE5hTGpkR2hzb01PNHpKRFg2MERwTnp2dFZMT2VpOG4zV2tEM2h0dmlWWjc5UzRhM3F4ZWk3MUdUUEx5MHhyWkE?oc=5"
     },
     {
+      "title": "NVDA Reportedly Weighs Lower-Memory Rubin Ultra GPU Designs To Ease HBM Bottleneck — Why Retail Is Watching Micron",
+      "summary": "",
+      "tag": "products",
+      "source": "Stocktwits",
+      "date": "2026-10-16",
+      "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxQUTZJX1J1SjZlTERCX2tUWmZQNmNRVjR0Sm5hSjZoVTREUGJQQ2tXZm4zekhpV0Q1aTJyWjVjS05lbmhGWHl6aThwUkd1MjZMUHItQVlWamJUV19wd3JtVUFUU0FQa1B4OGJHYzZ3ODdLLWI4Q2VDSEdtZDMxWFdteXNJTTJDaFlRN2ZMX1BtbU1LSWlaUVhISlF5Vmp5Z0Q2M2VraGtoODUtUWk0MVNoVTQ5bXNPNHRQcEFBWXBiaXFJTDRWMU9yUU5XSVBtRW80SDRreHdjajlSTGRXTFBGTENFakRkR2E5clVVemUzOExLODMtRGFIMU1ncFhlWF85emRmVHhKVjFlUQ?oc=5"
+    },
+    {
       "title": "Meet 'Codey' the humanoid robot that hopes to tackle loneliness epidemic",
       "summary": "",
       "tag": "apps",
       "source": "ABC7 Bay Area",
       "date": "2026-10-16",
       "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQQ2d5QXJiN3NBZHBDS2pZLUNzU1JBaC1tcVktdjhtZEx1Y3ZpcWp6WWJQb2xRcWU3MEpGUFd6QldQMV9ZNzR4QW52SDRjOVVlblgxbEJkTEMwa2s0ZUgxTVNXems0VHlnMk5zSUJtSWlNSTRfN2I1dXRXY3U2VHVTZXNrajlmWXR4QVQ1bjVSdlVZSlZnR2w2dW5R0gGfAUFVX3lxTE5IVkRfMG9kallxVzFPU3JCSFFsRlprbkJnWnpLLVBwRDRMODYxS1pYUHVRSjFXQ1ZybnNXeDNueEZDaURva3VjM1htWHgyeXMyTWpzX0toZEY4SjFXVi1OQlM3TjRILU1ZcW5PZS1pbjlVUmVVVGE1Y2c5U1RCcE1Wc3hQRnF2YTFUV1g2ZHlhZ3p4YmRJaHRCMThPZWFRbw?oc=5"
-    },
-    {
-      "title": "Enterprise controls can't keep up with AI agents",
-      "summary": "",
-      "tag": "apps",
-      "source": "TechTarget",
-      "date": "2026-10-16",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPempSOE1GSmZnTW83SUhnbDkxNzJNaVZldWd1dHhDV2t1QVYtYjJFYklvempTNlFtZDRYWGxnN3lDNjNZT0hhN3NCMXQxZ0NSZFVaWnZqcEhiT01OdmlqTWdraWNRY3YtdlhFWWl1c3I3N1gwVHZkNzlhTWlja0xIMnNkcFFEZm1rWWt2RG9SRGxqMnRhLW9r?oc=5"
     },
     {
       "title": "A new class of batteries helps data centers play nicely with the grid",
@@ -211,12 +211,12 @@
       "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOTC1ab2xlYXFobUs1SVl4R2ZzSHZxN0xRMjR4R1A1ZjJJSUFuT3hDdUFCX1BaSTM2SFJpNDJzNUxRcWpfNHowOUlzNW5UWEZ0Vk1qUk5Xb0ktQk5oVUZySXdLR2taUWJlRGZpTW9pd3dtUkNlV3h3ckRwejNLZ0VtSjFEVVNYdWtrVi1zZmlTMnpDZ0pRblhZUXllc2pfWmlTWThHcw?oc=5"
     },
     {
-      "title": "Gartner: over 80% of neoclouds may cease independent operations by 2030 as $3.5T of AI infra faces impairment risk",
+      "title": "GDT Exec: Channel Can Benefit From Nvidia’s AI Financing Boom—But Hurdles Persist",
       "summary": "",
       "tag": "demand",
-      "source": "Dealroom",
+      "source": "CRN",
       "date": "2026-10-15",
-      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOREpiNnZ2SmRNeUFINGg4VWVSYkNGNlZjV2tzQWhEZ1hTbDZaaDViTmtUQkZMbGd6cFk1SzRjb3FhdGFNWHp3SnJvOGpJMi1uZDR0bzNoaWhtenQ4N1Z6MWJja3VnMnRqeFpXa0ZjendGVV9tUWVXTlBTeTlXY1l4ZExUN0JybkNHcXVLVi04R3FFVVlvaFZxUmNwY3pwMC11SFZfVEJEQ1BGN0VUZ3JyS19vTWZ1V2NIakZaQm52LVpoLU5sN0tlb09jMFlLaWpGZU1qTFJWMzBGVXkxeFE?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPcnNQQkJ3eHViSGE0NXBmbGFRYXRCN3VEWlRHeVg0UVoxajlBYy1xVFp6ME9KUHRwWWhyU2VaalFLWFlsbnZpVEx4Q1ZSd2Yxc0NHS3pnLWlWV0hfVWttMER6TjI2RUxTT3VBS3g2S25YUkl0TWk2ek9lWFFEdWI1TlRVQmNzd0lialVCdXlHLWFMQjhob2VsNnVhRDl3VGR4UjNObmEwb29SZjVkZVZGT0lvMDVqaDZNejVvaEtuTQ?oc=5"
     },
     {
       "title": "NVIDIA Rubin GPUs Expected To Stick With 12-Hi HBM4 Despite Reports Of An 8-Hi Shift, As HBM Prices Could Surge 121% In 2027",
