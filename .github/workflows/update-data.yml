@@ -3,7 +3,7 @@ name: 一鍵更新資料
 on:
   # 每天自動更新兩次（台北時間 02:00、08:00、14:00、20:00；GitHub 排程使用 UTC）
   schedule:
-    - cron: "0 */6 * * *"    # 台北時間 14:00
+    - cron: "20 */6 * * *"    # 台北時間 14:00
   # 網頁「更新資料」按鈕或 Actions 頁面手動執行
   workflow_dispatch:
     inputs:
