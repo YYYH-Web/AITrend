@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-21 01:21",
+  "updated": "2026-10-21 05:44",
   "source_note": "Google News RSS",
   "items": [
     {
@@ -27,6 +27,14 @@
       "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE91X1pCeDF3c3dmYU1zbFVNdkdWdzRBZjV3YTNQVUFWd3VVRC1vY1dRalRVN1VIQ0Zod3hsZ0F5VEpQdXIzaDVqZTUxRGlGZw?oc=5"
     },
     {
+      "title": "是方虎尾AI資料中心動土 投資33億元2028年下半年正式營運",
+      "summary": "",
+      "tag": "aidc",
+      "source": "鉅亨網",
+      "date": "2026-10-20",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBXUkM1cFdqRUR1aHBCUUd6ckNrdzNfQXhiT0ZWYUVocDdFOFFULW15OGlrV0d3Mm9NUGdBUUw1MjB1aXBQcFZqd0VxTVJJY2c?oc=5"
+    },
+    {
       "title": "AI 需求在哪落地？全球資料中心建置進度一次掌握",
       "summary": "",
       "tag": "aidc",
@@ -35,12 +43,12 @@
       "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBPRzZXNGJRa0VHcDI1TXpIbVZ6VHByTERzYmF0dkFad1cwckt4THFtbWI4dzVTaTI5VGdIQldzX3hVNDNvdml6dTVBTG9PYjlERE9GUWdWcy1FTXZjVW9LdHRkTVdRRThzdFEzVy1GNVQ5cms?oc=5"
     },
     {
-      "title": "是方虎尾AI資料中心動土 投資33億元2028年下半年正式營運",
+      "title": "CoreWeave: AI Neocloud Panic Is Overdone (NASDAQ:CRWV)",
       "summary": "",
-      "tag": "aidc",
-      "source": "鉅亨網",
+      "tag": "demand",
+      "source": "Seeking Alpha",
       "date": "2026-10-20",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBXUkM1cFdqRUR1aHBCUUd6ckNrdzNfQXhiT0ZWYUVocDdFOFFULW15OGlrV0d3Mm9NUGdBUUw1MjB1aXBQcFZqd0VxTVJJY2c?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPR1NDYjV0LUtUbEdXbHd3ZmYwVHZneUc2M01HcmdnMlluemJuckVGQ1R2aUFoY1R1ZGRKMDZ5OHBNYkdjZEtRYXlNOEszTHlfeHRQQXR5S01wQ3gtQlp3X0x0Q2p1WHNBTkl4SzNBa0dkVzdoV2R3bWRUcEdmRjZ6emFpWQ?oc=5"
     },
     {
       "title": "Creatio Releases The State of Enterprise AI Adoption Report: An In-Depth Look at Where Enterprise AI Stands",
@@ -57,6 +65,14 @@
       "source": "Engineering at Meta",
       "date": "2026-10-19",
       "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQb0hwbjRNOXVvZy1iZGc5S0RZaHE5dXZIWEcwY0o4WEJyTTM2OTkxRjN4RHNweXJ5enluSVJBMnNvM1V1WW45XzFId3VWSVV3V3pyS0pFcExDOWJyOEFaaXVXTm02THEwR3dNZ0pOQm9zLTRpUGpIMDN5T0FncDlacTJGVDNvekxaOWUzRm54Ml9SaXJoTGxCVEFTeEhzbTN6OVlINkRLMGkyNmNEZk92SnlhMA?oc=5"
+    },
+    {
+      "title": "Meta to Build C$13 Billion Alberta Data Center, its First in Canada",
+      "summary": "",
+      "tag": "aidc",
+      "source": "EnergyNow.com",
+      "date": "2026-10-19",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOeHpJcTRfS0hLbWRWNWpadFdJOHZBaFNyUTdaUkh5ZFRSN25wTGRwNHBRZXRwVHBXR3ZQRHhWZXJ5MjNVRG5nZzU4bE1wc2RlRWhPdF9BdkNtbk9NTFNveXRvNTNoaHJheFV5SG5LQlM1Vzg3M1VWZVFYUGFiLVp4eWYxaVctcHkzdGxRREpDTnJrQnNLcC1XQlllQkc?oc=5"
     },
     {
       "title": "Top hyperscalers likely to have more AI-linked debt than now known, S&P Global warns",
@@ -89,6 +105,22 @@
       "source": "TechOrange 科技報橘",
       "date": "2026-10-19",
       "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE8zLUR4em0yLVRfYmlMamhMV0Jxc3lUbE5xZldCOHFOUE02a0p3d2NUTGplR3NoUDZnRlpXdUg0X08tMl82X0o0elRBNVRoTFNWMWRmVUZNUWdtR3VXUWtSa0xveTlqcWxyVVVfOFM1dGdySGpja1hCV1pFUTI?oc=5"
+    },
+    {
+      "title": "AI資料中心高速傳輸需求爆發！智邦800G交換器成焦點 9月營收403.99億元、年增66%",
+      "summary": "",
+      "tag": "aidc",
+      "source": "理財周刊",
+      "date": "2026-10-19",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBSSDhqVEJEdW9vZnd6VWFCYVRiY0RaS1ljSTgydUlXLVF2aklGdGdNUTBvWFd4VTBCOEJ6UkhQMnNtaFZoc2R1ZERXQ0NtRlp0U0Zqdzdlb2M2LWJUNm1PaGk5Z182eTB5VmUyU0Z3VQ?oc=5"
+    },
+    {
+      "title": "AI資料中心遭遇供電瓶頸 微軟退出英國Nscale合作案、50MW算力建置計畫生變",
+      "summary": "",
+      "tag": "aidc",
+      "source": "優分析UAnalyze",
+      "date": "2026-10-19",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBKZDdtV1ZmOGdxMjVBdm5yWGlYWk9wbnNubGxwWmtoRy1NVG9ma1gtM0hBV2pSdzFNMWlBWUk1WG9OUG1yQTJVbFlwclJLVXpnUk9ndHFB?oc=5"
     },
     {
       "title": "UBS says neocloud sell-off does not derail AI boom, favours hyperscalers and chipmakers",
@@ -163,15 +195,7 @@
       "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNVVVydlVtRDNpV0d6X3JIZlJENk5sSzU2YmlWYlBvRFllQTBTRjZEMk9lblVPMno3aG9Jc1NRRFlhQy1IdktiVUUtM1JoWEI1UHVlV1RuaVp6WDBaS01rTktSU0hLZE82RkFPaWI5ekk0TU04RHphakZKbGtmNmVLWFJGRGkxbkNsdFozNXBudC1ObjIxbjNDdUtYSHVVRjdqLUE?oc=5"
     },
     {
-      "title": "Why CoreWeave's troubles are rattling the AI boom",
-      "summary": "",
-      "tag": "demand",
-      "source": "Reuters",
-      "date": "2026-10-18",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNX1N4UnFOUjBxRjJ6TGVSaG9QaWtYRkJlVWJmcXprZ2VTY29DLWRXeHJGSFdvRC1lMENRUmlpZGRUZ3NXWm5pNkJZbWZOcE84VVRTOHpGS29QbC1QQUtFUW45NmIwVmQ5NHpmOW5OREFEVW9ocGxGcC1wdmMzaUU2V3poemZRekxlSmRmTE85cngzSnFPeWV5bUxxS2VOd2hIZVE?oc=5"
-    },
-    {
-      "title": "Germany's New Robot Billionaire Is Betting Big On Humanoid Gyms",
+      "title": "Amid Humanoid Hype, A German Billionaire Is Betting On Robot Gyms",
       "summary": "",
       "tag": "apps",
       "source": "Forbes",
@@ -227,20 +251,20 @@
       "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5ZVnR5M1NYSVUxVDJJQmlKQUJvYk1pWS1nSGNyUm85ZnhJSTJ6bXlkTElnWVZvVE5hTGpkR2hzb01PNHpKRFg2MERwTnp2dFZMT2VpOG4zV2tEM2h0dmlWWjc5UzRhM3F4ZWk3MUdUUEx5MHhyWkE?oc=5"
     },
     {
-      "title": "WFE to the Moon (Still), Semicon West and OCP Insights｜The Circuit",
-      "summary": "",
-      "tag": "products",
-      "source": "finance.biggo.com",
-      "date": "2026-10-16",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9yU2lQQl9PNlVKb0ZQTEFLSDRyX243Z2xXRnItcDZfWnprdk0xdUhpOGxwSjlLS2xfRnZ5TmlKOVEzV2FocEtyaTRaT0ctWlJhWXdvd3pPSzdYOTFtWl9v?oc=5"
-    },
-    {
       "title": "The hopes and risks of bringing humanoid robots into our homes",
       "summary": "",
       "tag": "apps",
       "source": "PBS",
       "date": "2026-10-16",
       "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNci1DNmNrRGc1RWl4b2piTnc3cWlUaWhsRlpPdnJZM1gwWlNzdnZPaEl4eUZpdWFLWk9xZXBIemVSRk5HZlNVQ0p1Nk56NVJNaUFNbU9XSGc4U0FMdXhfNzdSdktZUWZsNDIwbWFMa1Vyam5BUzhVdjQxc0tfUDk1VksyYXcxU3JpcmtfQXQteTkzYi1mN09uYlJ2OVJTYmVmOGJXQ1NJUmw?oc=5"
+    },
+    {
+      "title": "The Agentic AI Era Is Here--Enterprise Readiness Is Not, New OutSystems Research Finds",
+      "summary": "",
+      "tag": "apps",
+      "source": "Yahoo Finance",
+      "date": "2026-10-16",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPTWgxeG56dXIzZkNhRl9KeXEyemN4SU9tUHlWcFJEYnNmcG5kdGFzMGNQYkdoTVlaRDlWMy1nQllDMDY3MnJqc3h2dDBYY1Axa0h0b0xoaFdnaHp5MHdXcTBERC1BNGcxdGh6azZRcFA1LThWRTJSLThLWTlUR1VqdjNoV2FfdzZlMWI0aU1MMl9BYVA2bHpmU2tob2xpY3Jl?oc=5"
     },
     {
       "title": "Fact check: What’s true and what’s not in Michigan’s data center debate",
@@ -275,36 +299,12 @@
       "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQNmJLU2FBQ2tqY3VEdkVrM3V2SHhWenpEdEJGTVlhVXctNWc5bUF3V3U0NHBUVlJHRjBMOVpGUi1TcnFTTzJlUHExWjNQNVUyMTNlUVgyQ2ZrZDRkUGY5bnlzd3FLWkxldDNLSnBOSjVtVUlZeUhlb0pvYjBSZTMwdGNFeDh5MmNjQ3pUQWVuNHFlV3pQUzRaVlIzQ2VnVjFi?oc=5"
     },
     {
-      "title": "籌到錢只是第一關！馬斯克揭 : AI資料中心想建置「這3件事」得搞定",
-      "summary": "",
-      "tag": "aidc",
-      "source": "自由財經",
-      "date": "2026-10-15",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBXWnpPMldxZXAybUdfakcxand6N1l2bHBKSHVJVnBoZnNrNHByNWtuRVUxMFJ2dHUyNjcyRDlma3c0NDBKNVRSNXd6X3E1Ymk0TWEwZTNKZmNFZEJNc0FF0gFkQVVfeXFMTUxIU18wWDgyeFdqVEdkb21pSWp0UlRSTGtHUHg2UzUyenpoVjZ3Z3Vkdm1rbkNJN1pMZXA5TW5QbVBvc0dhLXUzMkRZRkN2dThINUJMa0NITVdaQWRlN1dzdHFiYQ?oc=5"
-    },
-    {
-      "title": "廖明輝專欄》美國AI資料中心受阻 台灣搶快的代價高昂",
-      "summary": "",
-      "tag": "aidc",
-      "source": "中時新聞網",
-      "date": "2026-10-15",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBiNks1cnRKbmdkYUZjRm5ZcDVHbUN0cHB3TkF1dG9zYnRmT2l4QUY4TElQbkxGT3N1Z2tXeE4yZGtVdWZzR3hrcUp0cnRxRnVoTkJSb3I1a1FBd2xvOWZXZWRPUl82Tzg?oc=5"
-    },
-    {
       "title": "Investors temper Anthropic IPO valuation expectations over revenue growth slowdown, sources say",
       "summary": "",
       "tag": "demand",
       "source": "Reuters",
       "date": "2026-10-15",
       "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQRW4tSGppV2U0ZWtvaXBsQmlyaDVVLVFCSmJNMWdmMHpod0FWd25kUXRNQzFvZXJPTmhoQUNvMlFrQzI3NjBQVG9McWFPRHdUODhMbVItOGg4S0N3ZmJ4R2psZVd1aWFZM2M0aEY4R3VaYnFZWUxhOFZiRXAxTnc5UG9hMm1ERGpKbURkX3BWYzQ5UWl3THBFTDhWUWR0SVhUSWJsekpMZjM4OUZRQl9BVmY2djVKRENDSldCSUpOWmdvbHVK?oc=5"
-    },
-    {
-      "title": "Anthropic's third-quarter revenue is said to hit $16.8 billion ahead of IPO",
-      "summary": "",
-      "tag": "demand",
-      "source": "CNBC",
-      "date": "2026-10-15",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPb0pwUi1KVnA2SDhrZ2tkTlhnMkpEWU9HTTRacWpHUDl1aVhzWlNHLUpIWUx4MjQ2dFNfd2VJZTdDbUVtV3hCVjRDVDhncnZZWDBEZVdjZEQtcVNaTFRvbWdENmVQZkdRYXkybW9ucllJVy0wLUtERjN3c1A2M2pDaktKc0tJSEIzMTFDM0pQYWR5a1ZCeTNoYzFRSdIBoAFBVV95cUxOa09ZVHMzLVc3Rk9sRFhSRGQ0NkFSYmZuLUpLQjMyY0hYRTI5bU9rNGk5VEI1a2t3MFNHNThMTlZyVFhTMFgzMDlqdVI3WkNCUDRFdFphTXBFbHl5ZDV6d3hrcURESmNJQWFiYVJzaTItVWJiV1NSbTN5Y2ZoaEZfWTd3RWlXMWlYX0dQMHQzYlI4Ym5mRzkzdy1KSU9yQXNk?oc=5"
     },
     {
       "title": "Anthropic’s Quarterly Revenue Jumped 45% to Nearly $17 Billion",
@@ -315,12 +315,12 @@
       "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOU2M4WXNsVVl6WXU3NlpOdDVOSGdxTW9rT2RGWnRSRTNpMmM2WXlRMEIzLXlFbzNIdk1jOFBOWUJ0UXhraF9rMWRmZ3p5MTVyYVZhdlNTdjRETXdKR3NxZ1hENlE5WlJRNU1yYmxuR3k3bm90OEh1M2JQSnFUenFtdE5vdVZWb1B2R2xqbkJnTjBfVFRmNWFPZlFlVEo?oc=5"
     },
     {
-      "title": "Anthropic Q3 revenue climbs to $16.8 billion: Report",
+      "title": "Anthropic's third-quarter revenue is said to hit $16.8 billion ahead of IPO",
       "summary": "",
       "tag": "demand",
-      "source": "Yahoo Finance",
+      "source": "CNBC",
       "date": "2026-10-15",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPY2pzTHJjWlBCcmx0RU9QNnBBLW16ZmNLS0RqMHc4NlgyalZhU09Eel85SDFTLWlpVTVQVTZYT1AtTUV2MXVWVnNyU3VsZmVyMVBaYzVuMDlYNnNyUnhzaUM1U3YyVklEVVZKSVBuZ25ZSllpRmZTbnRHdDZ0ekZCQ0hxaUNONXpYa24tUEtYNUxtWWhXTVhRSzRXSWhOMkh2THc0LWQtbTRKQjZJbGc?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPb0pwUi1KVnA2SDhrZ2tkTlhnMkpEWU9HTTRacWpHUDl1aVhzWlNHLUpIWUx4MjQ2dFNfd2VJZTdDbUVtV3hCVjRDVDhncnZZWDBEZVdjZEQtcVNaTFRvbWdENmVQZkdRYXkybW9ucllJVy0wLUtERjN3c1A2M2pDaktKc0tJSEIzMTFDM0pQYWR5a1ZCeTNoYzFRSdIBoAFBVV95cUxOa09ZVHMzLVc3Rk9sRFhSRGQ0NkFSYmZuLUpLQjMyY0hYRTI5bU9rNGk5VEI1a2t3MFNHNThMTlZyVFhTMFgzMDlqdVI3WkNCUDRFdFphTXBFbHl5ZDV6d3hrcURESmNJQWFiYVJzaTItVWJiV1NSbTN5Y2ZoaEZfWTd3RWlXMWlYX0dQMHQzYlI4Ym5mRzkzdy1KSU9yQXNk?oc=5"
     }
   ]
 }
