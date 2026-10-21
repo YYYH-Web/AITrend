@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-22 01:24",
+  "updated": "2026-10-22 05:51",
   "source_note": "Google News RSS",
   "items": [
     {
@@ -9,6 +9,14 @@
       "source": "數位時代",
       "date": "2026-10-21",
       "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQbWpqTHBzTGJyQWRJZlNQVzBXUENJSzZxUXlKZ1o0TUNFNDNaa0kxSkM2RktzSVdYYmtoYzJwU1U3MkRRUzZNZFU2NmVUMlBkdHJ3RUpvcl9uakE1emRnTW1GbFZtc3pad3lyWVhfTGNTTHVoenhnbXRQOGp5d3N5R0NIODZfZmtXT1ktOERuY0Q3dw?oc=5"
+    },
+    {
+      "title": "GPU cloud for small businesses: Comet Cloud's plan to scale",
+      "summary": "",
+      "tag": "demand",
+      "source": "SiliconANGLE",
+      "date": "2026-10-21",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNcjNidnFsajJQaW1BVkQyRTZOZjdzSlg2WDkxZU9tT1RJS1lGWVV3QWlKX0NqSll1NU1OTnlVM0RNdWhvb2VDTDZnX19KRWotRm9EVGkyQldkWGhiSUdjZGJiMmpMczRiQ0tfTHZPa3BNejhNVW56OUlqM1JveEEycE0xaTh5eWduNzBTNTFlQ2ZDdVFvdUhISE5nZUxaWno5MWwzTUlCV25sNS1zNEdRRTJjbw?oc=5"
     },
     {
       "title": "NVIDIA HGX Rubin NVL8 Is Coming This Quarter | CoreWeave Blog",
@@ -67,12 +75,20 @@
       "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNOW9oZDl6NnR5VmdTeEF1X08ydkFyT2NERml0MjZ3SWROOENHVzNJbmFZNHRfOWtVejZuSHl3dE5uM3dIang4dFhsa2c5YmNFaU5yQ19hdHRQUzVxSWpSNWxkZEVBWmxSMWgwbXI1YXlxR3JrR3lvU3BQVE9oQ3NXZktBTVFxc1FwQVNhUFhhYk1OMHdNT0dmY2xjNzdSODVWcDdUeWktZ2dCOUtUNXJ4aUctUG4yZk1NekZiQXdiR3JIUmwtQjY3ekpJM1hiMjlwVXdURE5VZTY0VVVQ?oc=5"
     },
     {
-      "title": "Meta’s 1-Gigawatt AI Supercluster Reveals New Challenges for Data Center Partners",
+      "title": "US restarts three shut-down nuclear reactors to feed AI data centers — 2.25 GW coming online with backing from Microsoft and Google",
       "summary": "",
       "tag": "aidc",
-      "source": "Channel Insider",
+      "source": "Tom's Hardware",
       "date": "2026-10-20",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNWWM1eEZVQ25mOHBQb21TaTNxMFl5TmEwRkt1ZVlFRllFX2kyVzBzT2loTEUyRDYwU2JpaEE4Rmt2Y1hLQ2NuOE9KQTE1bk1nc3dzSGpzN1MxajAxczZWczh5dExCSG1pYXVhQ3VmaDRpVUUwdWdkZFBFVzJkOGkzNjVwRkNFRmxySjVGdjZRbWRHZHVF?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMilgJBVV95cUxNTHpfb2xWQzdpX0Q0Qk9aNVBPYzhtLWNwMFZ4YUE5NXhrMEpvMkRNNmJPUkdvRk1RNjhkWTdwQUpGY3g4b2d4SGxrR1lKUWF3ZU1vT0RGN0FnRnZjZ0ZIeGFxaFVfQlh6YjNBN0hyR09HWjZ0bXZrYWM2WlZRRzhzZ3psVWhnVVgzREcwZGZCeWxFWlViRjhVSjM0R0lWS1psT3lmN0c3TkxxQUY1UVM2VGZBU2NHYWctSnUxVE1lejgzVDBBYnRhNnBnSFAwbUVITC1vUXJKQnhKNVVDTlFmdHllMXVVZFhndy1XYW5DYXAyWHpEbVNFNTZMNkxvN0daSndUME5jYmVuOUJ4U0ZmcEh2R2FYUQ?oc=5"
+    },
+    {
+      "title": "Venture Global plans off-grid AI network in south Louisiana",
+      "summary": "",
+      "tag": "aidc",
+      "source": "The Center Square",
+      "date": "2026-10-20",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNV2JtRVJZQXBLaGRTcFY5ZzZzcHN5Ri1pZ3dkUjRWakQ4dlZjdzNucFhMb2ZfLWFjaWd3WFFnZkRaV3JyZGx1cE8zSnFoZ3BMN2dpR3RVZWNYUDR4VEVzSEtGakRZQkQ4d1duLXJESEl2UHJJMC16OXVyZEt2RWQzRUxxYnQzVTYyNTFzRERVZGgwM2oxYmfSAZsBQVVfeXFMT1RpTnJVUEpXaU1janFINUFmc0FXSEc0TFlvWVlrOTRaM21pZDdoaDYzdUNDclpDa3JNRktuZlhPWmZRQWhrd2lsd2w5N1RGWHVWY193VnlCbnpLYjFfNC1vYnNlYTk3dkNKdWVuQkl2MWtOTWUzQWFkNGVQcjV1XzYyV1kyLXoyOG00U1FJd0dEdk83X2VIeGNQUm8?oc=5"
     },
     {
       "title": "Hyperscaler CSPs pile on the capex",
@@ -83,6 +99,22 @@
       "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNZ0J2d0hMM1hNNnhYQ2cxcC1ZYXBPamdNTFhUN0pMR21adTkydmc3OEVKekxBSmJ1eTdJS0N5aWUxRVhTckhkZGFTTENGTkVzR0pFQTZEa0V3YXhRWm1Ra1BRUmNUa0Q0NmJCeUVxTkJuOXZHcF9STk1rOWFzQngyREpVaGxLYWJ0SGVpb2dNRWRPa2FncUE?oc=5"
     },
     {
+      "title": "AI chip stocks bounce back as hyperscaler earnings loom, META equity raise in focus",
+      "summary": "",
+      "tag": "aidc",
+      "source": "24/7 Wall St.",
+      "date": "2026-10-20",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPVDBqcUlXdU5sa0R5OWFJdnJNSmUzOW9ONWIxejVfTnJZTkxPbjlsV3l1TER0Ti1neGwwT2x1V2VyQnF2RDlaUkQyOU4zUkxXNXBjUWhvcU9LOXFHUnJUSnVJOHBNd2VtcUxIWjdZd3c0RlUwdE03QVFRZl9JVjBWT25NN2xzV0tvTldtc3dkdk04VXZ4MzFrMERULS1PY1g0ZWJEZ05WQ0tNRy0xTk5zVVJaSE1KeWVzeEcwWlVVb3R1LXBo?oc=5"
+    },
+    {
+      "title": "是方砸33億元打造虎尾AI資料中心，串聯臺北與日本石狩布局跨區域AI基礎設施",
+      "summary": "",
+      "tag": "aidc",
+      "source": "iThome",
+      "date": "2026-10-20",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE91X1pCeDF3c3dmYU1zbFVNdkdWdzRBZjV3YTNQVUFWd3VVRC1vY1dRalRVN1VIQ0Zod3hsZ0F5VEpQdXIzaDVqZTUxRGlGZw?oc=5"
+    },
+    {
       "title": "AI 資料中心用電需求攀升，能源白皮書揭接電、儲能與能源調度三大挑戰",
       "summary": "",
       "tag": "aidc",
@@ -91,36 +123,12 @@
       "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNY2JLaHd6RzlPNG95d0FxSE43c1p3V0VIMGdDcnppb0JNaUJ2SS1oWUhUX1dBaFJGdURzZGdIMWlCSUh2T25WUUs1NXJrMDc4allXV3FtV2FJLUczX3FueHdRVnY0bzJSRkxXSVlGMW1tYjlHa1VKOEQ4RjBOaURpY3hGWUhoOWVac3EwMEhuQzRaZnpKWUF6b0t3bVNFeGp2WFpYWWVxeW5jWHlwblJ2TXIxVGhBSkVZV0w4Tjk4Mm1JRWdXUjkxbER4dG5XWmFqVGhxNGxuWUxfcmQ3ZDQ2bGNRZXpybVRGdE56OFVzdGJua0E?oc=5"
     },
     {
-      "title": "是方虎尾AI資料中心動土 投資33億元2028年下半年正式營運",
-      "summary": "",
-      "tag": "aidc",
-      "source": "鉅亨網",
-      "date": "2026-10-20",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBXUkM1cFdqRUR1aHBCUUd6ckNrdzNfQXhiT0ZWYUVocDdFOFFULW15OGlrV0d3Mm9NUGdBUUw1MjB1aXBQcFZqd0VxTVJJY2c?oc=5"
-    },
-    {
       "title": "AI機房爭霸2》中華電信再蓋台中AI資料中心 證交所先卡位",
       "summary": "",
       "tag": "aidc",
       "source": "民報",
       "date": "2026-10-20",
       "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1DZ0VFWVdJQ1BDQjltMTNfVUF3SlJtOHZFRzlxQXpJZ3JRVnAwVS1ZdTYycnpnM21iOGtQZkkxdzRaVE9henZzZ1BXZVI0WE1FWTAzY0k4WEFaUkZlN0RScTM0dmM?oc=5"
-    },
-    {
-      "title": "是方虎尾AI資料中心正式動土 總投資33億預計2028下半年正式營運",
-      "summary": "",
-      "tag": "aidc",
-      "source": "Yahoo股市",
-      "date": "2026-10-20",
-      "url": "https://news.google.com/rss/articles/CBMikwNBVV95cUxQbk9wRlR2OXJZM0lJOTE0NEJlb08yMVF1MmdZSEEwd0Q5Y2t2VHppc0RTel9fLVNTelhTQmxJX3l6dHY2RDg0aVJWMnhGUElBQnVsVEE0bmxvQ1piaWlWc2UxSFczaGZHUl82U3VWVEFDNDdQRGV1OXF5aHd1d3lDZWlodTdFVXUxd3FvN3VCMkY1QzlyaWRZMHMzdDBaMk9vZjRVRDhWSmhsallyblRlbnVTU2h0RFlfVmwxOTh4Q1JCTy1GYXgtci1Qc2lESVF0c3Uzc2pxRFBVZVVEd29OYklUN2JROE4zOWZPRWNrWEN3RVNJbGlNTVdWUkZmVmhHbnlzUFlEV19GRUlGTEMzOTZEZXRRWXp0YWJ0SHVPSFlUa1VPLUdBOHNXSU42VDZSQUhsTWlKTHhZSVNWMHRzcEd6RUlGN0p0c08yLWFYeWFVR0JFdEN4bTIxaHNncnYtdWJOVVRiNWVYOVpNRWh1T1J5QkFNSFBET0E2UzlIOTBrOUxFM1ZPUi1VMnJhV0lPR1Yw?oc=5"
-    },
-    {
-      "title": "Exclusive | Anthropic S-1 Shows Red-Hot Growth, Risks and Massive Computing Costs",
-      "summary": "",
-      "tag": "demand",
-      "source": "WSJ",
-      "date": "2026-10-20",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5zTlFXZm1uRTJYSXlPWi1OWmJCSkdBcmg2dkRDc2ZiNmNNaFQtYmg5WFBiWUFQRFVUTms0T3hweW9ycWZ1SlljdlNFUTZuOGliSUpVNkpybnJaQ0p2bzBYWmgydU9MVVBQQlJKMGFRdEpCaWM?oc=5"
     },
     {
       "title": "CoreWeave: AI Neocloud Panic Is Overdone (NASDAQ:CRWV)",
@@ -243,12 +251,12 @@
       "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBKZDdtV1ZmOGdxMjVBdm5yWGlYWk9wbnNubGxwWmtoRy1NVG9ma1gtM0hBV2pSdzFNMWlBWUk1WG9OUG1yQTJVbFlwclJLVXpnUk9ndHFB?oc=5"
     },
     {
-      "title": "AMD, Nvidia RDNA 5 & Rubin GPUs Delayed to 2028",
+      "title": "Vera Rubin NVL72 MLPerf Results: 3.7x Over GB300",
       "summary": "",
       "tag": "products",
       "source": "shattered.io",
       "date": "2026-10-19",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFA2MEVyMU55VGpBTUZ1ZDhlYkRHc0hvV2tXSVNaeFFaSWhkYUtTMzlKblJuY2xudGlKdWpENHA0VVVaekxQYVBab3YxNlpJWDJELUptcXRINUlCRzRBRkRMYjkyRmtLQTQzN1BfR0x1bkE?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9aOTRKQUNQMjYyNTlqUndPc2dPVjVKOGRoTzN1MGdzdXQ0OFJxaWNzZGpNNWZtYWQyaW1HYVp5bnppSEVqNElGcGlPR0V0SVRQNGtXYjIxZ1lfRHJKcERZZzVxcmJfczRSeDQ0ZEdZQW5YS2M?oc=5"
     },
     {
       "title": "Meta Prometheus: Inside the Gigawatt Supercluster Scaling to 1 Million GPUs on GB200 and GB300 NVL72",
@@ -313,14 +321,6 @@
       "source": "The Information",
       "date": "2026-10-18",
       "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNVVVydlVtRDNpV0d6X3JIZlJENk5sSzU2YmlWYlBvRFllQTBTRjZEMk9lblVPMno3aG9Jc1NRRFlhQy1IdktiVUUtM1JoWEI1UHVlV1RuaVp6WDBaS01rTktSU0hLZE82RkFPaWI5ekk0TU04RHphakZKbGtmNmVLWFJGRGkxbkNsdFozNXBudC1ObjIxbjNDdUtYSHVVRjdqLUE?oc=5"
-    },
-    {
-      "title": "Germany's New Robot Billionaire Is Betting Big On Humanoid Gyms",
-      "summary": "",
-      "tag": "apps",
-      "source": "Forbes",
-      "date": "2026-10-18",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOTV92MHJ5YS1PelZJX2p4emV4X0NQX1lNRTNlNGJ0X0ZyVDlsZVpPTk8yTDNseGN3T1RJa090RTBRT0t3Zi1GLVhJQWk2eGxHT2poRkFxX1F3SDduaXExZlFENXU1UFpHYm5qNW0tQ1BORWphaUpxRGtxR0M0SjVNa19SakNWXzdoT2s0WkFLdVM3WUxkR3A3VVBLV2FLdlVmOVRlZFFYREZJUTFoS21rUm5mREt1eW1La0E?oc=5"
     }
   ]
 }
