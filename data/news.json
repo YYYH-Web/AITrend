@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-22 20:07",
+  "updated": "2026-10-23 01:21",
   "source_note": "Google News RSS",
   "items": [
     {
@@ -11,6 +11,22 @@
       "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPVURSZnJ1Z2UyblRvRnlvWXdXenlHaWxxN3B6VUc4ZlNfYzhuaUg2Qko0TTFCOUtXYzBOT0NrQ0xJRDM0T1FQM1cxTm5Dd05sSzRyazR5ZUFJYk1PWHdvRDRveDROOUxNNkEybDlaT2NuT1YtQjVTcFRGbU1ha0xmVncxRnRuNXpadHpkYmNRdjM3ZzBqU2o3UkFTX2p6b3M?oc=5"
     },
     {
+      "title": "Nvidia CEO Jensen Huang says neocloud demand is 'off the charts' but capital is scarce",
+      "summary": "",
+      "tag": "demand",
+      "source": "CNBC",
+      "date": "2026-10-22",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOeFpCR0VMTzFlRUJkdkNibEY3eFhBT1lxSkVFckRzUkFsRE1lcFRHNjVqWnB6TnYzcFROUDNLUnRCOWFLM01WbEdDRV9sN1B6cDZuSXFqT3FiSEpVLWhWMzlrYTNPTFhHU054bC1oM1FKRmY3QUtEOEFmNGZCTWxlVVR1S0g2NGfSAYwBQVVfeXFMTmlvdTlxcGJUOS1aTDdYbzRvSU8wTHZZTERSTXRaZFA3VDVfSkoxN3JBRFA5aVkwSFFkS1dLZW1pdlJWRzRldy1FN1IyT0xxVW9jRTh5ZVhyaFRSYWZYNzZ5d1hicGhKVC1wWHFwdFItOHlpeGZGLTVJcXZoWHFoRUJOWjNTZXI0dGVwNWk?oc=5"
+    },
+    {
+      "title": "NVIDIA Propping Up Neo-Cloud Firms With $171.5 Billion Support",
+      "summary": "",
+      "tag": "demand",
+      "source": "조선일보",
+      "date": "2026-10-22",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNS19qQ1RVbDRFVW5NTHJqeVlQSUU4TTZRU3hHM0hqTFVZZ1hTQmswNDlsRTU1VGRCRXJCUDFkRU9mUlJ5elY4U2ljaE9RM0JlOHNCRDNCZk9GREJNb3dXbWdIM2ozdkpHcFBFVXFVZXdYSlNrc3N2NEpmUjVjZ1NzSVlmNG9IYklE?oc=5"
+    },
+    {
       "title": "Nvidia's Huang: Neocloud Demand Explodes But Capital Dries Up",
       "summary": "",
       "tag": "demand",
@@ -19,20 +35,20 @@
       "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPVS1Ia2IzcVROYmk0ektyejY1ZmFZaXdPVlRvLW9pUElqNXpiMEZ5Q3FJNDhPdlBSNm5IS3ZCdUNMNWZlUGY5TE82RllwMHhoNGZFZjJuc0plTzRIY0dvbDdxV0cwRm83RWt5eHd3RjA4OVNQY01RaGpCRzBRSW5HQXpSMkNWdmR4VWxpS3NuN185RHhIYzRUSQ?oc=5"
     },
     {
-      "title": "Nvidia's $230B Lifeline Sustains NeoCloud Amid AI Risks",
-      "summary": "",
-      "tag": "demand",
-      "source": "조선일보",
-      "date": "2026-10-22",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQNmtsdXpnYWRSaUdTVmJSVUdfUk9BTUJ2QktQd01GWDdjVHY2RlFOM2dpUXAwSExFMW94czgxLUFqak0xYndLTG1fWWNGYl9rVV9UcTgwTmFDQm81b2Y4SlY4V1VlVHZHMVZVb2pOdkJyazg3TXRBSWNuaHRGS0NVZ2lCcy1pUk53?oc=5"
-    },
-    {
       "title": "Nvidia Vera Rubin infrastructure now generally available on Google Cloud",
       "summary": "",
       "tag": "products",
       "source": "Data Center Dynamics",
       "date": "2026-10-22",
       "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPbk1YQUU3eWJUWVFONjVzR0lJaVhzUTRHQjMtNWdwcmdGc2kySUFMN3NuVk5xbU5yaldkLUt2WFlNQkVFREp6SVYwZzZTWE9meXdGY2hlU3NpZXIta2VwMUlna1BLTlBYUlJPd1Mzc0lfODJwX0lFcTBfaC13eDIzWkYzcExqUVNwVEEybnMwelhCZjJIQzRHcnNWWXdpN2ZhUFhzR3NvaFBqQzI3VkljQW9KdkpkaUU?oc=5"
+    },
+    {
+      "title": "NVIDIA To Connect 576 Rubin Ultra GPUs Using CPO To Create One Giant GPU With The “Highest Performance per Watt” on the Planet Next Year To Drive 10 Trillion-Parameter AI Models",
+      "summary": "",
+      "tag": "products",
+      "source": "Wccftech",
+      "date": "2026-10-22",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQZlRUVldncGYtYUJsejVHVXJJX0Z0SXZoVlcya1c3ZUQtLWpKY1Rwd0gxUGttVWxTUUFSZlpoUHJUSHJWb0tLRWNmZlExdFdoYjZDZ1gxNE8zSXdLNjB3SjQ5WHJXdjN6OGhmYnRUNHZhSVdsZVJwT0JrbklsN2pmeWdwSno3MDJ1d2hQNm1uX09hUXdKbG1OZUlDUlFvSXVWOVZqZWNwcFU0azRuRjdZbHBDRExYdVVF0gG-AUFVX3lxTE4wT3lUU2pIak9qQU9SYlpocHoyYjBIcFNiSFVUTXM0Nm5uSllYVDYya0Z5dnAxcTNyZ2dFeUFiZVRDZ0p3NlVWWnFnaEp1OUEyRGZ1LWctTTBBRzc4aW9Qd1YtamI4eVFhaEdPYnNVLTFSdTR6TVNmZmJrM1JHY2thaHpscGJDekJGZkVhN2VnY0dscEt2U0QwZ3JtT2REWjkyRDJaLXBXRGQ5eHR5SVVUaE9hT1ZhV1poQ1pSV3c?oc=5"
     },
     {
       "title": "Key facts: NVIDIA Corporation forecasts 3M GPUs 2027; Vera Rubin NVL72",
@@ -59,6 +75,14 @@
       "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPZXJxR016cUJBeUpFdGdqUHZDOWx5S2VfMzVGbWZYdS1QYy04cjJKM2k3NnJyQ0tyZDloRDBfSGFCd3FjU2w3OTIwanBhTktCb3lwQnZwODU0Y2tOSlgwOUYydTNFVmdzTVhvNUh4Y2gtako5U2k5S2MtT3JBT29iMS1UTC1BSEZXTEtyY3ZoY2o?oc=5"
     },
     {
+      "title": "AI Adoption Outpaces Enterprise Governance, Raising Data Security Concerns",
+      "summary": "",
+      "tag": "apps",
+      "source": "CDO Magazine",
+      "date": "2026-10-22",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOcUhTVkFLUzVTd0JtYWk1Z2NFbUlfN1oxVTB4TURQOWJGQVBHQkNwQVR3X1J4cUMyXzlKN19sTDZJZHdvc0hPM3ZaMU9mcjVFTUt6TlBsbHJEemNIYXpBNU9oUnpTeWxnLWpPdU52Nm54Ti1aSy13OFo1V2pSLTBiM2oxNTZ1cElQaDl2NHdzVnZiRXhaSmdjRXRoNW11RS1yaE80WmxiczJESjQ?oc=5"
+    },
+    {
       "title": "Why Managers are the Missing Link in Enterprise AI Adoption",
       "summary": "",
       "tag": "apps",
@@ -83,6 +107,14 @@
       "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQbWpqTHBzTGJyQWRJZlNQVzBXUENJSzZxUXlKZ1o0TUNFNDNaa0kxSkM2RktzSVdYYmtoYzJwU1U3MkRRUzZNZFU2NmVUMlBkdHJ3RUpvcl9uakE1emRnTW1GbFZtc3pad3lyWVhfTGNTTHVoenhnbXRQOGp5d3N5R0NIODZfZmtXT1ktOERuY0Q3dw?oc=5"
     },
     {
+      "title": "Two Customers Account for a Fifth of Anthropic's Revenue, a Concentration Risk IPO Buyers Should Know",
+      "summary": "",
+      "tag": "demand",
+      "source": "Yahoo Finance",
+      "date": "2026-10-21",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNLTZDdmhxaHdYZDBlRzBTSENHbEFFS0ZGdXdKTzQ1MG1VQW8wWS1oWWlWSDlrYVV5SGN4LTJQUlFvTmx6akJXZDVsakNlSXd2dTNwWEtZRU53SUNfa3U1RkprbGJERF9vZHZwN1R2eU1wR1hDR3dpUS1xeVJmRUt6SVFXeUFfRk9zM2h4UTFrYXlhYmRfeEVjZmdBTnFvMUxCWVFteA?oc=5"
+    },
+    {
       "title": "Anthropic posts $80bn loss in first half of 2026: WSJ",
       "summary": "",
       "tag": "demand",
@@ -99,28 +131,12 @@
       "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5fTWd2NkxkQ3U5XzBnd1MwYWx4Qk5hN3dCenBUbDhVdG1MMVNnQlhxZmJyZkhTQjBtUmZJRGlDazZxd0poWHdyNlhfUlJYWTJfMC16SThVS2ZDZGdkY3lCbWdycVRjcEl4WTdsYlptNzRUbEMtRDVfWEpZUQ?oc=5"
     },
     {
-      "title": "Two Customers Account for a Fifth of Anthropic's Revenue, a Concentration Risk IPO Buyers Should Know",
-      "summary": "",
-      "tag": "demand",
-      "source": "The Motley Fool",
-      "date": "2026-10-21",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQWXg0M1Zkc19WUGk2Y29ZRGF5S1VoX3lKZmJWR3RuMTZSV2p2UjlEZ3V0TW9OdGwyU0c0UjRsX1hYdFJ4aHpiSkdZMExrVmpzQUQ1VGx3cU0xV3N2TGg4Y1ZoODBtaDM4U1JMUm5GX1NuVVE3QmRvbWF1X2x0TGQzTEJfbTFBbVg4M0JxYUYtNk9TZ3lZb2lCMQ?oc=5"
-    },
-    {
       "title": "Anthropic revenue hits $16.3 billion as preliminary S-1 outlines IPO risks - WSJ",
       "summary": "",
       "tag": "demand",
       "source": "Investing.com",
       "date": "2026-10-21",
       "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPV01vVFJFczZpUUJmOFVadllTVFFKa3VpRHRNN1RUeXNxd1d0Y29rTXFrWUh3OHJPWTJDc2pjYmtJTXdhSUQyWFNBYy1PZk9vTTdzQTg1UV90R2QxNlp5cHAya3BUdkVYdkZmZnBObFNhNTh4YW4ySVk4Ri1SUFlQQ0pzNVp3T0xYMXBab05YZUlmVnppLVFFSFM5aXZyRUd2bS1jZUhsXzVVVTQyN0YzaFFrWFlZWm1yQVVhN0NRc2xmeG1FN2hFb0stY3dWQQ?oc=5"
-    },
-    {
-      "title": "GPU cloud for small businesses: Comet Cloud's plan to scale",
-      "summary": "",
-      "tag": "demand",
-      "source": "SiliconANGLE",
-      "date": "2026-10-21",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNcjNidnFsajJQaW1BVkQyRTZOZjdzSlg2WDkxZU9tT1RJS1lGWVV3QWlKX0NqSll1NU1OTnlVM0RNdWhvb2VDTDZnX19KRWotRm9EVGkyQldkWGhiSUdjZGJiMmpMczRiQ0tfTHZPa3BNejhNVW56OUlqM1JveEEycE0xaTh5eWduNzBTNTFlQ2ZDdVFvdUhISE5nZUxaWno5MWwzTUlCV25sNS1zNEdRRTJjbw?oc=5"
     },
     {
       "title": "Google Cloud infrastructure at NVIDIA GTC Berlin 2026 | Google Cloud Blog",
@@ -163,14 +179,6 @@
       "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOR3JTc1VMOXpkNFdBam10d21hV2doQmZwNk1LSEU1UjVDQThjY1h0T3BuUGdXSlZTVHZiYVgybWFuS0l2d3RGZERCdUxoREVCazQ2QUdqZ082UWdjcV9xakNxX2ZXX3pHamlNU1Q2blhTTHdHS0xkbjAxX3paQWRqZ3FnMVFKNUU2bGxnQjdleWw3Mlg0Mm4yYzhaWjlsVXBpVE56OWFDMA?oc=5"
     },
     {
-      "title": "Nvidia debuts platform for keeping AI agents from going rogue and humanoid robot design at GTC Berlin",
-      "summary": "",
-      "tag": "apps",
-      "source": "Yahoo Finance",
-      "date": "2026-10-21",
-      "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPaGtVYTY1SW44ZDZOMWFvX0xudXFKOUdJdGluX0FzX2k0NzdUSGd4dXdGbjd5NTJMUlZ2dDVMNW5SN09oRG9YMGFSSTZ0WWZMMjB3NE43UDktU2RZOWlLcWdHNW5uZzF0c0Viejh0YkZHdnlPZ0VqOXd5R01UZ053V2Fza29PSTFmbGRFcUhHTGpNblpwRkpGZmE4OVJWNWtLQnRRYUdhd3l4dWpRcmxiSlltRzRTS2UzSXZNbmItWlRzS09WVGRvcWk1eHk4NzMzX0VpMFNTSHNmUEJnc0NOaGVJT1cwV1FBci1lUWJwY0pQQ0U?oc=5"
-    },
-    {
       "title": "Great Scott! The AI-fueled data center build-out could double next year: Chart of the Day",
       "summary": "",
       "tag": "aidc",
@@ -193,6 +201,14 @@
       "source": "The Center Square",
       "date": "2026-10-20",
       "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNV2JtRVJZQXBLaGRTcFY5ZzZzcHN5Ri1pZ3dkUjRWakQ4dlZjdzNucFhMb2ZfLWFjaWd3WFFnZkRaV3JyZGx1cE8zSnFoZ3BMN2dpR3RVZWNYUDR4VEVzSEtGakRZQkQ4d1duLXJESEl2UHJJMC16OXVyZEt2RWQzRUxxYnQzVTYyNTFzRERVZGgwM2oxYmfSAZsBQVVfeXFMT1RpTnJVUEpXaU1janFINUFmc0FXSEc0TFlvWVlrOTRaM21pZDdoaDYzdUNDclpDa3JNRktuZlhPWmZRQWhrd2lsd2w5N1RGWHVWY193VnlCbnpLYjFfNC1vYnNlYTk3dkNKdWVuQkl2MWtOTWUzQWFkNGVQcjV1XzYyV1kyLXoyOG00U1FJd0dEdk83X2VIeGNQUm8?oc=5"
+    },
+    {
+      "title": "Meta’s 1-Gigawatt AI Supercluster Reveals New Challenges for Data Center Partners",
+      "summary": "",
+      "tag": "aidc",
+      "source": "Channel Insider",
+      "date": "2026-10-20",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNWWM1eEZVQ25mOHBQb21TaTNxMFl5TmEwRkt1ZVlFRllFX2kyVzBzT2loTEUyRDYwU2JpaEE4Rmt2Y1hLQ2NuOE9KQTE1bk1nc3dzSGpzN1MxajAxczZWczh5dExCSG1pYXVhQ3VmaDRpVUUwdWdkZFBFVzJkOGkzNjVwRkNFRmxySjVGdjZRbWRHZHVF?oc=5"
     },
     {
       "title": "Hyperscaler CSPs pile on the capex",
@@ -251,20 +267,20 @@
       "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5zTlFXZm1uRTJYSXlPWi1OWmJCSkdBcmg2dkRDc2ZiNmNNaFQtYmg5WFBiWUFQRFVUTms0T3hweW9ycWZ1SlljdlNFUTZuOGliSUpVNkpybnJaQ0p2bzBYWmgydU9MVVBQQlJKMGFRdEpCaWM?oc=5"
     },
     {
-      "title": "5 Neocloud Stocks to Buy | Investing - U.S. News",
-      "summary": "",
-      "tag": "demand",
-      "source": "U.S. News - Money",
-      "date": "2026-10-20",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBYd0x2aTZwR0FiaEdVdGpuLTVFYjF5RjZDaER2Zng5ZWRYcDB4LVVFMmV3SzU0alowOEFkVFlVSXBzVFRhdW0yZjlJUEh5ZGoyM3phZ254dzJGU1BfZC14R21BVmtjcHFGakxpV0JFNldiN3Nl?oc=5"
-    },
-    {
       "title": "CoreWeave: AI Neocloud Panic Is Overdone (NASDAQ:CRWV)",
       "summary": "",
       "tag": "demand",
       "source": "Seeking Alpha",
       "date": "2026-10-20",
       "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPR1NDYjV0LUtUbEdXbHd3ZmYwVHZneUc2M01HcmdnMlluemJuckVGQ1R2aUFoY1R1ZGRKMDZ5OHBNYkdjZEtRYXlNOEszTHlfeHRQQXR5S01wQ3gtQlp3X0x0Q2p1WHNBTkl4SzNBa0dkVzdoV2R3bWRUcEdmRjZ6emFpWQ?oc=5"
+    },
+    {
+      "title": "5 Neocloud Stocks to Buy | Investing - U.S. News",
+      "summary": "",
+      "tag": "demand",
+      "source": "U.S. News - Money",
+      "date": "2026-10-20",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBYd0x2aTZwR0FiaEdVdGpuLTVFYjF5RjZDaER2Zng5ZWRYcDB4LVVFMmV3SzU0alowOEFkVFlVSXBzVFRhdW0yZjlJUEh5ZGoyM3phZ254dzJGU1BfZC14R21BVmtjcHFGakxpV0JFNldiN3Nl?oc=5"
     },
     {
       "title": "WFE to the Moon (Still), Semicon West and OCP Insights｜The Circuit",
@@ -283,6 +299,14 @@
       "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNMlhtY0pkUVBzUGpKcUJVNVp2c0JwbzFyS0Jva1pMVFkwYXMwR2VWbGJFM044eWd1NmZJVEFaS1lOQVpEM3RhWDF6NlVEVU5WRXhVcktvUzVIekZ1d3gwZXNWdE5zNEstbUpaemg1VkdGNlJQaTZjUGVXZWVrM29zVlA4TQ?oc=5"
     },
     {
+      "title": "AI Agents Writing Mexico’s Autonomous Future",
+      "summary": "",
+      "tag": "apps",
+      "source": "Mexico Business News",
+      "date": "2026-10-20",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNd3FCeF95dldEUjhabFpPZEdWUE9vNUZIY3NVWjJXV3dvT2lsLXhmbDN2SkJmZl9pMDBpdXg4SUxiTlNmaERINWEwTEpaYVZDaVROU0IxdTBFbTdXdTVpRlA5MlhSSnN0X3NmdHF0NHFzUTJOWng5RlJVZVMtelhiTW5aMHdUR29ZVWVkVUlEM0NUZVE?oc=5"
+    },
+    {
       "title": "Inside Prometheus: Meta’s Journey to a Gigawatt-Scale Supercluster",
       "summary": "",
       "tag": "aidc",
@@ -297,30 +321,6 @@
       "source": "Reuters",
       "date": "2026-10-19",
       "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOR0R4ajM1WGNGNnB0Sms4Uy1aWV8teXNzd0Z5YlllYzE1NlRvSm9oX01Ic1p2SmFDOE5mcmZtSEMtRmh4bU9xZGYyME5NMUdwdmY4cWIwWjU2RXMwUFVmek40YjVSd1E0dElQSmRpSVhNNkJaQndZRnZ4NzZqUWxNbmdxdE9vZTcyUXhKN2trMWVGejRXZldCcWVyTDRBWXJlMXFsRjVDMFZJSGR3N0xIMXVpenZfMHdvcjB4SzlSN3p0UQ?oc=5"
-    },
-    {
-      "title": "AI Capex And Earnings: What Happens When Growth Slows",
-      "summary": "",
-      "tag": "aidc",
-      "source": "Real Investment Advice",
-      "date": "2026-10-19",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQUEstVEpfU0ZQUUN0cjNfeVVrdE1vVzlUbU42T2tqUW5pRkE2aER6VDRIdHdfODh5NElzVERNRjNmQVBTQVhobFFnQklaZjIzeGdobFZURGV2X3lBRzBoT3JJSXpDM1JYbmVNWXdmVWN3SVNJQ0tTSFFHY3pldUJJdDJWUWZwNUxhYzdTaWN6djUwTlJBQm5YZXM1N0RPZUE5bmVr?oc=5"
-    },
-    {
-      "title": "Morgan Stanley’s favorite AI stock is 92% exposed to the $1.6 trillion buildout it’s bullish on",
-      "summary": "",
-      "tag": "aidc",
-      "source": "Fortune",
-      "date": "2026-10-19",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPVVFIUFZuUU9NN2IwTDJ3bWUzRkxEbjNpSGZFSUdqRlN0d3ktLXhLR2JMbElHS05sSWgwVlFGU2h4dDVNRkpiQTlsYl9NY2d0R3ZXdnhmd3VxQ2F3bEFxeGh3TUluZ1Z2T21wbkFCQW9McW9Ca1ZsUVM4YjN3b3ZGNUZhRlAwM2hzNzJ0QVBuYjE0NS1oaGZ4VURDQXYtUQ?oc=5"
-    },
-    {
-      "title": "Hyperscaler emissions expected to jump 60 percent in 2026",
-      "summary": "",
-      "tag": "aidc",
-      "source": "Trellis Group",
-      "date": "2026-10-19",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9vWEJfajRNV2hfQUNLb0pURXpZUUNSTWxuZGtfOE9SUVpKSDNIQi1EbG5iNWdTUWhJWWQtS2FjNGRLRjFLZC0tQ3Jza0pXSDhaM3pXVUlQZm9NZmdUWTlQZHNNWWNZZ2Rqdi0wZllrSW9xcWhrLTdFSg?oc=5"
     }
   ]
 }
