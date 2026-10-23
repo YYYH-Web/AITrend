@@ -1,7 +1,23 @@
 {
-  "updated": "2026-10-23 13:00",
+  "updated": "2026-10-23 13:04",
   "source_note": "Google News RSS",
   "items": [
+    {
+      "title": "SK Data Center Arm in Talks to Fund $350 Billion AI Buildout",
+      "summary": "",
+      "tag": "aidc",
+      "source": "Bloomberg.com",
+      "date": "2026-10-23",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPM0Jxa0ItbDlOQTU1RVRBUHhvNjViZFM2WDJpb2Y0VzF6WW52Nzdqajg3NzhVQVNuZ2EyRXo3Mzk2TXh4LTd3UlF6WWxHcV93ODlQYUI3c3pzM2h2a25paGZTNmpQVnc4OHNfc1NlYWlzOWdqU29jWXByNERzUGpOV2luSTEyR1hxMjZzRFpXaW5RQUNYQmZfSlA3NVFxVWk0Z1EtVExKaFp5dHJqaG9N?oc=5"
+    },
+    {
+      "title": "AI: Nvidia’s $170 Billion Neocloud Safety Net. AI-RTZ #1248",
+      "summary": "",
+      "tag": "demand",
+      "source": "AI: Reset to Zero",
+      "date": "2026-10-23",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOaV82MVJ3WEx1Z1JVc0JDTWxNV2lPUlF1Rkt1U2JsNHBsYlBGQmVVaTJxMFNZdzY3RDhfMnJPT2txUjB3QUs3VHlQNDRwTjE2X0VkT3U3MG5WS1llUjA3aDdBc3hVMUtOZGFyQUE2blRhYXBRc3hvaS1uUEZLVmVZcQ?oc=5"
+    },
     {
       "title": "Three Physical Walls Are Hitting AI Datacenter Infrastructure at the Same Time - And the Compound Effects Are Worse",
       "summary": "",
@@ -67,14 +83,6 @@
       "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPVS1Ia2IzcVROYmk0ektyejY1ZmFZaXdPVlRvLW9pUElqNXpiMEZ5Q3FJNDhPdlBSNm5IS3ZCdUNMNWZlUGY5TE82RllwMHhoNGZFZjJuc0plTzRIY0dvbDdxV0cwRm83RWt5eHd3RjA4OVNQY01RaGpCRzBRSW5HQXpSMkNWdmR4VWxpS3NuN185RHhIYzRUSQ?oc=5"
     },
     {
-      "title": "Nebius Declines 6% Despite Fresh Citi Financing; CoreWeave Drops 5%, Cloudflare Edges Higher",
-      "summary": "",
-      "tag": "demand",
-      "source": "24/7 Wall St.",
-      "date": "2026-10-22",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQUlFCdHUxQkYyX1d3ejR5ZDJGaEx4aE94ejEwSkd0NElLbF9uaWdMcnFiMXFuLUZJY0FGQ29xbXk2S2pPM1AzSktRb3B0Y1Z0V3RER3R0QnV4MlF3eWIwVVFMX29QaHdNQmxCUGJHVmhyZ2lMVmtHTHBkVzVhZkhHeFExc05RSXlLZ0pUdnlBZVZJRVpDN1lnckxNSlp4TkNIYTlqOUljUDhEN2xNQTFLTjVNRlU0Q01xVTMxUjg3alVoQld2NWVkM2hkYWg?oc=5"
-    },
-    {
       "title": "NVIDIA To Connect 576 Rubin Ultra GPUs Using CPO To Create One Giant GPU With The “Highest Performance per Watt” on the Planet Next Year To Drive 10 Trillion-Parameter AI Models",
       "summary": "",
       "tag": "products",
@@ -131,12 +139,12 @@
       "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNRXU2dmg1a25kbzZZaEU0LV9SX0VLbDBJcU50eXBuOGVMTWRQZWo1Yjd4Ynd0QkhfMEdVVG1ENURsYV9VUDZ3TE1aeDlKVGN6NDh5VXhNS1VIY01uNk9weFloLXZ0WlZWSEJLcDJnc2M0bVNURlRvSGZ3bG5NWllVSWFBTF9Tdw?oc=5"
     },
     {
-      "title": "U.S. Data Center Tracker: Power, Facilities & Growth (2026)",
+      "title": "Microsoft May Abandon its Clean Energy Powered Data Centre Targets",
       "summary": "",
       "tag": "aidc",
-      "source": "Electric Choice",
+      "source": "EnergyNow.com",
       "date": "2026-10-21",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9acDEzM3A0SWNlUWl6NjN3UXUyZkxpRE9hZ3BtNVJkMUZ2M2dyVWkyQ0RESC1OLWZHY2oxYzlXMW1vSHdXUjNHWjZIMmNLRjhtU2d4dk53?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNcFhpNlpmQTV4bzNWX2RCU1BWYXlkSjJlcW1UWTdSTlNxYnhwU2Qwa3N3a1lyRzV1Z3VZQ3AxeXBVQXB4TUMtWTlzb1hJamZtV29XU2tVdVM3Y0ppNEFWTVh1NjUtbmowYi1aYjhPN0hMUjhjR3R4ZDV2a2RySGRuT2VKZWJHa0NMei1mdjV0aDAwMUY2OFl0ZHdaam40dw?oc=5"
     },
     {
       "title": "AI資料中心部署縮至14天！輝達把7座機櫃裝進貨櫃，台達電、鴻海、技嘉搶進新商機",
@@ -291,14 +299,6 @@
       "url": "https://news.google.com/rss/articles/CBMilgJBVV95cUxNTHpfb2xWQzdpX0Q0Qk9aNVBPYzhtLWNwMFZ4YUE5NXhrMEpvMkRNNmJPUkdvRk1RNjhkWTdwQUpGY3g4b2d4SGxrR1lKUWF3ZU1vT0RGN0FnRnZjZ0ZIeGFxaFVfQlh6YjNBN0hyR09HWjZ0bXZrYWM2WlZRRzhzZ3psVWhnVVgzREcwZGZCeWxFWlViRjhVSjM0R0lWS1psT3lmN0c3TkxxQUY1UVM2VGZBU2NHYWctSnUxVE1lejgzVDBBYnRhNnBnSFAwbUVITC1vUXJKQnhKNVVDTlFmdHllMXVVZFhndy1XYW5DYXAyWHpEbVNFNTZMNkxvN0daSndUME5jYmVuOUJ4U0ZmcEh2R2FYUQ?oc=5"
     },
     {
-      "title": "Venture Global plans off-grid AI network in south Louisiana",
-      "summary": "",
-      "tag": "aidc",
-      "source": "The Center Square",
-      "date": "2026-10-20",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNV2JtRVJZQXBLaGRTcFY5ZzZzcHN5Ri1pZ3dkUjRWakQ4dlZjdzNucFhMb2ZfLWFjaWd3WFFnZkRaV3JyZGx1cE8zSnFoZ3BMN2dpR3RVZWNYUDR4VEVzSEtGakRZQkQ4d1duLXJESEl2UHJJMC16OXVyZEt2RWQzRUxxYnQzVTYyNTFzRERVZGgwM2oxYmfSAZsBQVVfeXFMT1RpTnJVUEpXaU1janFINUFmc0FXSEc0TFlvWVlrOTRaM21pZDdoaDYzdUNDclpDa3JNRktuZlhPWmZRQWhrd2lsd2w5N1RGWHVWY193VnlCbnpLYjFfNC1vYnNlYTk3dkNKdWVuQkl2MWtOTWUzQWFkNGVQcjV1XzYyV1kyLXoyOG00U1FJd0dEdk83X2VIeGNQUm8?oc=5"
-    },
-    {
       "title": "Meta’s 1-Gigawatt AI Supercluster Reveals New Challenges for Data Center Partners",
       "summary": "",
       "tag": "aidc",
@@ -307,20 +307,20 @@
       "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNWWM1eEZVQ25mOHBQb21TaTNxMFl5TmEwRkt1ZVlFRllFX2kyVzBzT2loTEUyRDYwU2JpaEE4Rmt2Y1hLQ2NuOE9KQTE1bk1nc3dzSGpzN1MxajAxczZWczh5dExCSG1pYXVhQ3VmaDRpVUUwdWdkZFBFVzJkOGkzNjVwRkNFRmxySjVGdjZRbWRHZHVF?oc=5"
     },
     {
+      "title": "Venture Global plans off-grid AI network in south Louisiana",
+      "summary": "",
+      "tag": "aidc",
+      "source": "The Center Square",
+      "date": "2026-10-20",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNV2JtRVJZQXBLaGRTcFY5ZzZzcHN5Ri1pZ3dkUjRWakQ4dlZjdzNucFhMb2ZfLWFjaWd3WFFnZkRaV3JyZGx1cE8zSnFoZ3BMN2dpR3RVZWNYUDR4VEVzSEtGakRZQkQ4d1duLXJESEl2UHJJMC16OXVyZEt2RWQzRUxxYnQzVTYyNTFzRERVZGgwM2oxYmfSAZsBQVVfeXFMT1RpTnJVUEpXaU1janFINUFmc0FXSEc0TFlvWVlrOTRaM21pZDdoaDYzdUNDclpDa3JNRktuZlhPWmZRQWhrd2lsd2w5N1RGWHVWY193VnlCbnpLYjFfNC1vYnNlYTk3dkNKdWVuQkl2MWtOTWUzQWFkNGVQcjV1XzYyV1kyLXoyOG00U1FJd0dEdk83X2VIeGNQUm8?oc=5"
+    },
+    {
       "title": "Hyperscaler CSPs pile on the capex",
       "summary": "",
       "tag": "aidc",
       "source": "Electronics Weekly",
       "date": "2026-10-20",
       "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNZ0J2d0hMM1hNNnhYQ2cxcC1ZYXBPamdNTFhUN0pMR21adTkydmc3OEVKekxBSmJ1eTdJS0N5aWUxRVhTckhkZGFTTENGTkVzR0pFQTZEa0V3YXhRWm1Ra1BRUmNUa0Q0NmJCeUVxTkJuOXZHcF9STk1rOWFzQngyREpVaGxLYWJ0SGVpb2dNRWRPa2FncUE?oc=5"
-    },
-    {
-      "title": "AI chip stocks bounce back as hyperscaler earnings loom, META equity raise in focus",
-      "summary": "",
-      "tag": "aidc",
-      "source": "24/7 Wall St.",
-      "date": "2026-10-20",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPVDBqcUlXdU5sa0R5OWFJdnJNSmUzOW9ONWIxejVfTnJZTkxPbjlsV3l1TER0Ti1neGwwT2x1V2VyQnF2RDlaUkQyOU4zUkxXNXBjUWhvcU9LOXFHUnJUSnVJOHBNd2VtcUxIWjdZd3c0RlUwdE03QVFRZl9JVjBWT25NN2xzV0tvTldtc3dkdk04VXZ4MzFrMERULS1PY1g0ZWJEZ05WQ0tNRy0xTk5zVVJaSE1KeWVzeEcwWlVVb3R1LXBo?oc=5"
     }
   ]
 }
