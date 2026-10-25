@@ -1,7 +1,15 @@
 {
-  "updated": "2026-10-26 00:36",
+  "updated": "2026-10-26 04:59",
   "source_note": "Google News RSS",
   "items": [
+    {
+      "title": "SpaceX Q4 Capex $35B-$40B, Meta Adds Share Class [2026]",
+      "summary": "",
+      "tag": "aidc",
+      "source": "shattered.io",
+      "date": "2026-10-25",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQOVFTTEhiTWlza1BRRnp6bGQ1VTBvWEtOOUlnZFdHekltc1N5MmpIRkNZRVRQeWlWN3RPMDBDTDRGYmF6X0RpNTZIZnY1cUpaOGhuU0FNd3pjM1QzLWZSTVVUS21Vd08zTlRUUW5jcXhldDBNTzgyYi01Mno2VlFYc0lWYw?oc=5"
+    },
     {
       "title": "【一文看懂】為何AI資料中心將使燃料電池需求激增| 國際焦點",
       "summary": "",
@@ -17,14 +25,6 @@
       "source": "EnergyNow.com",
       "date": "2026-10-24",
       "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNcFhpNlpmQTV4bzNWX2RCU1BWYXlkSjJlcW1UWTdSTlNxYnhwU2Qwa3N3a1lyRzV1Z3VZQ3AxeXBVQXB4TUMtWTlzb1hJamZtV29XU2tVdVM3Y0ppNEFWTVh1NjUtbmowYi1aYjhPN0hMUjhjR3R4ZDV2a2RySGRuT2VKZWJHa0NMei1mdjV0aDAwMUY2OFl0ZHdaam40dw?oc=5"
-    },
-    {
-      "title": "Will NVIDIA’s DSX Pods Shift the AI Landscape?",
-      "summary": "",
-      "tag": "aidc",
-      "source": "Data Center Richness | Substack",
-      "date": "2026-10-24",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPZzdSelI5ZUNYeEdwekk5eU0wR19Rd3NYemU5V0thb0JJOEYwNlByd3duYkU3bzRyM0VPNGJJMTZKTnRnRVc1cHZZY3V1ejBGZ1gwOEJFOVdBSVpWQXUwVVc1Y0YxSUZWdmlMRHFBek9pbUQzNTZ2alc5R3VWQ0Joc3ln?oc=5"
     },
     {
       "title": "Tesla Just Reversed Its 2026 CapEx Surge — Why Gordon Johnson Asks If It's the 'End of the AI Trade'",
@@ -57,6 +57,14 @@
       "source": "Bloomberg.com",
       "date": "2026-10-23",
       "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPM0Jxa0ItbDlOQTU1RVRBUHhvNjViZFM2WDJpb2Y0VzF6WW52Nzdqajg3NzhVQVNuZ2EyRXo3Mzk2TXh4LTd3UlF6WWxHcV93ODlQYUI3c3pzM2h2a25paGZTNmpQVnc4OHNfc1NlYWlzOWdqU29jWXByNERzUGpOV2luSTEyR1hxMjZzRFpXaW5RQUNYQmZfSlA3NVFxVWk0Z1EtVExKaFp5dHJqaG9N?oc=5"
+    },
+    {
+      "title": "Inside Yellowstone National Park’s historic gift from data center developers",
+      "summary": "",
+      "tag": "aidc",
+      "source": "Wyoming Public Media",
+      "date": "2026-10-23",
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQV2I2aTJuZHRXeDVNdmxHbUdHM3FWRUxWblgtRlhFS0NQVTVteFEzTTh0VUtabkp1X1IwdXNEdW55MzBGakd3bWZjVmJHdmdrOXZBeFJlV3AyLWxBX1lrLXVSeDQzZDFZUWhTYU9HLU5qZkk0UWQzVnNYRWlaLTZuS25LeGZfT01tVjF4ZHJVMnM0UjNlekcxMXFOekZ2a0NoNkZHcVRUcXZKWWhZRDJ6ZEM5S1dRbmFwMlNBbE1sSUtaaDRlRmg4bG1XeDFlRHJmcjlQOVoyZnA3OWc?oc=5"
     },
     {
       "title": "These 2 Neocloud Stocks Could Rebound Over 90%, Say Analysts",
@@ -123,14 +131,6 @@
       "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPVURSZnJ1Z2UyblRvRnlvWXdXenlHaWxxN3B6VUc4ZlNfYzhuaUg2Qko0TTFCOUtXYzBOT0NrQ0xJRDM0T1FQM1cxTm5Dd05sSzRyazR5ZUFJYk1PWHdvRDRveDROOUxNNkEybDlaT2NuT1YtQjVTcFRGbU1ha0xmVncxRnRuNXpadHpkYmNRdjM3ZzBqU2o3UkFTX2p6b3M?oc=5"
     },
     {
-      "title": "From Eyeballs to Annual Run Rates (ARR): Buzzy Pricing Metrics and the Anthropic Trade!",
-      "summary": "",
-      "tag": "demand",
-      "source": "Musings on Markets",
-      "date": "2026-10-22",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPNkVjc1BLUVNRd2RySHMxSEZibHpsc1JXNXdVUFJOeGY2NzFvWFBJeEMtUWtZbUVpTGlnWUcwV3hrR1RaMWQzUTA5cU5sMkp4a3p1aTVZNHozRTBxVTNURlZJNmlfVldwUUlrVll0cHc3WWZLQUJ3cFF0bXZqemsxZWJ0TlBJM0RhaXIzdkYtMHY?oc=5"
-    },
-    {
       "title": "Nvidia CEO Jensen Huang says neocloud demand is 'off the charts' but capital is scarce",
       "summary": "",
       "tag": "demand",
@@ -163,12 +163,12 @@
       "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPYkdiS1N2d21xMnFZNDU3Ujh6U1N5aEt1ZmtaNjlaLTJZRlk1QkRYUzZmMVpRUkpGUlhkbjg1QXdFenhUVFhJNng1b1hZT2F2cmh1X3BFNjQxaFluRDJ6bVM5amZiVVROajdVSU95V1Q0Y0RQMTlNbkFmZUpSMndBWGdFd3dzdGZtOGFOY21FX0dHdk9qSXVGX3B0aUtPZVBJX1JvNEdQRC1yZw?oc=5"
     },
     {
-      "title": "Nvidia's Huang: Neocloud Demand Explodes But Capital Dries Up",
+      "title": "Nebius Declines 6% Despite Fresh Citi Financing; CoreWeave Drops 5%, Cloudflare Edges Higher",
       "summary": "",
       "tag": "demand",
-      "source": "The Tech Buzz",
+      "source": "24/7 Wall St.",
       "date": "2026-10-22",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPVS1Ia2IzcVROYmk0ektyejY1ZmFZaXdPVlRvLW9pUElqNXpiMEZ5Q3FJNDhPdlBSNm5IS3ZCdUNMNWZlUGY5TE82RllwMHhoNGZFZjJuc0plTzRIY0dvbDdxV0cwRm83RWt5eHd3RjA4OVNQY01RaGpCRzBRSW5HQXpSMkNWdmR4VWxpS3NuN185RHhIYzRUSQ?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQUlFCdHUxQkYyX1d3ejR5ZDJGaEx4aE94ejEwSkd0NElLbF9uaWdMcnFiMXFuLUZJY0FGQ29xbXk2S2pPM1AzSktRb3B0Y1Z0V3RER3R0QnV4MlF3eWIwVVFMX29QaHdNQmxCUGJHVmhyZ2lMVmtHTHBkVzVhZkhHeFExc05RSXlLZ0pUdnlBZVZJRVpDN1lnckxNSlp4TkNIYTlqOUljUDhEN2xNQTFLTjVNRlU0Q01xVTMxUjg3alVoQld2NWVkM2hkYWg?oc=5"
     },
     {
       "title": "NVIDIA To Connect 576 Rubin Ultra GPUs Using CPO To Create One Giant GPU With The “Highest Performance per Watt” on the Planet Next Year To Drive 10 Trillion-Parameter AI Models",
@@ -219,14 +219,6 @@
       "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5oM21NblZCZmIxU1NYWUw4aDN3UFFrQUd1LWhTeVdoeHVMTmdDZ0lGd1B0dFJoN3o3MnJWV0lVY1J0Mk42Nl91LU9DZFA5aGg5S3l2V2dpYmI5MDRuMkE?oc=5"
     },
     {
-      "title": "ModelOp Takes Control of Enterprise AI Agent Sprawl with Expanded Microsoft and Amazon Integrations",
-      "summary": "",
-      "tag": "apps",
-      "source": "Yahoo Finance",
-      "date": "2026-10-22",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOdEE3R3B1MXFJcVdDRVVTdHVFTHZ6S1pqbnBVY29veDdKa1BQZWI5RThYZ1l4MS0tWWNIaGlpQ2FyM01uSm9JUmZiclhiYXhBUU5pQlR6cVZ1RTI1YW8zejBTRTdENkN5RGNZTnhaUDhHenJvbXA3X0ZYaTlhTjRlUzQ0c2JXcm5HZHNiOG5vbmJfektyV0tqUUFGUzRhUnBl?oc=5"
-    },
-    {
       "title": "AI資料中心部署縮至14天！輝達把7座機櫃裝進貨櫃，台達電、鴻海、技嘉搶進新商機",
       "summary": "",
       "tag": "aidc",
@@ -275,20 +267,20 @@
       "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5fTWd2NkxkQ3U5XzBnd1MwYWx4Qk5hN3dCenBUbDhVdG1MMVNnQlhxZmJyZkhTQjBtUmZJRGlDazZxd0poWHdyNlhfUlJYWTJfMC16SThVS2ZDZGdkY3lCbWdycVRjcEl4WTdsYlptNzRUbEMtRDVfWEpZUQ?oc=5"
     },
     {
-      "title": "Anthropic’s $80.7 billion loss puts its IPO ambitions under scrutiny",
-      "summary": "",
-      "tag": "demand",
-      "source": "CTech",
-      "date": "2026-10-21",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1EUkF6M3hXbVJzT1VlVHhTdzJrWXN2eGRaY3c2NFFqM0Zfd0YyVlpzVkNwQ1pSQnhCeEZ4d004cXl6UWZGNk13ODVTSVgxMUlpTm9oQkY0b0pzU0dxNUo4Y1Ryc21OZWc?oc=5"
-    },
-    {
       "title": "Anthropic revenue hits $16.3 billion as preliminary S-1 outlines IPO risks - WSJ",
       "summary": "",
       "tag": "demand",
       "source": "Investing.com",
       "date": "2026-10-21",
       "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPV01vVFJFczZpUUJmOFVadllTVFFKa3VpRHRNN1RUeXNxd1d0Y29rTXFrWUh3OHJPWTJDc2pjYmtJTXdhSUQyWFNBYy1PZk9vTTdzQTg1UV90R2QxNlp5cHAya3BUdkVYdkZmZnBObFNhNTh4YW4ySVk4Ri1SUFlQQ0pzNVp3T0xYMXBab05YZUlmVnppLVFFSFM5aXZyRUd2bS1jZUhsXzVVVTQyN0YzaFFrWFlZWm1yQVVhN0NRc2xmeG1FN2hFb0stY3dWQQ?oc=5"
+    },
+    {
+      "title": "Anthropic’s $80.7 billion loss puts its IPO ambitions under scrutiny",
+      "summary": "",
+      "tag": "demand",
+      "source": "CTech",
+      "date": "2026-10-21",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1EUkF6M3hXbVJzT1VlVHhTdzJrWXN2eGRaY3c2NFFqM0Zfd0YyVlpzVkNwQ1pSQnhCeEZ4d004cXl6UWZGNk13ODVTSVgxMUlpTm9oQkY0b0pzU0dxNUo4Y1Ryc21OZWc?oc=5"
     },
     {
       "title": "Google Cloud infrastructure at NVIDIA GTC Berlin 2026 | Google Cloud Blog",
@@ -321,6 +313,14 @@
       "source": "Counterpoint Research",
       "date": "2026-10-21",
       "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQRXNzV0tvUHJUOTNidVozd1RHZzREMEZSbjhlX1luaERGeGNwX21ZamhxQkVNU01RV183aFVwZVV3VXY2SU1zbEZvamQxdXlTcW9sMHF3N2FfSG9mV1hzbHdJVWwxRjdWdjNySDBLdU5mNlh0NnNTdXpuVlVTOWNzUS1ZVk1nc0o0aE8yN0JjWQ?oc=5"
+    },
+    {
+      "title": "Celestica’s (TSX:CLS) New AI Switch: Why It Is in Focus",
+      "summary": "",
+      "tag": "products",
+      "source": "Kalkine Media",
+      "date": "2026-10-21",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQZlpLSVotY1p0dGdPaFMwUUlvNndCS1ctcmV2TEt3MXFxNWtpbElOUTBDVzlacEs0QU9KcjFTV2JpdjNsYlJwQzhMNzllLVUyU2liS2RNNWtuWHZWRkhCdDVaa1Jma295bUFpZ2gtOXZraXc2bklGTm01RGJ6aEhXWW9XZVVJcHVpX01jMGFDSHRUeTh5M0dDbm1kNzlkOEd1ZzBLZUJpQ05tVVNCa3c?oc=5"
     }
   ]
 }
