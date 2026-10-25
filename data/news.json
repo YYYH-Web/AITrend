@@ -1,7 +1,15 @@
 {
-  "updated": "2026-10-25 19:47",
+  "updated": "2026-10-26 00:36",
   "source_note": "Google News RSS",
   "items": [
+    {
+      "title": "【一文看懂】為何AI資料中心將使燃料電池需求激增| 國際焦點",
+      "summary": "",
+      "tag": "aidc",
+      "source": "太報 TaiSounds",
+      "date": "2026-10-25",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5pQVlMSnFHRWw1TFZ1R2lidzRCbEltTF9DbENhUFZOYlpwT0NQdGp5dlBrS1g5OUlyRlpnZTNyMUlxa3V5N1ZQMElwV0pHTEFpZlR2cVlqMTRxZGI3?oc=5"
+    },
     {
       "title": "Microsoft May Abandon its Clean Energy Powered Data Centre Targets",
       "summary": "",
@@ -115,12 +123,12 @@
       "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPVURSZnJ1Z2UyblRvRnlvWXdXenlHaWxxN3B6VUc4ZlNfYzhuaUg2Qko0TTFCOUtXYzBOT0NrQ0xJRDM0T1FQM1cxTm5Dd05sSzRyazR5ZUFJYk1PWHdvRDRveDROOUxNNkEybDlaT2NuT1YtQjVTcFRGbU1ha0xmVncxRnRuNXpadHpkYmNRdjM3ZzBqU2o3UkFTX2p6b3M?oc=5"
     },
     {
-      "title": "AI資料中心邁向工廠預製 液冷系統與智慧電力整合成關鍵",
+      "title": "From Eyeballs to Annual Run Rates (ARR): Buzzy Pricing Metrics and the Anthropic Trade!",
       "summary": "",
-      "tag": "aidc",
-      "source": "CTIMES",
+      "tag": "demand",
+      "source": "Musings on Markets",
       "date": "2026-10-22",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBfSmd4Y2lPXzNITDNUMWpqeUFUeW43Z1RLaWZ5SUtnR0k4bFgyNTlON1p4MlBIek5IZ0xvdmo1QktYYlo3MVNZM1c0NnNLZG1VanBSa01tU3VDRHhqb280S3FJcDZiSUN0eHh3eQ?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPNkVjc1BLUVNRd2RySHMxSEZibHpsc1JXNXdVUFJOeGY2NzFvWFBJeEMtUWtZbUVpTGlnWUcwV3hrR1RaMWQzUTA5cU5sMkp4a3p1aTVZNHozRTBxVTNURlZJNmlfVldwUUlrVll0cHc3WWZLQUJ3cFF0bXZqemsxZWJ0TlBJM0RhaXIzdkYtMHY?oc=5"
     },
     {
       "title": "Nvidia CEO Jensen Huang says neocloud demand is 'off the charts' but capital is scarce",
@@ -153,6 +161,14 @@
       "source": "Futuriom",
       "date": "2026-10-22",
       "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPYkdiS1N2d21xMnFZNDU3Ujh6U1N5aEt1ZmtaNjlaLTJZRlk1QkRYUzZmMVpRUkpGUlhkbjg1QXdFenhUVFhJNng1b1hZT2F2cmh1X3BFNjQxaFluRDJ6bVM5amZiVVROajdVSU95V1Q0Y0RQMTlNbkFmZUpSMndBWGdFd3dzdGZtOGFOY21FX0dHdk9qSXVGX3B0aUtPZVBJX1JvNEdQRC1yZw?oc=5"
+    },
+    {
+      "title": "Nvidia's Huang: Neocloud Demand Explodes But Capital Dries Up",
+      "summary": "",
+      "tag": "demand",
+      "source": "The Tech Buzz",
+      "date": "2026-10-22",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPVS1Ia2IzcVROYmk0ektyejY1ZmFZaXdPVlRvLW9pUElqNXpiMEZ5Q3FJNDhPdlBSNm5IS3ZCdUNMNWZlUGY5TE82RllwMHhoNGZFZjJuc0plTzRIY0dvbDdxV0cwRm83RWt5eHd3RjA4OVNQY01RaGpCRzBRSW5HQXpSMkNWdmR4VWxpS3NuN185RHhIYzRUSQ?oc=5"
     },
     {
       "title": "NVIDIA To Connect 576 Rubin Ultra GPUs Using CPO To Create One Giant GPU With The “Highest Performance per Watt” on the Planet Next Year To Drive 10 Trillion-Parameter AI Models",
@@ -259,20 +275,20 @@
       "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5fTWd2NkxkQ3U5XzBnd1MwYWx4Qk5hN3dCenBUbDhVdG1MMVNnQlhxZmJyZkhTQjBtUmZJRGlDazZxd0poWHdyNlhfUlJYWTJfMC16SThVS2ZDZGdkY3lCbWdycVRjcEl4WTdsYlptNzRUbEMtRDVfWEpZUQ?oc=5"
     },
     {
-      "title": "Anthropic revenue hits $16.3 billion as preliminary S-1 outlines IPO risks - WSJ",
-      "summary": "",
-      "tag": "demand",
-      "source": "Investing.com",
-      "date": "2026-10-21",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPV01vVFJFczZpUUJmOFVadllTVFFKa3VpRHRNN1RUeXNxd1d0Y29rTXFrWUh3OHJPWTJDc2pjYmtJTXdhSUQyWFNBYy1PZk9vTTdzQTg1UV90R2QxNlp5cHAya3BUdkVYdkZmZnBObFNhNTh4YW4ySVk4Ri1SUFlQQ0pzNVp3T0xYMXBab05YZUlmVnppLVFFSFM5aXZyRUd2bS1jZUhsXzVVVTQyN0YzaFFrWFlZWm1yQVVhN0NRc2xmeG1FN2hFb0stY3dWQQ?oc=5"
-    },
-    {
       "title": "Anthropic’s $80.7 billion loss puts its IPO ambitions under scrutiny",
       "summary": "",
       "tag": "demand",
       "source": "CTech",
       "date": "2026-10-21",
       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1EUkF6M3hXbVJzT1VlVHhTdzJrWXN2eGRaY3c2NFFqM0Zfd0YyVlpzVkNwQ1pSQnhCeEZ4d004cXl6UWZGNk13ODVTSVgxMUlpTm9oQkY0b0pzU0dxNUo4Y1Ryc21OZWc?oc=5"
+    },
+    {
+      "title": "Anthropic revenue hits $16.3 billion as preliminary S-1 outlines IPO risks - WSJ",
+      "summary": "",
+      "tag": "demand",
+      "source": "Investing.com",
+      "date": "2026-10-21",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPV01vVFJFczZpUUJmOFVadllTVFFKa3VpRHRNN1RUeXNxd1d0Y29rTXFrWUh3OHJPWTJDc2pjYmtJTXdhSUQyWFNBYy1PZk9vTTdzQTg1UV90R2QxNlp5cHAya3BUdkVYdkZmZnBObFNhNTh4YW4ySVk4Ri1SUFlQQ0pzNVp3T0xYMXBab05YZUlmVnppLVFFSFM5aXZyRUd2bS1jZUhsXzVVVTQyN0YzaFFrWFlZWm1yQVVhN0NRc2xmeG1FN2hFb0stY3dWQQ?oc=5"
     },
     {
       "title": "Google Cloud infrastructure at NVIDIA GTC Berlin 2026 | Google Cloud Blog",
@@ -299,28 +315,12 @@
       "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPYlpuLVlER2E5aXI1dlpZNDFzaElZZG43c0JIQUt0QVMxRHpUdHhVSGVNS3JXZ2NIVGdidmh1cmlWM2FDeUVFNGZGMnVONWhoWFpDTWhRZXU5cTFjRktaN29UeXNPVUhPWXcySU92TTBYbFQwQlgxSEZmZ3p4WDdWS0FNdEc3OEZkTnpETEJjTHpfNkxvbGd6QVB4X0JQLUtGWDFDVm1QRVhYdk02WHA2amQ1QXVXanRMR1hCMnpEQVpBRzVDb0M3eVRKTkU1UQ?oc=5"
     },
     {
-      "title": "Celestica’s (TSX:CLS) New AI Switch: Why It Is in Focus",
+      "title": "OCP 2026: The AI Battleground Shifts from Compute to Connectivity",
       "summary": "",
       "tag": "products",
-      "source": "Kalkine Media",
+      "source": "Counterpoint Research",
       "date": "2026-10-21",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQZlpLSVotY1p0dGdPaFMwUUlvNndCS1ctcmV2TEt3MXFxNWtpbElOUTBDVzlacEs0QU9KcjFTV2JpdjNsYlJwQzhMNzllLVUyU2liS2RNNWtuWHZWRkhCdDVaa1Jma295bUFpZ2gtOXZraXc2bklGTm01RGJ6aEhXWW9XZVVJcHVpX01jMGFDSHRUeTh5M0dDbm1kNzlkOEd1ZzBLZUJpQ05tVVNCa3c?oc=5"
-    },
-    {
-      "title": "Tesla's Optimus robots are finally rolling off the production line",
-      "summary": "",
-      "tag": "apps",
-      "source": "Business Insider",
-      "date": "2026-10-21",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQSGs2ZWNWeGl6T3RYTXpyYTJNa2xGWjRMMmo3Q2EydnF0TzNndmpCVGVPNWtkOWVKTGpDejlNcl9GWTJiUV8waUd4WXdIdE1TbHpDRllXVTlaVGlaSDdYaHZkdjFGOVFqckFZQU81Mkg3aWdUQzFsa3E0aVdiWS02WGEwZ2JidVl1VVkwa3lzRTBwLUFGLUFfVFg1U3VpbW83MVE?oc=5"
-    },
-    {
-      "title": "China’s Humanoid Army Pushes Japan to Rethink Its Robot Future",
-      "summary": "",
-      "tag": "apps",
-      "source": "IEEE Spectrum",
-      "date": "2026-10-21",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE01d1VCWDlNVHkxSGtiNXBOSnEwanhJdG9IOEhLZ0diXzM3M1BjRDU4SnFWMnJ4b1RwYnJBYWppSDhVczhnOEtabUFnVjZTUWNKcE12ekxFQVpna3M?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQRXNzV0tvUHJUOTNidVozd1RHZzREMEZSbjhlX1luaERGeGNwX21ZamhxQkVNU01RV183aFVwZVV3VXY2SU1zbEZvamQxdXlTcW9sMHF3N2FfSG9mV1hzbHdJVWwxRjdWdjNySDBLdU5mNlh0NnNTdXpuVlVTOWNzUS1ZVk1nc0o0aE8yN0JjWQ?oc=5"
     }
   ]
 }
