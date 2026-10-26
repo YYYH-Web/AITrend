@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-26 04:59",
+  "updated": "2026-10-26 13:00",
   "source_note": "Google News RSS",
   "items": [
     {
@@ -17,6 +17,14 @@
       "source": "太報 TaiSounds",
       "date": "2026-10-25",
       "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5pQVlMSnFHRWw1TFZ1R2lidzRCbEltTF9DbENhUFZOYlpwT0NQdGp5dlBrS1g5OUlyRlpnZTNyMUlxa3V5N1ZQMElwV0pHTEFpZlR2cVlqMTRxZGI3?oc=5"
+    },
+    {
+      "title": "Musk says SpaceX raised $40 billion in debt deal, predicts neocloud shakeout",
+      "summary": "",
+      "tag": "demand",
+      "source": "Reuters",
+      "date": "2026-10-25",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNUXFtN2R4aGlycUhma055anhqaWRzSVFqRHg3NDJHQXpJb1ZXZGtqZF8wSENhc2xNTjlBNmJyMWdzaWdQZmU2d0NvWDJ1VzI4RlVCUG1ERDFnWlJpUmlEdTJDZUt2ckM1bjBleS11a3ZQaDF1QjByVzNYV1Y4YV9CWEFOYWFVaHhhM1l3d29kQm55MjFUUTlZWm9mVnlnamJBUWg3NWVR?oc=5"
     },
     {
       "title": "Microsoft May Abandon its Clean Energy Powered Data Centre Targets",
@@ -59,12 +67,12 @@
       "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPM0Jxa0ItbDlOQTU1RVRBUHhvNjViZFM2WDJpb2Y0VzF6WW52Nzdqajg3NzhVQVNuZ2EyRXo3Mzk2TXh4LTd3UlF6WWxHcV93ODlQYUI3c3pzM2h2a25paGZTNmpQVnc4OHNfc1NlYWlzOWdqU29jWXByNERzUGpOV2luSTEyR1hxMjZzRFpXaW5RQUNYQmZfSlA3NVFxVWk0Z1EtVExKaFp5dHJqaG9N?oc=5"
     },
     {
-      "title": "Inside Yellowstone National Park’s historic gift from data center developers",
+      "title": "Partnership Ensures Affordable Energy, Powers AI Future at Portsmouth Site",
       "summary": "",
       "tag": "aidc",
-      "source": "Wyoming Public Media",
+      "source": "Department of Energy (.gov)",
       "date": "2026-10-23",
-      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQV2I2aTJuZHRXeDVNdmxHbUdHM3FWRUxWblgtRlhFS0NQVTVteFEzTTh0VUtabkp1X1IwdXNEdW55MzBGakd3bWZjVmJHdmdrOXZBeFJlV3AyLWxBX1lrLXVSeDQzZDFZUWhTYU9HLU5qZkk0UWQzVnNYRWlaLTZuS25LeGZfT01tVjF4ZHJVMnM0UjNlekcxMXFOekZ2a0NoNkZHcVRUcXZKWWhZRDJ6ZEM5S1dRbmFwMlNBbE1sSUtaaDRlRmg4bG1XeDFlRHJmcjlQOVoyZnA3OWc?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQcENwNmMwZGFZeHp1aVFURlJkampiMlNicnAwMUh6M1BwakZhanQtaldaQ0haM3lSQVhWUXZEWDZoXy0yVDhPSDgtWXJtdlJBdWFkb2RDcHhocU4tZW1UTlFWRFRJZ045YkxsS3BfbncydEhIZzNUSEZpTkxKVTYtVDk1WGdUcDltVUpXdklWNFpXLWFZX3VGdEV6SnUwS3ota3ZSd2RDQnI?oc=5"
     },
     {
       "title": "These 2 Neocloud Stocks Could Rebound Over 90%, Say Analysts",
@@ -123,6 +131,14 @@
       "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5BdE5BMTd6blp4ZmtlTnc0UVZNNmRYRkxHVmxlVUxhV3JGbm1ma1ZiaEN1cGpyOTB4akg2LVpEblFrTXQzUnFxVHZ6ZWlVOWp1cG92UXZmQ2hwa2NuQWNaaUpCMktZbElhYzVORjJtS0dSdGdQ?oc=5"
     },
     {
+      "title": "Waves 2026 – Make sets out its 'glass-box' vision for deeper enterprise AI adoption",
+      "summary": "",
+      "tag": "apps",
+      "source": "Diginomica",
+      "date": "2026-10-23",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNa0hVNFdOYXJWM09aS1pHcTZ1dTFOaTVQR240bU81UFl1cWlHRW9xS2ZGdDJ5MGw4ZjUtNnZjbktPYlhXQ2RpT2lmVktOSEw3YnVJbjRUUm9rTF9iT3ZhSmFuOUNVRjAwN1ZYMzN5dkcwd2tJUnE1TWlNUE5vaWppRENuVkltMUpiNmtJMjRBU1dKRWRiWnNzdnRPN1BiSGc?oc=5"
+    },
+    {
       "title": "Morgan Stanley says these 24 AI infrastructure stocks are built to hold up even if capex slows",
       "summary": "",
       "tag": "aidc",
@@ -163,14 +179,6 @@
       "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPYkdiS1N2d21xMnFZNDU3Ujh6U1N5aEt1ZmtaNjlaLTJZRlk1QkRYUzZmMVpRUkpGUlhkbjg1QXdFenhUVFhJNng1b1hZT2F2cmh1X3BFNjQxaFluRDJ6bVM5amZiVVROajdVSU95V1Q0Y0RQMTlNbkFmZUpSMndBWGdFd3dzdGZtOGFOY21FX0dHdk9qSXVGX3B0aUtPZVBJX1JvNEdQRC1yZw?oc=5"
     },
     {
-      "title": "Nebius Declines 6% Despite Fresh Citi Financing; CoreWeave Drops 5%, Cloudflare Edges Higher",
-      "summary": "",
-      "tag": "demand",
-      "source": "24/7 Wall St.",
-      "date": "2026-10-22",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQUlFCdHUxQkYyX1d3ejR5ZDJGaEx4aE94ejEwSkd0NElLbF9uaWdMcnFiMXFuLUZJY0FGQ29xbXk2S2pPM1AzSktRb3B0Y1Z0V3RER3R0QnV4MlF3eWIwVVFMX29QaHdNQmxCUGJHVmhyZ2lMVmtHTHBkVzVhZkhHeFExc05RSXlLZ0pUdnlBZVZJRVpDN1lnckxNSlp4TkNIYTlqOUljUDhEN2xNQTFLTjVNRlU0Q01xVTMxUjg3alVoQld2NWVkM2hkYWg?oc=5"
-    },
-    {
       "title": "NVIDIA To Connect 576 Rubin Ultra GPUs Using CPO To Create One Giant GPU With The “Highest Performance per Watt” on the Planet Next Year To Drive 10 Trillion-Parameter AI Models",
       "summary": "",
       "tag": "products",
@@ -195,14 +203,6 @@
       "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOb09OVGpVM3FDM3I4RzJVTnVHcDk5c0Z5aHVEVS1BZ2RDRnVpQU13Yld0VTdWS0xBb3JGbWVzSHhZU0J0cVVUWjBlZWVNM3FDTGJOOWtFN2EwMTlkN1VmcjJSTDhiVnpYMFByX2c4RFhfd3pRSU0tSEhtcnlldGx1NU9GWGo3aVctSFRvTg?oc=5"
     },
     {
-      "title": "Unitree unveils humanoid robot designed to act as real-life guardian",
-      "summary": "",
-      "tag": "apps",
-      "source": "Interesting Engineering",
-      "date": "2026-10-22",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPLXRTOUhzTFBiMWZxUDFhQTFuUG5VaDg0NFFha2VMVFo3OS1yOEMxU1kzbDBZS2RYUnZLYTBqeU96eGFFRnNiWXdkNDNKZFFNeGZuaDNBNUw3b1VTQXVoaFV0ZTlIdGhLME5QbUpIRTF4dDVBQmNZMTdIWTJLVW4zNEFobUJEblFNajNqRg?oc=5"
-    },
-    {
       "title": "AI Adoption Outpaces Enterprise Governance, Raising Data Security Concerns",
       "summary": "",
       "tag": "apps",
@@ -219,7 +219,15 @@
       "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5oM21NblZCZmIxU1NYWUw4aDN3UFFrQUd1LWhTeVdoeHVMTmdDZ0lGd1B0dFJoN3o3MnJWV0lVY1J0Mk42Nl91LU9DZFA5aGg5S3l2V2dpYmI5MDRuMkE?oc=5"
     },
     {
-      "title": "AI資料中心部署縮至14天！輝達把7座機櫃裝進貨櫃，台達電、鴻海、技嘉搶進新商機",
+      "title": "AI agents just doubled inside the enterprise. Confidence rose faster than control did",
+      "summary": "",
+      "tag": "apps",
+      "source": "TechCrunch",
+      "date": "2026-10-22",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPOFdlZ2J6R0MydjAzYVJFTkZ2cjZ1WnpzVGNQWFpBUXNTZWpjYW5XZGE5UkdDaHlaMW9BUmx5dENNZXdjSUJFbGZoWlJXd0kxeGYxZFNyNUo0MmwxM1hvbDNTZ2J1YkZ2bDFvUHhmY3BRRE1Td1p5MnZKMGZ1ZTd1dmF2Q1VCaEJPbmVhUk5qMGNFblJyMXJONXktMHIzcUM3SkRmbFBWUHR4cWNfWU9wa2FwcjZKQy00NVlVRjVKZ1JiYWM?oc=5"
+    },
+    {
+      "title": "AI資料中心部署拚縮短至14天！輝達把7座機櫃裝進貨櫃，台達電、鴻海、技嘉搶進新商機",
       "summary": "",
       "tag": "aidc",
       "source": "數位時代",
@@ -233,14 +241,6 @@
       "source": "優分析UAnalyze",
       "date": "2026-10-21",
       "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBGRm00RGdtZUJvZUExY1RLWTF1ZDhSdVNZdDJPUlhZZDl5c3ZWcWtKMmdXdGN0T3BncUVaWUw3N0t3ejl3d0dZb25hOEJjR2dNa1MxVFlR?oc=5"
-    },
-    {
-      "title": "Two Customers Account for a Fifth of Anthropic's Revenue, a Concentration Risk IPO Buyers Should Know",
-      "summary": "",
-      "tag": "demand",
-      "source": "Yahoo Finance",
-      "date": "2026-10-21",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNLTZDdmhxaHdYZDBlRzBTSENHbEFFS0ZGdXdKTzQ1MG1VQW8wWS1oWWlWSDlrYVV5SGN4LTJQUlFvTmx6akJXZDVsakNlSXd2dTNwWEtZRU53SUNfa3U1RkprbGJERF9vZHZwN1R2eU1wR1hDR3dpUS1xeVJmRUt6SVFXeUFfRk9zM2h4UTFrYXlhYmRfeEVjZmdBTnFvMUxCWVFteA?oc=5"
     },
     {
       "title": "Anthropic logged net loss of over $80 billion in first half of 2026",
@@ -265,6 +265,14 @@
       "source": "Fortune",
       "date": "2026-10-21",
       "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5fTWd2NkxkQ3U5XzBnd1MwYWx4Qk5hN3dCenBUbDhVdG1MMVNnQlhxZmJyZkhTQjBtUmZJRGlDazZxd0poWHdyNlhfUlJYWTJfMC16SThVS2ZDZGdkY3lCbWdycVRjcEl4WTdsYlptNzRUbEMtRDVfWEpZUQ?oc=5"
+    },
+    {
+      "title": "Two Customers Account for a Fifth of Anthropic's Revenue, a Concentration Risk IPO Buyers Should Know",
+      "summary": "",
+      "tag": "demand",
+      "source": "The Motley Fool",
+      "date": "2026-10-21",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQWXg0M1Zkc19WUGk2Y29ZRGF5S1VoX3lKZmJWR3RuMTZSV2p2UjlEZ3V0TW9OdGwyU0c0UjRsX1hYdFJ4aHpiSkdZMExrVmpzQUQ1VGx3cU0xV3N2TGg4Y1ZoODBtaDM4U1JMUm5GX1NuVVE3QmRvbWF1X2x0TGQzTEJfbTFBbVg4M0JxYUYtNk9TZ3lZb2lCMQ?oc=5"
     },
     {
       "title": "Anthropic revenue hits $16.3 billion as preliminary S-1 outlines IPO risks - WSJ",
@@ -313,14 +321,6 @@
       "source": "Counterpoint Research",
       "date": "2026-10-21",
       "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQRXNzV0tvUHJUOTNidVozd1RHZzREMEZSbjhlX1luaERGeGNwX21ZamhxQkVNU01RV183aFVwZVV3VXY2SU1zbEZvamQxdXlTcW9sMHF3N2FfSG9mV1hzbHdJVWwxRjdWdjNySDBLdU5mNlh0NnNTdXpuVlVTOWNzUS1ZVk1nc0o0aE8yN0JjWQ?oc=5"
-    },
-    {
-      "title": "Celestica’s (TSX:CLS) New AI Switch: Why It Is in Focus",
-      "summary": "",
-      "tag": "products",
-      "source": "Kalkine Media",
-      "date": "2026-10-21",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQZlpLSVotY1p0dGdPaFMwUUlvNndCS1ctcmV2TEt3MXFxNWtpbElOUTBDVzlacEs0QU9KcjFTV2JpdjNsYlJwQzhMNzllLVUyU2liS2RNNWtuWHZWRkhCdDVaa1Jma295bUFpZ2gtOXZraXc2bklGTm01RGJ6aEhXWW9XZVVJcHVpX01jMGFDSHRUeTh5M0dDbm1kNzlkOEd1ZzBLZUJpQ05tVVNCa3c?oc=5"
     }
   ]
 }
