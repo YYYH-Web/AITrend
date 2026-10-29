@@ -1,7 +1,23 @@
 {
-  "updated": "2026-10-29 06:43",
+  "updated": "2026-10-29 14:02",
   "source_note": "Google News RSS",
   "items": [
+    {
+      "title": "Morning Bid: In the AI alphabet, cash is king",
+      "summary": "",
+      "tag": "aidc",
+      "source": "WHTC",
+      "date": "2026-10-29",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9hQXlZMi1ud2N5RUZTREx1TzFkdXhaTUpQQ3JfOTE4RVJPU3o1LTRUcnNjdWFGeFZwa3RCTGZ1al9zTDVEdjZnZWN0RW1QaklXQUVZMU5LSlBuTWRTVzdwS1NOZlNfR0ZtWUtTU2VxOUNaM3RDaDdKcGpCajQ?oc=5"
+    },
+    {
+      "title": "Microsoft Sees Enterprise AI Adoption Accelerate as Copilot Usage Grows",
+      "summary": "",
+      "tag": "apps",
+      "source": "PYMNTS.com",
+      "date": "2026-10-29",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQQUFaTjhaOE9WNnFHelV1RmhxcTlVZnRZb21YNE5pSl95U2dGMDdQYjdnS3lMSWo5WFpPcWIyQk05VjBWMFRuNldwUm9rQXlCTlgwZlBnU0VUMk1KNXp1OHhiRnY5N3VmQXFpREc1cC1EWUhKeTlyVEJRTGMtOFBlSC1vYV9nWW8xaXNtbFI4dzllcEFUdnlPOXJab3ZwUUxkcW5yV2RUQi1DWVhoM3c?oc=5"
+    },
     {
       "title": "Microsoft, Meta And Google Just Silenced AI Spending Critics In One Earnings Night As Big Tech Capex Swells To $725B",
       "summary": "",
@@ -35,28 +51,12 @@
       "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5YRWdKTl80S2k0cWNjaDlZeUJ2TFlOVU9fdGZ2bmk3elhsNFZTZVVmNjRGQmdfNGJTRTJyVERFUFRGZzNOSXhOcUd6LVVDZUNHZGR1UmhvOFpNcVdVMXA2QTJGbW1VZE1XR3JNOWtUS2dvWWJXMjZGSW90SQ?oc=5"
     },
     {
-      "title": "ISMG Pulse Report: Agentic AI Meets Enterprise Control",
+      "title": "Oracle’s Sudha Raghavan on AI’s infrastructure renaissance",
       "summary": "",
-      "tag": "apps",
-      "source": "BankInfoSecurity",
-      "date": "2026-10-28",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxON055d1hiWk1xM3VIUjNLb3lnOHJ4RldSZXBsZUFJZm0zTUZiVkF6Vnh5T1dTSDhIbGZWTW9oTUZmR2p3Vk90bndrcXh1dGxnNHNLZ2tVU2hpdGZBT0dHVnlYWGNBek9FbTVvMk9tT2t1SnllNGtJUURFekhLVlA1ZUVvUmhROWNUQUpmQWN2MU1LZnN4UnJsNE5B?oc=5"
-    },
-    {
-      "title": "Israeli AI start-up NanoCo brings governance and security to enterprise AI agents",
-      "summary": "",
-      "tag": "apps",
-      "source": "The Jerusalem Post",
-      "date": "2026-10-28",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBObllYdVVfNy1hU0dkdEVydkJQeC0ybmxqQzNORU44UWVOd1pyZ29IbjZha2JqNTctekhUb0JmcFRDRmpreVl4Ym1fX2xuOXZCYktkZENNODdRLU5kek5BZjhUMjFoUmQ0Y2ZoZg?oc=5"
-    },
-    {
-      "title": "Agents in the org chart: a new model for enterprise AI governance",
-      "summary": "",
-      "tag": "apps",
-      "source": "Technology Record",
-      "date": "2026-10-28",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNblU4QUx1bk5OSmZrNkpUTDRrb2llR0tlRDc0a0w3MDktYnUwSHJWVjJtOWVaTWh6Wm1lbkJheFNNZ09jZUc5a3JaSV9YRWtiamZPYmNQZ29YTjAyQWdSR2hRcG5WR1RzOGNKanEzTG50VkxPeGFISXlIZE9oeE5uR0pFcTROR2F2MTMyY3JEZ3EyWXZCSVZvX1h0N1dSV2pRNDQ4dnlIYTE?oc=5"
+      "tag": "aidc",
+      "source": "TechTarget",
+      "date": "2026-10-27",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQcXpUdTZ2MGc2TVNyVFlQcFB2Q29wZzRiZnlUVWc1UzFkMndnUlZib1U4Q2lnVHQwR0RwdTlTQUk2S1F2NHJ2TC1YQ3pYdDk1WVBlUnE2TEFudS1yOUZiOXE2bGwzMTNMREo4dm1hZlRhbm1SQXFLS2ZKclNESl9jYUlqd1ZqSk82Sl80NDRHdDhCb2cyMzJRMVE0MDg?oc=5"
     },
     {
       "title": "AI資料中心卡4關！央行澆冷水　示警融資風險",
@@ -67,6 +67,14 @@
       "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1Vd2hOeHVqTjlrT2U3S0RPM0pkTktkOFJGMzFIYkNlakFrd2k5VzQ0NzBaT3g0UXk1QVNGd3E5TEdjQ3EwSUphRExwaUxBb3pCVmfSAVBBVV95cUxPQllqZGQ4VzdLdVZJbllhbU00NXVtNDlrdEp3cjRqSi1FXzVyNE9MZ2xKMHppalRQQXhrLWV3elE4dkxXaENDR2VwY2h5UzRRQw?oc=5"
     },
     {
+      "title": "達發攜手聯發科搶攻AI資料中心！家庭光纖技術開闢新戰場 5年PON設備支出估達30億美元",
+      "summary": "",
+      "tag": "aidc",
+      "source": "財訊",
+      "date": "2026-10-27",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5ld2phZzlqZXJUcGsyeW9nbl9zenhtQkdSb2lRYm9QaURsS3RiWVBvQnZHSGJVclhRcGhWTnpVM1lMZExhTUhhbUxDTGJ5a2M4c1pkRk9ObkJsVTM0U0lMSkk4YW9vT2h0VF9TOHlPdGNwc2haSmJYMERMRQ?oc=5"
+    },
+    {
       "title": "Anthropic’s ‘Adjusted’ Profit Exposes Wall Street’s Earnings Game",
       "summary": "",
       "tag": "demand",
@@ -75,20 +83,20 @@
       "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQSWx5Q3UtbEx6dUhyUV9zMm5WUWhDUGI3ZWpIdnlzbklmVXVzWnV5SFAyTEo1MTRSUUhrSWhleHZMYUpvTTdNOEwxMnlMRTBLRHB1ZXVMMGdpd1FKZnY1eHNIdkRSUHdEdWFUWkJqbFAxd2VYWXJ1NjlKQzYzQ3I2Q3R6eldQS2duckRoV2hyOE5PSTFCYTk0MENRTGVnejdmVWpqNDJrbXdWVWRV?oc=5"
     },
     {
-      "title": "General Compute raises $100 million Series A, countering the neocloud disaster narrative",
-      "summary": "",
-      "tag": "demand",
-      "source": "TechCrunch",
-      "date": "2026-10-27",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPQVVicEc0Q1FoTEpHcXI0SERMUjN5QTl2VXNyQldXbHkxYnNkaHZNX2swY3djNmQ1ZDdOU2tqaFhfblFXZl9IMjFkOXZxZzQ3WldLVl9XM0Q3YVFiVGdUOGZveUV1S3lneFNKeTJ4YTE0ZGN2NXBKclplcGZhMUQ1dm5uUGxTYmdSd1JaVjRxck9vdm1oWC1iUUl3c21HTVVjT215d3o4Z05rOEdleFpIbmRTOXl4YUhiRVo4LVNB?oc=5"
-    },
-    {
       "title": "Neoclouds Secure Record Funds as Nvidia’s Huang Says More Investment Is Required",
       "summary": "",
       "tag": "demand",
       "source": "Morningstar",
       "date": "2026-10-27",
       "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQQUtHQk9GWWVCYzJIU09sZFpWVmRUM01XVzBEWmstTlYtNUtwekxXUmVFWmhzbWVra21kampkNDN1OG0weFpjbEJHSEFxM3Z4aUtpWDhHT1o1OGExaVFwYzN0V21DZmV4U2JhelZCcHRhMVJGcVRNdmg2WHRxdWhDTS10ZFo0ck9TNEt3WHA0eld2NGh2WTFwb0gtRkJ3YWFObm8wZXlsS1BDN21sNzM0Rw?oc=5"
+    },
+    {
+      "title": "General Compute raises $100 million Series A, countering the neocloud disaster narrative",
+      "summary": "",
+      "tag": "demand",
+      "source": "TechCrunch",
+      "date": "2026-10-27",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPQVVicEc0Q1FoTEpHcXI0SERMUjN5QTl2VXNyQldXbHkxYnNkaHZNX2swY3djNmQ1ZDdOU2tqaFhfblFXZl9IMjFkOXZxZzQ3WldLVl9XM0Q3YVFiVGdUOGZveUV1S3lneFNKeTJ4YTE0ZGN2NXBKclplcGZhMUQ1dm5uUGxTYmdSd1JaVjRxck9vdm1oWC1iUUl3c21HTVVjT215d3o4Z05rOEdleFpIbmRTOXl4YUhiRVo4LVNB?oc=5"
     },
     {
       "title": "NVIDIA Vera Rubin NVL72 & Vera CPUs on OCI | Oracle",
@@ -123,14 +131,6 @@
       "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQcTVmQUloM1VqQkYxY181YWJPb1E5b1pJWklpWWxVX3B2TjIzZUp0TUdRQzRBQi04ZjRMcDdHYkpjTVE1dWp0TExhektkR1BCRlZoYW1wb3BINUxUdEpUbXFZR1F1T21EQ1U2b1BxQ3dpWjVBekFPd1NEQndUSzB0bmxnWGpUTHloRF9GTFR4UU55R285TExLU0dGazJ6YVh2T2I3WUgxWXIzSGxyT2pXLTBuNm4yVWQ4SEFxVFBVLU1HUQ?oc=5"
     },
     {
-      "title": "The imec Report: Scaling Optical Interconnects For The AI Era",
-      "summary": "",
-      "tag": "products",
-      "source": "Semiconductor Engineering",
-      "date": "2026-10-27",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPVVY4WGNMa2Uza05wR3M1VElzYWNRcWVsNmpTVXV5cUtNUFpVRWFsSTRUTkRPVG9aRHROQzhpWlpZUjRxV21Sc0x2aHNmUlFaSlVqUzRZak5HdVV2N0NaZnBra3AxeTN6SXlhcGgwbC1DcHdIOWZ4Q0kzOFUwNTdUUDhwNTdXOXl0UDdOX0tJbzBZQnM?oc=5"
-    },
-    {
       "title": "Tesla begins humanoid production in California",
       "summary": "",
       "tag": "apps",
@@ -163,6 +163,14 @@
       "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1WemxCTjZWeFQ1a0hIRTRoV1E4VkZWc29DTzRfVUV6cVZGX0tlUC05WEZqNUtlX3d1ZWt2cDFtZW1XQzBQZXA2TDBteFFqcEdsM1BnbFJGd19jSmtkY2w5Mk5vMlFsX0QwSzQzVi1qVWVvaGxwdG5tVXNn?oc=5"
     },
     {
+      "title": "ISMG Pulse Report: Agentic AI Meets Enterprise Control",
+      "summary": "",
+      "tag": "apps",
+      "source": "BankInfoSecurity",
+      "date": "2026-10-27",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxON055d1hiWk1xM3VIUjNLb3lnOHJ4RldSZXBsZUFJZm0zTUZiVkF6Vnh5T1dTSDhIbGZWTW9oTUZmR2p3Vk90bndrcXh1dGxnNHNLZ2tVU2hpdGZBT0dHVnlYWGNBek9FbTVvMk9tT2t1SnllNGtJUURFekhLVlA1ZUVvUmhROWNUQUpmQWN2MU1LZnN4UnJsNE5B?oc=5"
+    },
+    {
       "title": "Trump’s Vision for A.I. Dominance Comes With Major Air Pollution",
       "summary": "",
       "tag": "aidc",
@@ -193,14 +201,6 @@
       "source": "Seeking Alpha",
       "date": "2026-10-26",
       "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOWVlxRlpPVEhqT2RQNTgyTThMQUx6Rk4wb2FDYVpuaGN6SjhMZ3FDWVRwcmJsbWlUcEZfOFdjQUJhc0duZWpvbi1pWkE4WlB6bk5DMzJaRG9FcWNUa3V6NXdOXzZEb3ZzZVY2SUhBOF9KM0hQb2EtT0dLdEVfdUgtUm5HSXdCdGNnZTk0eUl2VTNjNmpmMEU2YmtXVUF3WUh5LVFUZnNwM1hsakNCY1VMZ1lUR2lRVEQ2SFUyZkpOZFFPZzluaWpTczhn?oc=5"
-    },
-    {
-      "title": "CLS: Hyperscaler demand drove 83% Q3 growth as capex and infrastructure risks mounted",
-      "summary": "",
-      "tag": "aidc",
-      "source": "TradingView",
-      "date": "2026-10-26",
-      "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxOVmpxQ0h5MTEyTlhkTUcyZXZkN2t1aVF2OXAwNVE2QmtOSnpNbTNxVEtERWk4MUJlZzNNem1qbTBIYm5QMVBPYVl0QnNBNGZpdVVwZjViTEp0MnJUUTZQN0l0c2hlVUpLMFlkRXd5Y1hrMzV1czk3UDFUQjBkWjR2ZldSS2Y1Y29DMGtRR1gxdm9ac3ozT2dwX19ERUZRR3J3VGpHUnUwYXozNWYxdWsyUzloYl9oVHA2UUNfbWk4cmJRMEozWUExMFBrUTZhYnptbFZGck5WT2dnZ1dCY2xObkVsX3did1NWcUJhcXRDRlM5N0I2VXFVODFR?oc=5"
     },
     {
       "title": "AI 資料中心電力告急，800V 高壓直流成新解方，36 家台廠搶食金礦",
@@ -251,14 +251,6 @@
       "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE83a1BzeUdlQVM4X1VkUUFBWnBYWEtTeUpXaF9WUHRqbTg2bC15XzZmUGE1YVZsMmdLWWJUbmp5d09EYWtmQ29DRXllQzhSOGpoR0pTM2p4b0Qwdw?oc=5"
     },
     {
-      "title": "Anthropic's IPO: What Its S-1 Reveals About The AI Boom",
-      "summary": "",
-      "tag": "demand",
-      "source": "Forbes",
-      "date": "2026-10-26",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQbWdIVTUwVEVwRWt3dzh5NWRvWEhmYjdDWnNOUGNDaVNWc2xGY19pcHNuZ09RY09RZnJGRmI5VDI3cGVtclV1aWlSV3RwMzl3WF9pQVp2M3JLc09WelBoZW5wVE5EVENHak9WUS0zUDZxblBGQkNkUzlPT2QzdGpZVi1OSlFzNFJ3R1pqeDc1NzBscEN6NUE?oc=5"
-    },
-    {
       "title": "Anthropic’s Massive Revenue Surge Comes With Ballooning Computing Bill",
       "summary": "",
       "tag": "demand",
@@ -299,6 +291,14 @@
       "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOaTdjdWZvYzFxai1ZVHJRRG9iVmk1MjBlcXVUcnVXR1lEQVdwS2Y1OFg5TmdiT2x0ZjhBLXhNb25RTWhIX2tvWVhJc1FRaTNMeTNaQVNtNF9qRkNrQ1pFVzlhdTRjNk9Fd2NhSUJVNjR1c1Y2YTRCVU03WHo2LVFIR3NCeWY5bF80WUtwcGFpZFNzdk83V3VYX0RJS0tVM1NQUjIxdmZyNG9PY2JfUkNHdXFjVjQ3dw?oc=5"
     },
     {
+      "title": "Bringing Down Test Costs For Co-Packaged Optics",
+      "summary": "",
+      "tag": "products",
+      "source": "Semiconductor Engineering",
+      "date": "2026-10-26",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPdnRQcHNMM29lZ2RhRlRCQTZwSGNudi1EZzdCNWRsdjhXQnMwZkNpRE5xRkhVZ3Y3a1J2dkg0RGtoWjAwcDZtWkR3NHVNY2tPQ0ROdmpJUE1pRFE3VzJGd21UQjZibFgyNG14bHpBYWpfNHVyNW96LTMwVFVLTHV1LUV3?oc=5"
+    },
+    {
       "title": "Video shows humanoid AI robot roaming NYC streets",
       "summary": "",
       "tag": "apps",
@@ -315,12 +315,12 @@
       "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNQXlVdlEzQWEwTHJuVVZVaXl3YmJaa2stdHBUMmM3RUo2VWNUOXRRN2ZlR1ZlZ0p2RnlfV1VlbDhrYmJ3ZWNxQTV1M3k5QXNjUzdCTFZldTRTZmhRWWQ1b04zVzhVcDNvblhtRmoyTi1USU53a1BSYjJ1MnExdmdMbFZ6ZVR3d2NmYjhDMXNIaTA4RDl4S083QTJuVzJLZw?oc=5"
     },
     {
-      "title": "SpaceX Q4 Capex $35B-$40B, Meta Adds Share Class [2026]",
+      "title": "Realbotix Launches Echo Humanoid Robot Line",
       "summary": "",
-      "tag": "aidc",
-      "source": "shattered.io",
-      "date": "2026-10-25",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQOVFTTEhiTWlza1BRRnp6bGQ1VTBvWEtOOUlnZFdHekltc1N5MmpIRkNZRVRQeWlWN3RPMDBDTDRGYmF6X0RpNTZIZnY1cUpaOGhuU0FNd3pjM1QzLWZSTVVUS21Vd08zTlRUUW5jcXhldDBNTzgyYi01Mno2VlFYc0lWYw?oc=5"
+      "tag": "apps",
+      "source": "Rutland Herald",
+      "date": "2026-10-26",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQMkp0Q1hENXZ0cWxnaUtBTlpkWHNxanJkaHBwbWRzR1I1dWR1a1FhN1EtTTJlaWRLSkNIckxEVXIxQ2VlWWZ1Y2J0bjRuS3RBczU1VGZoM0djXzVTcFN5aF9CcUFTN2hESldvQkVzVmlIemlidF9rakdkVnN4TlhEUTQ3MXhCcENjQ3lVZ2xkcXJtRmlUc1U5X1gtV09IMk5iUjZMcnJESGVLamtjald5aFdqNS1pbjJJcklpVThBRGxRdTdwclpJTTJsTVBiYjQ1ZDRj?oc=5"
     }
   ]
 }
