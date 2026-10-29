@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-29 21:21",
+ "updated": "2026-10-30 06:52",
  "etfs": [
   {
    "code": "0050",
@@ -8,7 +8,7 @@
    "type": "市值型",
    "ok": true,
    "stale": false,
-   "fetched": "2026-10-29 21:21",
+   "fetched": "2026-10-30 06:52",
    "source": "Yahoo股市",
    "holdings_date": "2026-09-01",
    "industry_date": "2026-10-24",
@@ -132,7 +132,7 @@
    "type": "科技型",
    "ok": true,
    "stale": false,
-   "fetched": "2026-10-29 21:21",
+   "fetched": "2026-10-30 06:52",
    "source": "Yahoo股市",
    "holdings_date": "2026-09-01",
    "industry_date": "2026-10-24",
@@ -226,7 +226,7 @@
    "type": "高股息",
    "ok": true,
    "stale": false,
-   "fetched": "2026-10-29 21:21",
+   "fetched": "2026-10-30 06:52",
    "source": "Yahoo股市",
    "holdings_date": "2026-09-01",
    "industry_date": "2026-10-24",
@@ -358,7 +358,7 @@
    "type": "高股息",
    "ok": true,
    "stale": false,
-   "fetched": "2026-10-29 21:21",
+   "fetched": "2026-10-30 06:52",
    "source": "Yahoo股市",
    "holdings_date": "2026-09-01",
    "industry_date": "2026-10-24",
@@ -416,14 +416,70 @@
    ],
    "industries": [
     {
-     "name": "其他產業",
-     "weight": 0.01
+     "name": "金融保險",
+     "weight": 53.84
+    },
+    {
+     "name": "電腦及週邊設備業",
+     "weight": 18.61
+    },
+    {
+     "name": "航運業",
+     "weight": 7.05
+    },
+    {
+     "name": "半導體業",
+     "weight": 6.67
+    },
+    {
+     "name": "建材營造",
+     "weight": 2.2
+    },
+    {
+     "name": "其他",
+     "weight": 1.73
+    },
+    {
+     "name": "文化創意業",
+     "weight": 1.56
+    },
+    {
+     "name": "紡織纖維",
+     "weight": 1.45
+    },
+    {
+     "name": "電子通路業",
+     "weight": 1.44
+    },
+    {
+     "name": "運動休閒",
+     "weight": 1.06
+    },
+    {
+     "name": "電子零組件業",
+     "weight": 0.88
+    },
+    {
+     "name": "其他電子業",
+     "weight": 0.81
+    },
+    {
+     "name": "橡膠工業",
+     "weight": 0.61
+    },
+    {
+     "name": "數位雲端",
+     "weight": 0.5
+    },
+    {
+     "name": "汽車工業",
+     "weight": 0.37
     }
    ],
    "assets": {
-    "現金": 100.0,
+    "股票": 99.99,
+    "現金": 0.01,
     "其他": 0.0,
-    "股票": 0.0,
     "債券": 0.0
    }
   },
@@ -434,7 +490,7 @@
    "type": "半導體主題",
    "ok": true,
    "stale": false,
-   "fetched": "2026-10-29 21:21",
+   "fetched": "2026-10-30 06:52",
    "source": "Yahoo股市",
    "holdings_date": "2026-09-01",
    "industry_date": "2026-10-24",
@@ -492,14 +548,30 @@
    ],
    "industries": [
     {
+     "name": "半導體業",
+     "weight": 92.01
+    },
+    {
+     "name": "電子零組件業",
+     "weight": 3.48
+    },
+    {
+     "name": "電子通路業",
+     "weight": 2.16
+    },
+    {
      "name": "其他產業",
      "weight": 1.69
+    },
+    {
+     "name": "通信網路業",
+     "weight": 1.23
     }
    ],
    "assets": {
-    "現金": 100.0,
+    "股票": 98.32,
+    "現金": 1.68,
     "其他": 0.0,
-    "股票": 0.0,
     "債券": 0.0
    }
   },
@@ -510,7 +582,7 @@
    "type": "主動式",
    "ok": true,
    "stale": false,
-   "fetched": "2026-10-29 21:21",
+   "fetched": "2026-10-30 06:52",
    "source": "Yahoo股市",
    "holdings_date": "2026-09-01",
    "industry_date": "2026-10-24",
@@ -568,14 +640,50 @@
    ],
    "industries": [
     {
+     "name": "電子零組件業",
+     "weight": 42.13
+    },
+    {
+     "name": "半導體業",
+     "weight": 39.29
+    },
+    {
+     "name": "電腦及週邊設備業",
+     "weight": 6.24
+    },
+    {
+     "name": "塑膠工業",
+     "weight": 4.41
+    },
+    {
+     "name": "通信網路業",
+     "weight": 2.79
+    },
+    {
+     "name": "油電燃氣業",
+     "weight": 2.34
+    },
+    {
+     "name": "光電業",
+     "weight": 1.54
+    },
+    {
      "name": "其他產業",
      "weight": 1.49
+    },
+    {
+     "name": "金融保險",
+     "weight": 0.01
+    },
+    {
+     "name": "其他電子業",
+     "weight": 0.01
     }
    ],
    "assets": {
-    "現金": 100.0,
+    "股票": 98.51,
+    "現金": 1.49,
     "其他": 0.0,
-    "股票": 0.0,
     "債券": 0.0
    }
   }
