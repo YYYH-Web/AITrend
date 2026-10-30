@@ -1,7 +1,23 @@
 {
-  "updated": "2026-10-30 14:02",
+  "updated": "2026-10-30 21:13",
   "source_note": "Google News RSS",
   "items": [
+    {
+      "title": "GMI Cloud展示在臺AI Factory設計，AI資料中心的新瓶頸不是機櫃，而是電力",
+      "summary": "",
+      "tag": "aidc",
+      "source": "iThome",
+      "date": "2026-10-30",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBIZ3B1YV9BSDVHS0gtb215Y041S18wei1KR3ZrQ0FyWWFLTy1kR1htS1E2bUJ3QjRDamxScjR4YmNGU3NheVpGY3NtSlYxUQ?oc=5"
+    },
+    {
+      "title": "〈鴻海科技日〉東元與鴻海展出模組化資料中心 一站式整合交付攻AI基建商機",
+      "summary": "",
+      "tag": "aidc",
+      "source": "鉅亨網",
+      "date": "2026-10-30",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9SZkFCZjlyUk9ja1ZYWVBvOGd5ZVVteXBjUlc1U0YtdHZZNTBoRkxfajNHMEtnVjdtb0F2Q0JlbWtfcWFmWk1BZkhNVVVvME0?oc=5"
+    },
     {
       "title": "Liquid Cooling Keeps 51.2 Tbit/s Co-Packaged Optics Within Safe Temperatures",
       "summary": "",
@@ -9,6 +25,22 @@
       "source": "Bioengineer.org",
       "date": "2026-10-30",
       "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNZ2lvUE9ZLXpJelVjc1I2MWpvbEZHVGdlQTZYNEdVdngtaktHS1JfTi1fVGdnTGFfRjFyb05oQW5zTzNWOEZjcmpEWkJXNC1tLTZoWEV2OWU3Wk1XdVo3RWYtdDlabmxYTWk3eTI4LWRLVFZBbjFFbWtyYlZndHNhSjZ0RGUwRFV3bVQ4VnJodnJkRHFpeXFZemUyd0NkYTdkNk1j?oc=5"
+    },
+    {
+      "title": "TE Connectivity Expects to Add $1 Billion in AI Revenue Next Year",
+      "summary": "",
+      "tag": "products",
+      "source": "AIM Media House",
+      "date": "2026-10-30",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPR09SMVZUeGNEcUtOMTVxR1BXQWgzMDN3bWVydFNidkJ1MDlFVDZJQ1ZFTnIzNFp3ck1nME1oTlB2VUwzc0ZFQ0h5ZlBtVURBNmJ0VmsyLXhrNlFUQ2JGZHRabTVzb09QYjBrMHVUMlZTaG5OX3NMNVRSbFI3S3dzVjhRUWF1UW82SkFERVZIWUV4U05jMlZhbUU1TTZZVlNaTk83NWhHRQ?oc=5"
+    },
+    {
+      "title": "The Humanoid Robot Market Could Be Worth More Than $7 Trillion. Here Are 3 Stocks to Own.",
+      "summary": "",
+      "tag": "apps",
+      "source": "The Motley Fool",
+      "date": "2026-10-30",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNQ2dZYUlHVzFaX1BIUlRyYldoNWdaMG1sYUsyNmp0ZWxBUVdON3BzQklaUk8tcjZmX3JXQmdwNjdSQlp4clJNbzVVbUNjZEZQQmhIeVZjSTBXVUdtTTAxOUNUdERrcDFjOUlLOUtCTGNzZE1YUk02UEFFYUVWZVc3WklxeE1IcFM3Sy1sNlB5NXllSnFJbEx1TQ?oc=5"
     },
     {
       "title": "The 50-Gigawatt Test: SemiAnalysis Sees a Historic Data Center Surge in 2027",
@@ -51,6 +83,22 @@
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPSjV4NmJpb0cwMlNfMkRhcXRuX1Y3VzVNWWVXUVFnenluSnFtRTZGY1QtT0hwRDJvdkowV0t1UHd6bnlsV1JKa1p4aGdtRFRKX0s4aVRodXBTeHlDZjhBNDc3NDJ1WnMxU0lxU2IzTmFfV04wdktDc1JYZ2hLWTBwNUNNVkN4dnlN?oc=5"
     },
     {
+      "title": "基礎設施成兵家必爭之地 石化集團布局 AI 資料中心",
+      "summary": "",
+      "tag": "aidc",
+      "source": "經濟日報",
+      "date": "2026-10-29",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBxTEl3UkdyUXI2SWNzWkk0MHBlcnFOcVVBNGdCWkpJTlpCOC1DcEZJMGJvbWRiZmVQOFU1YVpuNVlrQ2pncWNzRTZKVm9mSkk5TmkzQ3lqVGdjUdIBX0FVX3lxTFBnMEtoN1U1Yi04eG05MjdEUU1OVk93dk9vSXR3b29WZzlBMll3bGtsemZDLUw4VGF5SndYd3VOZXRQNXRfLXc3ZEZOUDF1RVdid3RWWVF4UHlWdnZDaU9J?oc=5"
+    },
+    {
+      "title": "SpaceX’s Largest Revenue Source Is a Finite Deal With Anthropic",
+      "summary": "",
+      "tag": "demand",
+      "source": "Bloomberg",
+      "date": "2026-10-29",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQQ044eGtubmthLU5BVE1IbUVZbGQ1MklPR1R2MzhTQ0xRdE95ZUEwSEx5b0ttZkRrWDNLWG4zQ3d6S3IwZjBQbUphajhfY2VCa0NIbkx2TEc0TWpENmRvS2ZpTHB1TVNKMEJvNjdlNHFNYVRzZUwtb2N6SnZoeG5ISmtwOUFsajdYMnd4dlJBcm1uQ1czNzVlRTlDUE81QVo3QW1kTGFoSXBmT1gxZ0RRa2ZPNm4?oc=5"
+    },
+    {
       "title": "72-GPU NVIDIA Vera Rubin NVL72 Racks Anchor OCI’s Planned Multi-Gigawatt Expansion",
       "summary": "",
       "tag": "products",
@@ -65,14 +113,6 @@
       "source": "PYMNTS.com",
       "date": "2026-10-29",
       "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQQUFaTjhaOE9WNnFHelV1RmhxcTlVZnRZb21YNE5pSl95U2dGMDdQYjdnS3lMSWo5WFpPcWIyQk05VjBWMFRuNldwUm9rQXlCTlgwZlBnU0VUMk1KNXp1OHhiRnY5N3VmQXFpREc1cC1EWUhKeTlyVEJRTGMtOFBlSC1vYV9nWW8xaXNtbFI4dzllcEFUdnlPOXJab3ZwUUxkcW5yV2RUQi1DWVhoM3c?oc=5"
-    },
-    {
-      "title": "KT雲攜手Vertiv，韓國群山AI資料中心導入模組化電力與冷卻基礎設施",
-      "summary": "",
-      "tag": "aidc",
-      "source": "BigGo 財經",
-      "date": "2026-10-28",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFB2djBLSDFDUU9ndnUzU25YVlZxaTNwQlpFSC1zRngwNkhTd3FqM0liUGhJLVRBeFlkQ2tXbEdCQTFtamlxYVh3LUtON2FHSTJQOWpEeVlFOHhQQXlaZk5Cd3JteTN2WUlzUFNwYmFrZGVyckFxZFVWcWt3?oc=5"
     },
     {
       "title": "Israeli AI start-up NanoCo brings governance and security to enterprise AI agents",
@@ -129,14 +169,6 @@
       "source": "動區動趨",
       "date": "2026-10-27",
       "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOSlBwSnlCalM1UzVidlJKemNiay1DbGZmelJ6UUpGV3dueDljUHVNYzlhZ1RJQ05hVTE2aFR5U1NGdHBONWVQTnpMcjREYlVfbmtZRG5fOGtUek9INkRGOVhMTmxIalViWjRjZkgtb3QzLWxxV0N3bHN1VEpJSUpBdm1lY1BKdFVEUnpBaXRWc010NVJFV0NBTGNkdTFPUk4x?oc=5"
-    },
-    {
-      "title": "達發攜手聯發科搶攻AI資料中心！家庭光纖技術開闢新戰場 5年PON設備支出估達30億美元",
-      "summary": "",
-      "tag": "aidc",
-      "source": "財訊",
-      "date": "2026-10-27",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5ld2phZzlqZXJUcGsyeW9nbl9zenhtQkdSb2lRYm9QaURsS3RiWVBvQnZHSGJVclhRcGhWTnpVM1lMZExhTUhhbUxDTGJ5a2M4c1pkRk9ObkJsVTM0U0lMSkk4YW9vT2h0VF9TOHlPdGNwc2haSmJYMERMRQ?oc=5"
     },
     {
       "title": "Anthropic's IPO: A close look at AI frontrunner's rapid growth, spiraling costs",
@@ -227,6 +259,14 @@
       "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNMkc2eEt1TWtsdGMyakwwbENvTldlM2tKNjJTb1RwSTdnbXgxOTVwWmRyTlVSeElfcmtGclZnbThpR05IOVQ2SmdxMlpZMVByMFRZU29aeVNXSHR3VWpZWDJ2M2FROFVwZlZOUkdFTXRKR0U3M1hCLTVNSE84V25YZnEwYXRkRTFPVXV0QWdZdzdSVnhtYzVLajlLQlo3bUFTRUc3VWtsUGswdWJraVQxXzU3MExyZGhpNmY0a2FCRUU4NE1Ma3lSYnFGbE41OTNnLUU1MmhaaWc5a25qMjVnTENtQ2JIbFRMTmt0blhfWQ?oc=5"
     },
     {
+      "title": "Nvidia and Oracle expand Vera Rubin GPU and CPU on cloud platform",
+      "summary": "",
+      "tag": "products",
+      "source": "StreetInsider",
+      "date": "2026-10-27",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQcTVmQUloM1VqQkYxY181YWJPb1E5b1pJWklpWWxVX3B2TjIzZUp0TUdRQzRBQi04ZjRMcDdHYkpjTVE1dWp0TExhektkR1BCRlZoYW1wb3BINUxUdEpUbXFZR1F1T21EQ1U2b1BxQ3dpWjVBekFPd1NEQndUSzB0bmxnWGpUTHloRF9GTFR4UU55R285TExLU0dGazJ6YVh2T2I3WUgxWXIzSGxyT2pXLTBuNm4yVWQ4SEFxVFBVLU1HUQ?oc=5"
+    },
+    {
       "title": "The imec Report: Scaling Optical Interconnects For The AI Era",
       "summary": "",
       "tag": "products",
@@ -281,46 +321,6 @@
       "source": "The New York Times",
       "date": "2026-10-26",
       "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQem5tczhQSXlXWkQyRU1XaTYyUmRaUElYZzlCbmtXRGI4WVgySklmZ2ctQ0s1UWJ2N1MzTU1xX1phbVdlTDIxM2NmcDVvdWpCT0EwcXFvZDlJMjJhdDBZaUpBODg4RnlnMWc3NWZaYXJYWi10VmhiNlU4MXVadlNXZmVZcHFXY3FQb1FHdjl0QQ?oc=5"
-    },
-    {
-      "title": "Tesla Isn’t a Hyperscaler. Why the AI Bears Are Misreading Its $5 Billion Capex Cut.",
-      "summary": "",
-      "tag": "aidc",
-      "source": "The Motley Fool",
-      "date": "2026-10-26",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOWjRfMmVucXFSYXJ4bS1FazRfZUVHR2JzWV9ndjc1b0phV0p4ZFB3eklsZHJWdC1DeXNyRjhjRzl5eGgydUhlOTJyLS1vSEdkYUc3aWUwQ29RMmtyUlFRYS1paUFMUW1jeWxZTVRhck82WnBJQ1o3RTBKTlVyd254bkw2d0p5S0pzQzFUcXY1SUE5MTFMNGEwZ0kxUGlBV2JsY2lSOFFWZ0Myck1hODFlRWEyQjRNSGdiWDloTWs0QUs?oc=5"
-    },
-    {
-      "title": "AI 資料中心電力告急，800V 高壓直流成新解方，36 家台廠搶食金礦",
-      "summary": "",
-      "tag": "aidc",
-      "source": "TechNews 科技新報",
-      "date": "2026-10-26",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOSnIyZ0NqanhhV0dDd3lhTGVLVDB5NF9TUHFpQ0M5Z0hLdkpXcklibjNodVY1djJhVnVjcGRFUTBleE1wdTBRWjE5UFZVVjdQeC1fMTJ6dUxNNkhCZERRY0NKRV84bWRIZjA3Q1FhaTZCZXhkSlRPYTZwdjBlTTZkWFRTVXk0cUpBVW0wRGN3?oc=5"
-    },
-    {
-      "title": "以光代電AI資料中心選址眉角- 日報",
-      "summary": "",
-      "tag": "aidc",
-      "source": "工商時報",
-      "date": "2026-10-26",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9qblJ6bkgxblFuTTAzd2JhY3d0b2NWbWpRTE5OUndkcUd4dFZ3UXRGVGtPemkyc1YwNkM4ZEJxSVJ4SmZ1cXdOU3Fua05wRTlyajIxbUZ4U0VJdjFBWjNJ?oc=5"
-    },
-    {
-      "title": "Anthropic is losing $80 billion on paper — and just made money where it counts",
-      "summary": "",
-      "tag": "demand",
-      "source": "Yahoo Finance",
-      "date": "2026-10-26",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQZmtUUUswR04xQ2I5bHBKQ193ZHZIZThXcUtHZXBuR3dtRWUwTkhlaUZZV3J5RnNtb1NHY1VyYUIzU3JnQ2hobE9kTUhEWEhXc2hqOFFJZHNLQTYyRWFDVUNlN1UyNk5ZNXNjblFNS2JVRUV2cnREaEhGU1lJRTR1Nmh4QWlNZEZyLThNekk0dWZYVTFqbnJLWXpvZlJaQ2FRWjkycTJ6c1NCSzhCQVF2RjZneDAzTDk4NUVSYW1wU05qRVZ4VURGS0JqeXFQdw?oc=5"
-    },
-    {
-      "title": "Anthropic reveals $80 billion loss, surging revenue as it prepares to go public",
-      "summary": "",
-      "tag": "demand",
-      "source": "The Washington Post",
-      "date": "2026-10-26",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNNmtiU2pPX05WX0lNRndwX1E5VkZ5ejV6azhBVUpfWWJMM1RMeHcycHo5OGcyemtKZUVWOFdwQ3FYUW1zR2N0eEFqUEJPZ09JSkU0NzNZQzExX1FuMjRXaUtyODNSeDlRdWpsLVItdE01YXhwc0JreW5veWdHSUJXRjI5c0hTa0pmQ0ZKYzlVZGhKbmNmdlN6QTJjX3dRZU93LWZpVFc1UWppSEl5UlVrWnQ4SWsybkE?oc=5"
     }
   ]
 }
