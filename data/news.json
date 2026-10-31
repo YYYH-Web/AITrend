@@ -1,7 +1,15 @@
 {
-  "updated": "2026-10-31 06:30",
+  "updated": "2026-10-31 13:58",
   "source_note": "Google News RSS",
   "items": [
+    {
+      "title": "Google outspends Microsoft in race to expand cloud capacity",
+      "summary": "",
+      "tag": "aidc",
+      "source": "Channel Dive",
+      "date": "2026-10-31",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPRl8zQVNGcDIyejlTQXNJOUF6MTJJX181aHR2SmVKdjRnQUJ4U0dwbXY4dzMwc1o4US0weHR4cC04eWtjcnhFQmFEU2d2N0o4aU90Q2l1eExuYWRSanl3ZU1uRC1qdFFaeTlzVVNTUHVGQy1FbjgwWVdCaG51VnNlNUdWU1VIY2VSdWFnazBPVnhUWVhvT3VBell3U3dqR0tLcVE?oc=5"
+    },
     {
       "title": "Can AI data centers be mass-produced like cars? This startup aims to find out",
       "summary": "",
@@ -27,14 +35,6 @@
       "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOWkFSVmF0VHpkajRiOVlUbzdtVVpybXIydm4zM1pad01oV2RsUW1mcFpjUHVMaVJwd2c2X1FTZkZMYlhudkZ6bFVxcWJZSTNGSmNNWGQ4ZmdsbW9xWFplZEliNXotazZabWlSUW9UbFAza1FLR0FDNF9zMFRmMDZYQ1lPbmh1SGNKVDFzaUxvZ3ZkalVqUkZUNXl3YThLMGdUYWh2UmU5THJjR1FMenNncUdQVFdWcktxbzBFaXBVbUxnMVdPSnkxNFRR?oc=5"
     },
     {
-      "title": "Google outspends Microsoft in race to expand cloud capacity",
-      "summary": "",
-      "tag": "aidc",
-      "source": "Channel Dive",
-      "date": "2026-10-30",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPRl8zQVNGcDIyejlTQXNJOUF6MTJJX181aHR2SmVKdjRnQUJ4U0dwbXY4dzMwc1o4US0weHR4cC04eWtjcnhFQmFEU2d2N0o4aU90Q2l1eExuYWRSanl3ZU1uRC1qdFFaeTlzVVNTUHVGQy1FbjgwWVdCaG51VnNlNUdWU1VIY2VSdWFnazBPVnhUWVhvT3VBell3U3dqR0tLcVE?oc=5"
-    },
-    {
       "title": "CoreWeave Sinks 11%, Nebius Tumbles 9% as Hyperscaler Spending Jitters Rattle AI Cloud Stocks; Cloudflare Plunges 12%, Snowflake Drops 9%",
       "summary": "",
       "tag": "aidc",
@@ -51,20 +51,20 @@
       "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBIZ3B1YV9BSDVHS0gtb215Y041S18wei1KR3ZrQ0FyWWFLTy1kR1htS1E2bUJ3QjRDamxScjR4YmNGU3NheVpGY3NtSlYxUQ?oc=5"
     },
     {
-      "title": "〈鴻海科技日〉東元與鴻海展出模組化資料中心 一站式整合交付攻AI基建商機",
-      "summary": "",
-      "tag": "aidc",
-      "source": "鉅亨網",
-      "date": "2026-10-30",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9SZkFCZjlyUk9ja1ZYWVBvOGd5ZVVteXBjUlc1U0YtdHZZNTBoRkxfajNHMEtnVjdtb0F2Q0JlbWtfcWFmWk1BZkhNVVVvME0?oc=5"
-    },
-    {
       "title": "鴻海科技日展示輝達貨櫃AI資料中心 發表3款新電動車",
       "summary": "",
       "tag": "aidc",
       "source": "Yahoo股市",
       "date": "2026-10-30",
       "url": "https://news.google.com/rss/articles/CBMi6AJBVV95cUxNd2tIWm9HTWpKOWNQNkk2Sk1BS3lKbWRpSEdIMkVaVTl6VW4yUE5FeW0tX2pPVU0wVFZ3YzFMS08wWWowenJteGtNV29PLWN4VEdZYnRwVGJad2ROc3lqNGxhTlNTN01LYkdGUTlfZDRjblZDZTlnbTRzRnMzNFFYUWpSWDNHS2NGUThjY3ZyOTVBYjRta0dySlNBbWpjRmxQdE5UTmF4X2ljaHF3b2NpaVFTa3JmRFpqclh5QVFFZ0cyN0lac29vREZSVlBlY3k1bFpEbVh2cC03a0RxbzBYMTd2WVM5eGN1UmVQNDBUWFZsNHJCRVpSY0RXYk9pbDYzNHFRN05VSlEyUGpLVXlIdmdPVkJxNUJWQW44dzBEbXNpZ0ZzYXBzMjRtN25KOVhBMkt5MEVHUVo5a0dSMEFkMjlFUGxCbndTZ2laNFhtRjB1R1Z6cnV2ZGkzMXlTeEJBQnBlaEFqejI?oc=5"
+    },
+    {
+      "title": "〈鴻海科技日〉東元與鴻海展出模組化資料中心 一站式整合交付攻AI基建商機",
+      "summary": "",
+      "tag": "aidc",
+      "source": "鉅亨網",
+      "date": "2026-10-30",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9SZkFCZjlyUk9ja1ZYWVBvOGd5ZVVteXBjUlc1U0YtdHZZNTBoRkxfajNHMEtnVjdtb0F2Q0JlbWtfcWFmWk1BZkhNVVVvME0?oc=5"
     },
     {
       "title": "Liquid Cooling Keeps 51.2 Tbit/s Co-Packaged Optics Within Safe Temperatures",
@@ -123,12 +123,28 @@
       "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1pM0RNUDRnMFJXZkRoZG5ZdVVXRHozTUtidUxjMXdKbFBHVW9hTjg1NlFPcFcwLTZCQzM3cTRQYnpzRE1LQ3pNUkpxQmN1OEdnN25fZGhNUDlMZ0w0VW5kUGdoWWd4ZDFWNlZBTHFQaVpDd3B2M01UN3ZrcWzSAYIBQVVfeXFMUDhDNzNOa204RlZoNUNMTUZnWEVNY0RVbmtlNjQwc0N6YU0wWlhla29xRE5GRkhZbmwxRjEwNE9lZ2VoaG9mU0loVVJGaEprdmY2TkE3U1luNlE3Q2g2VmJVSlZkQ0RPYVdpSGYzV1lSMFZzZmRjU2lFanhOUThXUzZGZw?oc=5"
     },
     {
+      "title": "Anthropic’s financials are surprisingly strong",
+      "summary": "",
+      "tag": "demand",
+      "source": "Understanding AI | Timothy B. Lee",
+      "date": "2026-10-29",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFByaHZWbjdzYUFQeU9KTkpiaFdCV1lOdUN2Z2ZZaUFfNDRpVHU0MW5uWlNNdk1XeGhlcUhNMEVTLWg2T1hCazNaQkhrUFNOZldWQmM2cDRCOThiai0yNFEwSFdXZzA1dnZKeWF3cmxrVW1XbVRLUGtQeW5HNFg?oc=5"
+    },
+    {
       "title": "72-GPU NVIDIA Vera Rubin NVL72 Racks Anchor OCI’s Planned Multi-Gigawatt Expansion",
       "summary": "",
       "tag": "products",
       "source": "StorageReview.com",
       "date": "2026-10-29",
       "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQN1RMU3pFaUpVbVlpT3lqTzR3b3FSZUpUcFBUNUZYWDEzTjhMU0tieUl1MVAxdFRfOUVuY1pVZWNGdTNJX1VObUlveUVvU2J5bDlhcXo3dXBfYTRJZHhuaDhlNmRZVl9QQkVSaFlVVmpmSDJTS25mNWxZNTY3ZzZkTjhkTVpsVjNsdVRNSzJwajQ4bkVoUmdyOTFQY1JSWHFaN2tLZmVYc2ZjTUQ2Sm0wbkVTOU9zY05xNGI4QjBaMWJoRnPSAcMBQVVfeXFMUDdUTFN6RWlKVW1ZaU95ak80d29xUmVKVHBQVDVGWFgxM044TFNLYnlJdTFQMXRUXzlFbmNaVWVjRnUzSV9VTm1Jb3lFb1NieWw5YXF6N3VwX2E0SWR4bmg4ZTZkWVZfUEJFUmhZVVZqZkgyU0tuZjVsWTU2N2c2ZE44ZE1abFYzbHVUTUsycGo0OG5FaFJncjkxUGNSUlhxWjdrS2ZlWHNmY01ENkptMG5FUzlPc2NOcTRiOEIwWjFiaEZz?oc=5"
+    },
+    {
+      "title": "NVIDIA’s Official Statement on Vera Rubin Spec Change: Updated Specs “Reflect What The System Sustains At Quality, Volume Production”, And All 3rd Party Benchmarks Have Been Measured Using Production Specs",
+      "summary": "",
+      "tag": "products",
+      "source": "Wccftech",
+      "date": "2026-10-29",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9OZjJMbHFVRkluT3U2NUtfaHpNVkE0MEJrWllKR1FwVzdaU0JxSTR1LTdGOWFBOVozSXoxTXBnMFlHVHRwQk9NWHB0STlfdXduQ1g1cnpHYTFsSzhMTGc4ME1vNjBwYTVfT1RtaVR3SThLV1hmc2pFbDV0VDZLUdIBgwFBVV95cUxQcHd2bHNuSW9JMkM0d190TlRLUkRkQ2RXX2NBOGtibEhqUUFDdk5tVlRGNTByX2t1ZGh5anJBMlFXNWk0VkFiVDh4bXZLQWtTQzZKYVBDOU1pajgwa29iQ2hra3lIb2dMOWV1amhXQjl6ZlFiV0gyUFphU3VVcXE1MDVsTQ?oc=5"
     },
     {
       "title": "Microsoft Sees Enterprise AI Adoption Accelerate as Copilot Usage Grows",
@@ -145,6 +161,14 @@
       "source": "Data Center Dynamics",
       "date": "2026-10-28",
       "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNV2E0QmlxV1BVUGZ3M1h4cnFxT3RSTGZ1RUxSUmpmZkdDT3JKLWhmSFZjSnQxWHNDN3RCTDNCWXk0cUFwV3I0akhHdXU5bGZEZ2VDY25zeFY4UGZxaVpfZTFmNHRDclFULThWZXJPZ2xMTEFMdzhTVV8yRGVfX0I4Rlpld05iaUZIeGxWQ1kwSmcwQnBWRTFCMEFRTE84QzVETzJ1T2VXQVBrU2Q5eU9Ed01iMXVVMlE?oc=5"
+    },
+    {
+      "title": "算力不是越強越好？AI用電量2030年恐翻倍，009831搶攻缺口商機｜豐雲學堂 2026 年 10 月",
+      "summary": "",
+      "tag": "aidc",
+      "source": "永豐金證券",
+      "date": "2026-10-28",
+      "url": "https://news.google.com/rss/articles/CBMiiwNBVV95cUxQclRSUFNycHZpS2c3Q1JSaDBXS2RKVW5hUzBXcXR2Z0RqMEdPbzJVU1pUa1ZwRDhYamJrcDA2d2tQdHpOWXBHdWlNaElfMjExRzViN2NsZmRMeDJyZG9ENUpKYkNNUE0zWVYyU3hCbkNkbWZaaUIxNzRIRkpPczJvb0RUTDNqWEtzSXB0S3d1RzhveDlLN2ZFa3JtN3ZUZDcxYmc4MkhGUlNRZ2tmRlVJU0tHdndwZXBzcGlWdUI5OFZBTUNCTG9VT2xfd1pjUzFQMjRXZXMzUzhSc012Ym8zU0JIRDJlcnY4aFFXOUlIR0hPbk9mWXhKS2F0cERjV1U4UkNnakVEc0JWUVpkZzF5YmVxdmh4bGJhdG5OVEd0Y2YwdDdIOFNrQ3Z3QTJXUThYd05zdGNXYXVBcnlpSUdOckxOcTNTN2VJREJkTWlJUmlXYTVPNUFnMGtuY3NEZVVWU2ppSktfaUN2U2tNNWdzXzQ2ZGdmWGwwRVh0VmJPbDk0VkN3ZlFqN3pZcw?oc=5"
     },
     {
       "title": "NVIDIA Vera Rubin: Solving the Memory Bottleneck in Large-Context AI Inference",
@@ -227,12 +251,12 @@
       "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQSWx5Q3UtbEx6dUhyUV9zMm5WUWhDUGI3ZWpIdnlzbklmVXVzWnV5SFAyTEo1MTRSUUhrSWhleHZMYUpvTTdNOEwxMnlMRTBLRHB1ZXVMMGdpd1FKZnY1eHNIdkRSUHdEdWFUWkJqbFAxd2VYWXJ1NjlKQzYzQ3I2Q3R6eldQS2duckRoV2hyOE5PSTFCYTk0MENRTGVnejdmVWpqNDJrbXdWVWRV?oc=5"
     },
     {
-      "title": "3 Charts on Anthropic’s Historic IPO Filing",
+      "title": "Neoclouds Secure Record Funds as Nvidia’s Huang Says More Investment Is Required",
       "summary": "",
       "tag": "demand",
       "source": "Morningstar",
       "date": "2026-10-27",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBjMkRkdGdORzltaVB3X3RUdzI4ajlFNGkwbmVGMUxKbmpXVHNGcDNURTlscXNZSWVncXVMcjBwd1MtUVdxOFRFcmFOc3RURjFYMW9ySnEzYl9mWkdhazQ2ZlBGS2FZb3UzVFRtMlpHYngzTHpLaU5taHFMTHhjdEE?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQQUtHQk9GWWVCYzJIU09sZFpWVmRUM01XVzBEWmstTlYtNUtwekxXUmVFWmhzbWVra21kampkNDN1OG0weFpjbEJHSEFxM3Z4aUtpWDhHT1o1OGExaVFwYzN0V21DZmV4U2JhelZCcHRhMVJGcVRNdmg2WHRxdWhDTS10ZFo0ck9TNEt3WHA0eld2NGh2WTFwb0gtRkJ3YWFObm8wZXlsS1BDN21sNzM0Rw?oc=5"
     },
     {
       "title": "General Compute raises $100 million Series A, countering the neocloud disaster narrative",
@@ -241,14 +265,6 @@
       "source": "TechCrunch",
       "date": "2026-10-27",
       "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPQVVicEc0Q1FoTEpHcXI0SERMUjN5QTl2VXNyQldXbHkxYnNkaHZNX2swY3djNmQ1ZDdOU2tqaFhfblFXZl9IMjFkOXZxZzQ3WldLVl9XM0Q3YVFiVGdUOGZveUV1S3lneFNKeTJ4YTE0ZGN2NXBKclplcGZhMUQ1dm5uUGxTYmdSd1JaVjRxck9vdm1oWC1iUUl3c21HTVVjT215d3o4Z05rOEdleFpIbmRTOXl4YUhiRVo4LVNB?oc=5"
-    },
-    {
-      "title": "Neoclouds Secure Record Funds as Nvidia’s Huang Says More Investment Is Required",
-      "summary": "",
-      "tag": "demand",
-      "source": "Morningstar",
-      "date": "2026-10-27",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQQUtHQk9GWWVCYzJIU09sZFpWVmRUM01XVzBEWmstTlYtNUtwekxXUmVFWmhzbWVra21kampkNDN1OG0weFpjbEJHSEFxM3Z4aUtpWDhHT1o1OGExaVFwYzN0V21DZmV4U2JhelZCcHRhMVJGcVRNdmg2WHRxdWhDTS10ZFo0ck9TNEt3WHA0eld2NGh2WTFwb0gtRkJ3YWFObm8wZXlsS1BDN21sNzM0Rw?oc=5"
     },
     {
       "title": "GMI Cloud seeks $635m loan supported by customer contracts for GPU capacity - report",
@@ -283,14 +299,6 @@
       "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNS3RKNnBZTXBNSl9SUU9uVnBYVWF2Ym1FQms0QXJZT3F3ODlwUmwxM3Bmd0lmZDgwUFc2VGdFYS10b0NZX2hIWVV3S3MwZXdtYWRWcmxVZm0wLTEwamxmMUVuVThMZE00SnBGNEVwdkhQc09UV3VMbmlqODQyVG1TZlFDbGNIS3VjVXd4UHdvR2JhWlZpYnNTSXpEa01wbDN6ZEw0bFFvVmV4cmRzVEhLSF9kVHJGd0hDdk81bjk2VjRaallTZG14OWRaeElnZWdLNkQ5SDh3dlNNVTR6U0hv?oc=5"
     },
     {
-      "title": "TSMC reportedly weighs 20% CoWoS price increase as Nvidia Blackwell and Rubin chips put pressure on packaging capacity — equipment lead times stretch to eight months",
-      "summary": "",
-      "tag": "products",
-      "source": "Tom's Hardware",
-      "date": "2026-10-27",
-      "url": "https://news.google.com/rss/articles/CBMizAJBVV95cUxNeC1ucXhWbmlMd2ZsUDZzZ1FxUTBkTXhUTUphc0FtbVo3aFo2WkpsQ2pTZ3V1eGNnVkNhTzE4bXlGcmJFd3FDLVc3bXRON0huRVJoSjBianhnOHhxLXh1cmJSeUl1Vk9uamoyYjhmNzEyVkJCeGotdW5HSW55WnVXUl9XMzcxOFEwMUdDblQwN1hYMHVEWS1oR0xqOEVwUGtPdlpuNlJ5SlVMSjk5ZVdLWG9kb05jU2lvNGdlZTdVc1JHVlFPX19wM3FteTh5NmxZUkRILVpUVW54eVdoVk44eTk1X3ZBNVhIRTBZU0RWdi1wSDEtX1VQTjJzcllzQkN0OTJOMFFBTlZlWE9DR0R0aThKWDNrNVBTeklpZ0s4WnNoNEZtNHRwb0tjSmFaOG5ZXzVRTTdfckNwc1M5NkUyTFB0NjdycW9sNVpVaw?oc=5"
-    },
-    {
       "title": "Samsung SDS Plans Vera Rubin GPUaaS for March 2027 [2026]",
       "summary": "",
       "tag": "products",
@@ -299,28 +307,20 @@
       "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQQWdzUzNzQ2szdlFCYkJJYnN4bUVKXzlOWHRxRjg2TVhxSHpYQjRWeEE2S0NEeEsybUg4akttQmx2clpkSmRVQ194Tzg1Y3JJQVMwLTZSOVJOWjdrd1RrUFo4cy14WnhiQl9zOVdPd0hzVjJqM1d5WHgyWldZXzBJSkdvcmc?oc=5"
     },
     {
+      "title": "TSMC reportedly weighs 20% CoWoS price increase as Nvidia Blackwell and Rubin chips put pressure on packaging capacity — equipment lead times stretch to eight months",
+      "summary": "",
+      "tag": "products",
+      "source": "Tom's Hardware",
+      "date": "2026-10-27",
+      "url": "https://news.google.com/rss/articles/CBMizAJBVV95cUxNeC1ucXhWbmlMd2ZsUDZzZ1FxUTBkTXhUTUphc0FtbVo3aFo2WkpsQ2pTZ3V1eGNnVkNhTzE4bXlGcmJFd3FDLVc3bXRON0huRVJoSjBianhnOHhxLXh1cmJSeUl1Vk9uamoyYjhmNzEyVkJCeGotdW5HSW55WnVXUl9XMzcxOFEwMUdDblQwN1hYMHVEWS1oR0xqOEVwUGtPdlpuNlJ5SlVMSjk5ZVdLWG9kb05jU2lvNGdlZTdVc1JHVlFPX19wM3FteTh5NmxZUkRILVpUVW54eVdoVk44eTk1X3ZBNVhIRTBZU0RWdi1wSDEtX1VQTjJzcllzQkN0OTJOMFFBTlZlWE9DR0R0aThKWDNrNVBTeklpZ0s4WnNoNEZtNHRwb0tjSmFaOG5ZXzVRTTdfckNwc1M5NkUyTFB0NjdycW9sNVpVaw?oc=5"
+    },
+    {
       "title": "NVIDIA and Oracle Expand NVIDIA Vera Rubin to Multi-Gigawatt Scale and Bring NVIDIA Vera CPU to Oracle Cloud Infrastructure",
       "summary": "",
       "tag": "products",
       "source": "NVIDIA Newsroom",
       "date": "2026-10-27",
       "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNMkc2eEt1TWtsdGMyakwwbENvTldlM2tKNjJTb1RwSTdnbXgxOTVwWmRyTlVSeElfcmtGclZnbThpR05IOVQ2SmdxMlpZMVByMFRZU29aeVNXSHR3VWpZWDJ2M2FROFVwZlZOUkdFTXRKR0U3M1hCLTVNSE84V25YZnEwYXRkRTFPVXV0QWdZdzdSVnhtYzVLajlLQlo3bUFTRUc3VWtsUGswdWJraVQxXzU3MExyZGhpNmY0a2FCRUU4NE1Ma3lSYnFGbE41OTNnLUU1MmhaaWc5a25qMjVnTENtQ2JIbFRMTmt0blhfWQ?oc=5"
-    },
-    {
-      "title": "Nvidia and Oracle expand Vera Rubin cloud infrastructure, pitching better utilization as enterprises report idle GPUs",
-      "summary": "",
-      "tag": "products",
-      "source": "VentureBeat",
-      "date": "2026-10-27",
-      "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOZmFjeGg0ZE1xWE9hdllqNDdLNEpYaFd4dmpzTl84dmNkVGpvYXNXR3M2dkczcHJZWjE1bWtubzdqa2tkWkR1UXVrTHpmUDVvQ19VcmdzTUI5M01vYUJfSlkyNHlQcE9DWUVRcl9KSmJmb0pLVWRJN0YwTWJVaEhZTzR1UjRSQThZN0JvU0QweFFmUDV4UUg1eUtCVmV5dzVibk5BTnNpSTVtcElZOHBUSVg2MnZ0SW96Z1UxVEtNb1NVZFBwcEJzeVR2WnlHbmQtaGxCSW9tTUFqS3lvbFNwQktOdU9JUi1yWmNn?oc=5"
-    },
-    {
-      "title": "The imec Report: Scaling Optical Interconnects For The AI Era",
-      "summary": "",
-      "tag": "products",
-      "source": "Semiconductor Engineering",
-      "date": "2026-10-27",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPVVY4WGNMa2Uza05wR3M1VElzYWNRcWVsNmpTVXV5cUtNUFpVRWFsSTRUTkRPVG9aRHROQzhpWlpZUjRxV21Sc0x2aHNmUlFaSlVqUzRZak5HdVV2N0NaZnBra3AxeTN6SXlhcGgwbC1DcHdIOWZ4Q0kzOFUwNTdUUDhwNTdXOXl0UDdOX0tJbzBZQnM?oc=5"
     }
   ]
 }
