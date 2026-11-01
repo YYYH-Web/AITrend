@@ -1,7 +1,15 @@
 {
-  "updated": "2026-11-02 01:59",
+  "updated": "2026-11-02 06:13",
   "source_note": "Google News RSS",
   "items": [
+    {
+      "title": "SpaceX太空資料中心攜手輝達上太空，伺服器規格五大變化，廣達、台達電等8檔成觀察焦點｜產業熱話",
+      "summary": "",
+      "tag": "aidc",
+      "source": "永豐金證券",
+      "date": "2026-11-01",
+      "url": "https://news.google.com/rss/articles/CBMi0wRBVV95cUxOVEljZDEzaHlOWkl0LUhhQ2dnUF9XY1NjenNyeWRacnZvVXU0UnBNY1lWZ2RCR0dIZG1lbEQ1VDZ0UzA2MWp1TjlINVFlMHJTMTAydDYzMXAxZUpPYWNSU2RkYURWeVVtREs2THo5MjNua2VzSllLdEZaZU1iOFFNYnI2MkZqeWpQNlkxRHVLcEJhU3dXcEZEZHg4SVNoRjczaEc1dnFhUXdfSnBwMW5SaFhRUk15Zmw0MjByUl9ENVE3NFdQSHhXZzFLVWZJaUl0TjNyc0hKQ0FxNTZLNFVaQTkzZDc4LVZJekhJUXI4eUt0blV6Qno1c0ozNzZ2ZVVJZHBXWThhdkt0UHdzSkhiOFpicjV0bE9QTmlLSEw1dEVwRl94RUhMelFrMTlreEFJSVdrUk5MNVI1dHZ5Q3pfZ196bFUxNG1Mdzg2OWdSSTFnYXVHZ2NPVTV4UXl4b0YxZWFmNXRWQ2FVOVh5Qm9EN0Z5UzZzUnVlTjhobGlvanlmWkZKREhRRmFFM29YWDFsUHhhTWxfejlsSVlYbXc4ZHdEV0hvV0xGZVBQY25CWHBSZExoOVJra3IzbnU1VVRvVVQ5SnM4TFBzMWtFZ1o5YnYtMk1QVC1lSE1CSnRyMy1xa2lYRjE3YXQta2ZsMnpIS0ZFcFRLbXZNQmZlM1lZTU91SUJ0aElfYVlzRWlRbVRpOFNhQUlyNHlYRlEzMHdWbDRXZ2Z3ODNhOWdDVEFVN25RSnVINS15bS1kSE5RRjYyLVRSUWpQVXVtTnpPek5GNk5B?oc=5"
+    },
     {
       "title": "NVIDIA Updates Rubin GPU Specs as First Production Hardware Arrives",
       "summary": "",
@@ -41,14 +49,6 @@
       "source": "鉅亨網",
       "date": "2026-10-31",
       "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1wc2stSGx0bnZyTE8teERYLTlMM0taa29ONkhMaTZ1aXF5T2FnUDliUWR4T1M4cmtrQlBwMHc5SFFzMlBQYk9SS0ctOS1QaEU?oc=5"
-    },
-    {
-      "title": "基礎設施成兵家必爭之地 石化集團布局 AI 資料中心",
-      "summary": "",
-      "tag": "aidc",
-      "source": "經濟日報",
-      "date": "2026-10-31",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBxTEl3UkdyUXI2SWNzWkk0MHBlcnFOcVVBNGdCWkpJTlpCOC1DcEZJMGJvbWRiZmVQOFU1YVpuNVlrQ2pncWNzRTZKVm9mSkk5TmkzQ3lqVGdjUdIBX0FVX3lxTFBnMEtoN1U1Yi04eG05MjdEUU1OVk93dk9vSXR3b29WZzlBMll3bGtsemZDLUw4VGF5SndYd3VOZXRQNXRfLXc3ZEZOUDF1RVdid3RWWVF4UHlWdnZDaU9J?oc=5"
     },
     {
       "title": "FormFactor Inc (FORM) (Q3 2026) Earnings Call Highlights: Record Revenue, Raised TRITON ...",
@@ -97,14 +97,6 @@
       "source": "Environmental Leader",
       "date": "2026-10-30",
       "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOTHNoQ08zb0JOeDZXMWQtNjJlczlLTHdEdHZWUkI0Y3pVRjk0cDY0R1E3XzZVck1MUzZSZTNNaVh1d3BpR3JUUUZCT3Y2TGJ5LTVsNmFSU0RhYlhpcmtTc3R1RjVlWURkalBvbDJSWGxhclFiUS1vQTJFMzlqZjlyemRTVXRKZHNCWU8ySldod3BqemhsM1FUaG5Qb3lRTHQ0WkxQNk5nTG9fUQ?oc=5"
-    },
-    {
-      "title": "Can AI data centers be mass-produced like cars? This startup aims to find out",
-      "summary": "",
-      "tag": "aidc",
-      "source": "TechCrunch",
-      "date": "2026-10-30",
-      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOV1ltQ1NtZDlhZVBMZTRrQUpUZnB6OHFkcGJ4eEYzMlRxdDFDQlk1dGhWR21xOEtCSl9zLWpKbkl2bS10RUpNajVXX0ppVHhvZGFxZG1HSVVYR3llVVUwb1p5TnRaUFI2M1R3SE5SNTB0TEVGNmFET2U3MDFPYktrVmdTZVVzcjVHV1lPcURFaFo2TUJLc254blBFX0oybE0zdllNelZBYlJaV0s4Y3F0YWVGaldHWTFsc3Q3aEJMQ0Y0SmctWjc1YXltX3hzdVE?oc=5"
     },
     {
       "title": "Alliant targets 1 GW of new data-center contracts in six months as power demand surges",
@@ -203,12 +195,28 @@
       "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNcHpPbWlPQTZ1Tk1zTERvQXdPb1A4S3dtWDN1aUllRUpscXpEWVlvc2lqeW5YbG44NDB0N0FyUE01bDRTUV96alFiODZlLThkeXFfdXZXV0JGMTZWOUc3dWF3MzgzdEYybU9NdGpFVDhqdWFrTE9DMWVOYTVvbDJHSlFkZ21ONHd0R0RXcl9jZEI2eEFaUTFPNEJ3?oc=5"
     },
     {
+      "title": "The Humanoid Robot Market Could Be Worth More Than $7 Trillion. Here Are 3 Stocks to Own.",
+      "summary": "",
+      "tag": "apps",
+      "source": "The Motley Fool",
+      "date": "2026-10-30",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNQ2dZYUlHVzFaX1BIUlRyYldoNWdaMG1sYUsyNmp0ZWxBUVdON3BzQklaUk8tcjZmX3JXQmdwNjdSQlp4clJNbzVVbUNjZEZQQmhIeVZjSTBXVUdtTTAxOUNUdERrcDFjOUlLOUtCTGNzZE1YUk02UEFFYUVWZVc3WklxeE1IcFM3Sy1sNlB5NXllSnFJbEx1TQ?oc=5"
+    },
+    {
       "title": "The 50-Gigawatt Test: SemiAnalysis Sees a Historic Data Center Surge in 2027",
       "summary": "",
       "tag": "aidc",
       "source": "Data Center Frontier",
       "date": "2026-10-29",
       "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOdFl1VVFaUXV1QXlWQ0tjREY1T3NLbElDTW13S0N4T0xLMVQyaURUa0pfbzk2SWI5YVV4MnBLWEFpbmMzRE5LNXowYzFpTi1lb0NZQVptbjZ1TllsWTNxdEhXSDZsOUhRMklwTjFYSVl2Q0JSeDl3WDVvR0pIcm55dWh0eXlnLWFIZDB0MHAwU3dsVFZrRVM5WVhtb0lsbkwyTGNkWDZXbWRyNG9jcDg4a2FJeW5xeXhabkFQaGh5ZmwxQVBQOUtJMDZNeEYtWnZGQ2NaeA?oc=5"
+    },
+    {
+      "title": "ITI Data Center Pledge: 5 Commitments, 1 GW Deal [2026] - https://tech-insider.org/",
+      "summary": "",
+      "tag": "aidc",
+      "source": "https://tech-insider.org/",
+      "date": "2026-10-29",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQY2xqMDZNLURTbUNyZTlVR0hTQ09WYzk3NXpFcnEtVDNkVTRJNV9FM0RWUWlESkZKeEVVVy1BUTIweUNTV19vcWEwUmxldW1RSjdfUjJkSWsta2lkb1FVQUtKcm1rT19RWkxpY2FQUEFvbnBkWHQ3UmNTeThQVk9TQmc1a2lLUQ?oc=5"
     },
     {
       "title": "AI buildout hits snag as Google and Microsoft put off raising capex forecasts",
@@ -241,14 +249,6 @@
       "source": "TechNews 科技新報",
       "date": "2026-10-29",
       "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPUXRBeE51bzhCSU1nX3BaLXJXRVczOVA1WWhabnktZ2JNSnZha20tSF9HeGZhTm14RjVrbUVWNFpPbjVhZW5YRzFoNVNzSEh1MHM3eTh2UTdCTW9ZQ2lTZXltUU5aWU1SbTJYQjRnM2NSSWtDSUZDRmZybThYcHZzOG9jYjNJYk8zd05BYWkydjJTdWtEWGhSMGMwbVhudmk0MEw0MHNScHFwQlpmeEEwb3MxYjdYbU52N3NqRnBQSjRlZVRHU0lwczd5NmNxdC1NRVE?oc=5"
-    },
-    {
-      "title": "AI資料中心擴張鄭平：缺電是必然- 日報",
-      "summary": "",
-      "tag": "aidc",
-      "source": "工商時報",
-      "date": "2026-10-29",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE42UWlzR0lhWEdSTnNGLVhLdng0bU4yVVkzZklTOVR0MnZaQ1paRkJEZ0oxWllFRTVvQm5MVTNvRFp2Z2tKemRIamdNQ1JiWEVnNnExTlUtTHJrdHhUMldJ?oc=5"
     },
     {
       "title": "Anthropic’s financials are surprisingly strong",
@@ -291,14 +291,6 @@
       "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNV2E0QmlxV1BVUGZ3M1h4cnFxT3RSTGZ1RUxSUmpmZkdDT3JKLWhmSFZjSnQxWHNDN3RCTDNCWXk0cUFwV3I0akhHdXU5bGZEZ2VDY25zeFY4UGZxaVpfZTFmNHRDclFULThWZXJPZ2xMTEFMdzhTVV8yRGVfX0I4Rlpld05iaUZIeGxWQ1kwSmcwQnBWRTFCMEFRTE84QzVETzJ1T2VXQVBrU2Q5eU9Ed01iMXVVMlE?oc=5"
     },
     {
-      "title": "算力不是越強越好？AI用電量2030年恐翻倍，009831搶攻缺口商機｜豐雲學堂 2026 年 10 月",
-      "summary": "",
-      "tag": "aidc",
-      "source": "永豐金證券",
-      "date": "2026-10-28",
-      "url": "https://news.google.com/rss/articles/CBMiiwNBVV95cUxQclRSUFNycHZpS2c3Q1JSaDBXS2RKVW5hUzBXcXR2Z0RqMEdPbzJVU1pUa1ZwRDhYamJrcDA2d2tQdHpOWXBHdWlNaElfMjExRzViN2NsZmRMeDJyZG9ENUpKYkNNUE0zWVYyU3hCbkNkbWZaaUIxNzRIRkpPczJvb0RUTDNqWEtzSXB0S3d1RzhveDlLN2ZFa3JtN3ZUZDcxYmc4MkhGUlNRZ2tmRlVJU0tHdndwZXBzcGlWdUI5OFZBTUNCTG9VT2xfd1pjUzFQMjRXZXMzUzhSc012Ym8zU0JIRDJlcnY4aFFXOUlIR0hPbk9mWXhKS2F0cERjV1U4UkNnakVEc0JWUVpkZzF5YmVxdmh4bGJhdG5OVEd0Y2YwdDdIOFNrQ3Z3QTJXUThYd05zdGNXYXVBcnlpSUdOckxOcTNTN2VJREJkTWlJUmlXYTVPNUFnMGtuY3NEZVVWU2ppSktfaUN2U2tNNWdzXzQ2ZGdmWGwwRVh0VmJPbDk0VkN3ZlFqN3pZcw?oc=5"
-    },
-    {
       "title": "NVIDIA Vera Rubin: Solving the Memory Bottleneck in Large-Context AI Inference",
       "summary": "",
       "tag": "products",
@@ -321,6 +313,14 @@
       "source": "The Jerusalem Post",
       "date": "2026-10-28",
       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBObllYdVVfNy1hU0dkdEVydkJQeC0ybmxqQzNORU44UWVOd1pyZ29IbjZha2JqNTctekhUb0JmcFRDRmpreVl4Ym1fX2xuOXZCYktkZENNODdRLU5kek5BZjhUMjFoUmQ0Y2ZoZg?oc=5"
+    },
+    {
+      "title": "OneTrust tackles the agentic AI governance gap",
+      "summary": "",
+      "tag": "apps",
+      "source": "Spiceworks",
+      "date": "2026-10-28",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNZ1J6VVFKcmtUSW5TSC1MMzJtcF9hOVBzSWRZckpQbnVmdWxIYlU1amxNYmg3TmVRYXJsajlnYzBhenc1NjhUVi02N1ZZaGdoTWZUS21SSFlfV3hZR3FmdmJtU3JlRm1jREY4aUdxNnhQUDZ1UDlPZWMtNGJ3ZVM1SENOcW8taXByTTdN?oc=5"
     }
   ]
 }
