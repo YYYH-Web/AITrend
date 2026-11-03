@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-03 15:00",
+ "updated": "2026-11-04 03:39",
  "etfs": [
   {
    "code": "0050",
@@ -8,10 +8,10 @@
    "type": "市值型",
    "ok": true,
    "stale": false,
-   "fetched": "2026-11-03 15:00",
+   "fetched": "2026-11-04 03:39",
    "source": "Yahoo股市",
    "holdings_date": "2026-09-01",
-   "industry_date": "2026-10-24",
+   "industry_date": "2026-10-31",
    "holdings": [
     {
      "name": "台積電",
@@ -67,27 +67,27 @@
    "industries": [
     {
      "name": "半導體業",
-     "weight": 68.49
+     "weight": 69.05
     },
     {
      "name": "金融保險",
-     "weight": 9.23
+     "weight": 9.48
     },
     {
      "name": "電子零組件業",
-     "weight": 8.73
+     "weight": 8.1
     },
     {
      "name": "電腦及週邊設備業",
-     "weight": 4.35
+     "weight": 4.31
     },
     {
      "name": "其他電子業",
-     "weight": 3.97
+     "weight": 3.91
     },
     {
      "name": "通信網路業",
-     "weight": 1.83
+     "weight": 1.79
     },
     {
      "name": "塑膠工業",
@@ -95,7 +95,7 @@
     },
     {
      "name": "光電業",
-     "weight": 0.57
+     "weight": 0.51
     },
     {
      "name": "食品工業",
@@ -103,26 +103,22 @@
     },
     {
      "name": "生技醫療業",
-     "weight": 0.36
+     "weight": 0.37
     },
     {
      "name": "航運業",
-     "weight": 0.28
-    },
-    {
-     "name": "其他產業",
-     "weight": 0.17
+     "weight": 0.29
     },
     {
      "name": "油電燃氣業",
-     "weight": 0.12
+     "weight": 0.11
     }
    ],
    "assets": {
-    "股票": 99.66,
-    "現金": 0.17,
-    "債券": 0.17,
-    "其他": 0.0
+    "股票": 100.0,
+    "其他": 0.0,
+    "現金": 0.0,
+    "債券": 0.0
    }
   },
   {
@@ -132,10 +128,10 @@
    "type": "科技型",
    "ok": true,
    "stale": false,
-   "fetched": "2026-11-03 15:00",
+   "fetched": "2026-11-04 03:39",
    "source": "Yahoo股市",
    "holdings_date": "2026-09-01",
-   "industry_date": "2026-10-24",
+   "industry_date": "2026-10-31",
    "holdings": [
     {
      "name": "台積電",
@@ -181,15 +177,15 @@
    "industries": [
     {
      "name": "半導體業",
-     "weight": 80.24
+     "weight": 80.78
     },
     {
      "name": "電子零組件業",
-     "weight": 7.3
+     "weight": 6.96
     },
     {
      "name": "電腦及週邊設備業",
-     "weight": 6.1
+     "weight": 6.03
     },
     {
      "name": "其他電子業",
@@ -197,11 +193,7 @@
     },
     {
      "name": "光電業",
-     "weight": 1.26
-    },
-    {
-     "name": "其他產業",
-     "weight": 0.82
+     "weight": 1.13
     },
     {
      "name": "電子通路業",
@@ -213,9 +205,9 @@
     }
    ],
    "assets": {
-    "股票": 99.18,
-    "現金": 0.82,
+    "股票": 100.0,
     "其他": 0.0,
+    "現金": 0.0,
     "債券": 0.0
    }
   },
@@ -226,10 +218,10 @@
    "type": "高股息",
    "ok": true,
    "stale": false,
-   "fetched": "2026-11-03 15:00",
+   "fetched": "2026-11-04 03:39",
    "source": "Yahoo股市",
    "holdings_date": "2026-09-01",
-   "industry_date": "2026-10-24",
+   "industry_date": "2026-10-31",
    "holdings": [
     {
      "name": "南亞",
@@ -285,47 +277,43 @@
    "industries": [
     {
      "name": "金融保險",
-     "weight": 28.75
+     "weight": 28.97
     },
     {
      "name": "電腦及週邊設備業",
-     "weight": 20.15
+     "weight": 19.6
     },
     {
      "name": "半導體業",
-     "weight": 17.2
+     "weight": 17.74
     },
     {
      "name": "塑膠工業",
-     "weight": 9.57
+     "weight": 9.48
     },
     {
      "name": "通信網路業",
-     "weight": 5.24
+     "weight": 5.21
     },
     {
      "name": "航運業",
-     "weight": 4.73
+     "weight": 4.92
     },
     {
      "name": "電子通路業",
-     "weight": 3.57
+     "weight": 3.49
     },
     {
      "name": "其他電子業",
-     "weight": 2.66
+     "weight": 2.67
     },
     {
      "name": "食品工業",
-     "weight": 2.5
+     "weight": 2.53
     },
     {
      "name": "電子零組件業",
-     "weight": 2.46
-    },
-    {
-     "name": "其他產業",
-     "weight": 1.51
+     "weight": 2.28
     },
     {
      "name": "水泥工業",
@@ -341,14 +329,18 @@
     },
     {
      "name": "電機機械",
-     "weight": 0.45
+     "weight": 0.43
+    },
+    {
+     "name": "運動休閒",
+     "weight": 0.34
     }
    ],
    "assets": {
-    "股票": 97.1,
-    "現金": 1.47,
-    "債券": 1.42,
-    "其他": 0.0
+    "股票": 100.0,
+    "其他": 0.0,
+    "現金": 0.0,
+    "債券": 0.0
    }
   },
   {
@@ -358,10 +350,10 @@
    "type": "高股息",
    "ok": true,
    "stale": false,
-   "fetched": "2026-11-03 15:00",
+   "fetched": "2026-11-04 03:39",
    "source": "Yahoo股市",
    "holdings_date": "2026-09-01",
-   "industry_date": "2026-10-24",
+   "industry_date": "2026-10-31",
    "holdings": [
     {
      "name": "富邦金",
@@ -417,39 +409,39 @@
    "industries": [
     {
      "name": "金融保險",
-     "weight": 53.84
+     "weight": 54.19
     },
     {
      "name": "電腦及週邊設備業",
-     "weight": 18.61
+     "weight": 18.16
     },
     {
      "name": "航運業",
-     "weight": 7.05
+     "weight": 7.24
     },
     {
      "name": "半導體業",
-     "weight": 6.67
+     "weight": 6.69
     },
     {
      "name": "建材營造",
-     "weight": 2.2
+     "weight": 2.17
     },
     {
      "name": "其他",
-     "weight": 1.73
+     "weight": 1.71
     },
     {
      "name": "文化創意業",
-     "weight": 1.56
-    },
-    {
-     "name": "紡織纖維",
-     "weight": 1.45
+     "weight": 1.59
     },
     {
      "name": "電子通路業",
-     "weight": 1.44
+     "weight": 1.42
+    },
+    {
+     "name": "紡織纖維",
+     "weight": 1.41
     },
     {
      "name": "運動休閒",
@@ -457,29 +449,29 @@
     },
     {
      "name": "電子零組件業",
-     "weight": 0.88
+     "weight": 0.83
     },
     {
      "name": "其他電子業",
-     "weight": 0.81
+     "weight": 0.79
     },
     {
      "name": "橡膠工業",
-     "weight": 0.61
+     "weight": 0.59
     },
     {
      "name": "數位雲端",
-     "weight": 0.5
+     "weight": 0.49
     },
     {
      "name": "汽車工業",
-     "weight": 0.37
+     "weight": 0.35
     }
    ],
    "assets": {
-    "股票": 99.99,
-    "現金": 0.01,
+    "股票": 100.0,
     "其他": 0.0,
+    "現金": 0.0,
     "債券": 0.0
    }
   },
@@ -490,10 +482,10 @@
    "type": "半導體主題",
    "ok": true,
    "stale": false,
-   "fetched": "2026-11-03 15:00",
+   "fetched": "2026-11-04 03:39",
    "source": "Yahoo股市",
    "holdings_date": "2026-09-01",
-   "industry_date": "2026-10-24",
+   "industry_date": "2026-10-31",
    "holdings": [
     {
      "name": "台積電",
@@ -549,29 +541,29 @@
    "industries": [
     {
      "name": "半導體業",
-     "weight": 92.01
+     "weight": 92.48
     },
     {
      "name": "電子零組件業",
-     "weight": 3.48
+     "weight": 3.18
     },
     {
      "name": "電子通路業",
-     "weight": 2.16
-    },
-    {
-     "name": "其他產業",
-     "weight": 1.69
+     "weight": 1.86
     },
     {
      "name": "通信網路業",
-     "weight": 1.23
+     "weight": 1.15
+    },
+    {
+     "name": "其他電子業",
+     "weight": 0.51
     }
    ],
    "assets": {
-    "股票": 98.32,
-    "現金": 1.68,
+    "股票": 100.0,
     "其他": 0.0,
+    "現金": 0.0,
     "債券": 0.0
    }
   },
@@ -582,10 +574,10 @@
    "type": "主動式",
    "ok": true,
    "stale": false,
-   "fetched": "2026-11-03 15:00",
+   "fetched": "2026-11-04 03:39",
    "source": "Yahoo股市",
    "holdings_date": "2026-09-01",
-   "industry_date": "2026-10-24",
+   "industry_date": "2026-10-31",
    "holdings": [
     {
      "name": "台積電",
@@ -640,36 +632,28 @@
    ],
    "industries": [
     {
-     "name": "電子零組件業",
-     "weight": 42.13
+     "name": "半導體業",
+     "weight": 41.36
     },
     {
-     "name": "半導體業",
-     "weight": 39.29
+     "name": "電子零組件業",
+     "weight": 41.0
     },
     {
      "name": "電腦及週邊設備業",
-     "weight": 6.24
+     "weight": 6.59
     },
     {
      "name": "塑膠工業",
-     "weight": 4.41
+     "weight": 4.84
     },
     {
      "name": "通信網路業",
-     "weight": 2.79
+     "weight": 2.82
     },
     {
      "name": "油電燃氣業",
-     "weight": 2.34
-    },
-    {
-     "name": "光電業",
-     "weight": 1.54
-    },
-    {
-     "name": "其他產業",
-     "weight": 1.49
+     "weight": 1.9
     },
     {
      "name": "金融保險",
@@ -678,12 +662,16 @@
     {
      "name": "其他電子業",
      "weight": 0.01
+    },
+    {
+     "name": "光電業",
+     "weight": 0.01
     }
    ],
    "assets": {
-    "股票": 98.51,
-    "現金": 1.49,
+    "股票": 100.0,
     "其他": 0.0,
+    "現金": 0.0,
     "債券": 0.0
    }
   }
