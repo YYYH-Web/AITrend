@@ -1,7 +1,39 @@
 {
-  "updated": "2026-11-04 03:39",
+  "updated": "2026-11-04 14:43",
   "source_note": "Google News RSS",
   "items": [
+    {
+      "title": "DATA CENTRES: Alberta May See ‘Gigawatt-Scale’ AI Data Centres Under Construction This Year",
+      "summary": "",
+      "tag": "aidc",
+      "source": "EnergyNow",
+      "date": "2026-11-04",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNVHVkaGNLYmRZZ2NqUm1DakVZNjltZDVsaGJjNGtzai1jaWVxY2lYMjlpRndMNWItdHdPeEJyelFSMU1KTlJ1OTVWUE1TYW00N0NpNXZTZlNyZVZBTkpBa0F6T0JWS2JnRWJmVnJxNG4wV3dhNVcxZjBvaU0tbEpCTk5YY3huQklCN09DdzdwWnBsd0RfcUtjMDBLeU5HcHNQX1ZqZEdWeDE?oc=5"
+    },
+    {
+      "title": "美期中選舉／德州變天？擬停建資料中心的她 州長戰領先 AI行情添變數",
+      "summary": "",
+      "tag": "aidc",
+      "source": "UDN",
+      "date": "2026-11-04",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFAyX1lJVDM5akp2eUMtYURuTWprSlNKTE5OUmlGNy1rRmZqME4zQ1l0NG1ZS1ZYMnNQQkdVRnBYUThtVmw4S0RqNXYya29Wb2kxSEtz?oc=5"
+    },
+    {
+      "title": "Arista Networks Inc (ANET) Q3 2026 Earnings Call Highlights: Record 58. ... By GuruFocus",
+      "summary": "",
+      "tag": "products",
+      "source": "Investing.com Canada",
+      "date": "2026-11-04",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOaTVlSHJfYjdPMGFpOW1GY2llZmthNGtBcnpnMGVxZzhGQ3E1dXkwNXA0TXRfZVZfRUlaZWszcjhVM3hrZ0tqOHlXWVVfYUZGV2JRZ1NpdXBIM2hWY19pcWJDMVYtOUdPQVl4QjZ2R3ZQVE9pTmRmLUctTFM5ajdKRENzSkZjcUVQQ3l2bkpQN2V1N09ZZTQ4NzIyY1FjdHpLTEJfLS1LRnYxdzl2Z3JUemZfQnZBaGdpeVRj?oc=5"
+    },
+    {
+      "title": "Menlo Ventures: Enterprise AI Spending Hits $177B, Up 5.4x in One Year as Agents Take Over",
+      "summary": "",
+      "tag": "apps",
+      "source": "HPCwire",
+      "date": "2026-11-04",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQYlFvNi1SMVREU2xIajB2cmlXaHUwbnRiU3RzTnY0Vmh3eXAyVE1WV1FxN2RhZ01yblJpNGVxeHdKdmdZWFBUdXk4dWptdXItc19kZFBPTGVMMnY2bXNlLXRUNWtucGItM2JSV09xYVVmbUxUMEN5VG1LOVZYS2c3VEktUXFKOEtxZFdrN1U4TWdWeHRPT3VhSEtZQ0pCYXd5ci1HV3VKeEMwX2laTEV1Snp4XzhiTVh1cmRCTEprQUhpRFNmOE1SQzZwRQ?oc=5"
+    },
     {
       "title": "Brookfield plans for a $27 billion AI data center at UK power station",
       "summary": "",
@@ -9,14 +41,6 @@
       "source": "CNBC",
       "date": "2026-11-03",
       "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNYzl3ZVM5cV9NUzBldS1OeUM1RkVtLUdNQ0dJM0g4eGJ2NTEyVURocFcwZkVlUkFWbVd6ZUx5dC1yRTVtSFczTG5qcTBLNW0tUVhXUTRpRGxHVWdJZUNWbFZuaFUydDN3SHNlX2E2M2J4RGFZN3ZWcGs3S053bVA3U0toTdIBiAFBVV95cUxQQzE3TVNBeTY0dkx5b1k1M21hVnZRM241R3hfR2NpejBLRHRPM1ZmQWROMnI3TUtvTDUwT3VJVE1jWm1STjVwcHNlNEdJdzg5b0JPVHc2ZG81Qmw2YXhMdlp6QVRwd3h5LVFTR3JobWkwNTFxaXBpRXpVRkU2a3hUVmhTblZkLXJS?oc=5"
-    },
-    {
-      "title": "DATA CENTER INSIGHT – The New Infrastructure Race in North America and Why Communities Don’t Want Them",
-      "summary": "",
-      "tag": "aidc",
-      "source": "EnergyNow.com",
-      "date": "2026-11-03",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNSUhwTXlvWGxvT25Vcl9qSG5DNm1kbTJiSEtVVXRyLW9TazRaVllKNmMtQm84YVNqRzNYa1R6ZlY2dmtWVlpVaGhGRThlVEdqalJYUm1IWE1aUVBhOEdGTUxJRDZ6Q0ctYmRNVWplcmJqZXpTSXVOdkZ6a0Z0bS1YY0k0UlRfVVBvS2poaV92N2U4RnRuQ0JoMTlIYzRpNXRIdU9LTElHZ19qM2tITjAzZzhfOXVCMXJpd21heTNfQkNjQ1lRaEhjT3B3?oc=5"
     },
     {
       "title": "Drax Plots A 1-GW AI Data Center At Its Power Station",
@@ -27,20 +51,36 @@
       "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOZUFhRTRUeDJZYmJvSnljVjF1RFdsUGg5NUlGQU94VlVtdlUwTFVmOEJIZkQtb1Ryd2xkRHlSY1pCQTBON0JhSVpULV9TazlfcXY1MGpMRW9VMVhabkVIYVRlcDdsOFFIZl93aF9ZbkpwRjNCVzM0OGV5WlVyR2NBcHBPclJTam1EbHc?oc=5"
     },
     {
+      "title": "Drax surges on $27 bln AI data centre partnership with Brookfield, Radiant",
+      "summary": "",
+      "tag": "aidc",
+      "source": "Yahoo Finance Singapore",
+      "date": "2026-11-03",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5NSGNmTTlyY2d0ZDI0OVloRHN6YzFvQ0gwNFZ0WXNmdnlacmNmNlFCSzEtWEZIVlotcjBTSWpfbnNTVmlLMjFpNUQweVQ4M3k3VWJvX3FtVThnNFhZNERMc2xHVlZwR1BYc1A0X2RoelFoVXkzQ3J2SkJB?oc=5"
+    },
+    {
+      "title": "AI: Data Centers on the Ballot in 15 Governor Races. AI-RTZ #1259",
+      "summary": "",
+      "tag": "aidc",
+      "source": "AI: Reset to Zero",
+      "date": "2026-11-03",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBoV01MUjA0OEJTWVpYT1NrUkFNei1ocURSRUNFUk05TmllSGFSVUpJVFNWV2x1eExOSGZFU3U4Y0J1ZFE0TmluN3oxT0JHY29Bc05lTFBlVjFrcE1kSmh4R2gycWh2MHoybGQ1U1hLQm8wVFRHWEliMA?oc=5"
+    },
+    {
+      "title": "The Changing Shape of the U.S. AI Capex Boom",
+      "summary": "",
+      "tag": "aidc",
+      "source": "The Overshoot",
+      "date": "2026-11-03",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBybHdKY3JsNjZYUGpuZzVnUGtERVhFQ1A2M2h1N0tWM2k0c2pzaDhhSmJqQVVnSnV1aFg4bDVSTFRoSWlsR0t5X3hrcmZ5WUpaNjdlTUg2T3FMYjFPY2ZEaTQzVGNWem8xMzRUT1FLVlI?oc=5"
+    },
+    {
       "title": "Day 3 - NVDA Holding Hyperscaler capex & Nov 17 catalyst",
       "summary": "",
       "tag": "aidc",
       "source": "Moomoo",
       "date": "2026-11-03",
       "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQNkJIT0Z3cFNmWjZKU1NJclZZYXFud0xMRWtZeEFWZjhrUEVqZU13RVd5d1JmSDdMYk1KRm9BSVY1TWhoTFBVSjRmazRjbU5UM1FRWV9USzZmQ3ZReDVTWHg2Z3hXQ21hdFUzRVk3LTBkbjBHR2laV3E4ZlZmTHFzb0w1RzA3cFpieDc2NGRLeVJheVdvWVdXRE9SOEtxRW8yc3drTnNnV1RMQQ?oc=5"
-    },
-    {
-      "title": "AI資料中心用電成本誰買單？Google自掏腰包擴建電網 帶動6億美元電力投資",
-      "summary": "",
-      "tag": "aidc",
-      "source": "CSRone 永續智庫",
-      "date": "2026-11-03",
-      "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTFB6clowcE1obUN4ZEtxUENXLUl6LWpzREhEWjV5NDJhOWhyalJpNjBxSTRiSUFMd2t3WDlTbGN3LTExcTA?oc=5"
     },
     {
       "title": "美股下一個轉折點？美國期中選舉牽動AI資料中心命運、2028年建設面臨審批風暴",
@@ -51,12 +91,20 @@
       "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1wVUZkQ3VoOC1wamRJekZMd1QtcU9CZ0Fkd1N6d1BHeUVSOHlUU2tQQWlxcm5ZSy1CTHVpbGNzNEVkWVEwdkZnaGhiUHkzZlU?oc=5"
     },
     {
-      "title": "從樹林鐵皮屋到全球電力布局！宏于電機11月轉上櫃 搶攻AI資料中心商機",
+      "title": "AI資料中心用電成本誰買單？Google自掏腰包擴建電網 帶動6億美元電力投資",
       "summary": "",
       "tag": "aidc",
-      "source": "財訊",
+      "source": "CSRone 永續智庫",
       "date": "2026-11-03",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5SZWZRQkVZSzZJbFNwVEVfQ3dsb0c1TnRsMWFGWVo3OTBUSkNSdGxPc1QxWlctSGFseEk4WUotYXJxaTBfVFl3NVBQUXdSaEtkYTMySkUzbmc5eFlNSjFUSlcyR1Zuc2ZvQjlOUEp5Z0QwSlE5Yms2aEYyUQ?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTFB6clowcE1obUN4ZEtxUENXLUl6LWpzREhEWjV5NDJhOWhyalJpNjBxSTRiSUFMd2t3WDlTbGN3LTExcTA?oc=5"
+    },
+    {
+      "title": "AI 資料中心成為日本新商機，為什麼連發電廠都開始投資 AI？",
+      "summary": "",
+      "tag": "aidc",
+      "source": "TechNews 科技新報",
+      "date": "2026-11-03",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFA2UHBRcnlNZkhyTlRQdE5MbGtuSGV1U3otSElUekhtUjdHRVpLVzJqUjdrdHI5N244UFduNTY2eUtNbUxLMVRqeFBncXd5LTdiemNnQ0h1amRtbnp2YS1UeTFYMUJsU05FSDhsZFVURmQyb3R1R1E1X0xrcEY?oc=5"
     },
     {
       "title": "Marvell Acquires Lumentum for $115 Billion: Optical Interconnects Become Key to AI Data Centers",
@@ -102,9 +150,25 @@
       "title": "CrowdStrike Extends Anthropic’s Claude Cowork Enterprise AI Adoption with Falcon Guardian Protection",
       "summary": "",
       "tag": "apps",
-      "source": "AiThority",
+      "source": "Quantisnow",
       "date": "2026-11-03",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQZWhfd3YtMndZOE5vNjA4cjlBWUxSTmNEU3RHZFRMd1p4V196N1MzX1lQaGtSUHh5NWFZSjJlOWdWY1VQeVBIYjZ0NDc0NEI3OF9ndE5Gak5nVnFMczZEYUNNSFhsNGxRbjRXQ19SSGFHZHR6MnpsbG1BeWU2alc4T3VaY0VaS0NxN3liWFJ0RXRNRVFNTFhMTHpNR3R1dUJzeWF0WFNkaThZVGtHU2duTGpQVzFCOVdrVGQ3bHdibGU2Z3NtVmZCNC10cw?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQeU83MVpBNnJ1YkFKRXJ6UGRqQjFWTkJnRkRtcXF0UklYaXpBWVdoUUJOTzJfRWdtTUJXZTNoRW5JWnRNNWpBbDl5dWhMenkxTkZ3NjllU2RtMXdKNmhXV3R4RTl4MnhnQXV5Q2pxMFNvcnV5eTgwNVhqdnA4Y1BYYVRrMHFOZGREYTBOQ1dtMU92TkhJc2p6ZWRkV3dveUs1RzYxYkg2VER4bGlnX2xBWEgzOGg4QjNyMWd5WVlsNA?oc=5"
+    },
+    {
+      "title": "Leading in the agentic era: How to put people first as you adopt AI agents",
+      "summary": "",
+      "tag": "apps",
+      "source": "Google Cloud",
+      "date": "2026-11-03",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOVmhIa0ZQb3ZiZTZoQ2dRS3pGMHNaWW9obEpBSFI2WERNY0NkSDZpS3JTQ0wtWEVrV0s4ZUVJdzFicXktT1hwdEFXdEhfUmZCTkRDU0pLdWJmb254VE1CUE1RbVhVNW5SbU93Vk41M2pDU1VITkQ5d2hEVXF1Z1ZLMzJ4Y0o?oc=5"
+    },
+    {
+      "title": "韓國AI資料中心業界促設單一視窗，解決電力供應不確定性",
+      "summary": "",
+      "tag": "aidc",
+      "source": "BigGo 財經",
+      "date": "2026-11-02",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5ja3BzOU1keFhCSGdkYzNsWVRwVlZEWlBveTJ4TUVtTFVMbmRPVEFCQ3E1eE9GeTdyY0s5c0ZxcVJiTlJsb0FhUXdDckh3bk1HaUR6YWVHckhQVzZldTNjcDdCQ1BOYUw0Zk1JTktKelVXcnhTQ2NfS3pn?oc=5"
     },
     {
       "title": "Anthropic revenue growth slows, compute financing risks mount ahead of IPO",
@@ -123,7 +187,7 @@
       "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5qTjFEOVBac1NZakxsWVUwbmk2bFNmVldwM3RmOVI0N1ZRS0lMZElyVzBlM0xMLWx1ajdHM3I3Tm1hTGFJQ25pT1pJUndOMmtHZFJjQU9xYXg1c1NUTHNrakYxTzFzZXRCaGNNQ1R0ejZuNmVQR294dzF3?oc=5"
     },
     {
-      "title": "Anthropic Revenue Hits Nearly $17 Billion Before Blockbuster IPO",
+      "title": "Anthropic Commits to $895 Billion in Spending as Mega-IPO Nears",
       "summary": "",
       "tag": "demand",
       "source": "Bloomberg.com",
@@ -153,14 +217,6 @@
       "source": "AP News",
       "date": "2026-11-02",
       "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOa09ReEZKQUZMUjIzWWo4RjlIdU9QWGpYZ3dlV0ZYRmo4WWlPR0tRTzgyUUR4Q0VHdGIzakJid3lRSEhBQmJTaVZQS2dXQ2NEMDhUY21tT2YwT1ZiazZlNmZ2cXNwOTkycUYxWksxbk5oSUMycXVxaHV3QTBIak1haWx0Uk84SHV1LTh1cU9rMGhtRGU2Q1E?oc=5"
-    },
-    {
-      "title": "Anthropic’s growth slowed and costs jumped in the third quarter, updated IPO filing shows",
-      "summary": "",
-      "tag": "demand",
-      "source": "Fortune",
-      "date": "2026-11-02",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOZHZSZi1UbEFQVUZqb2dFMExZVmhJNGtTbXdvc2FuZmtlMTdHRmF6TU5aNnlmMUdfOEJtcUZVLWZMYmw1WTM4RkhwNnRsTXVNQmFGVUJqcFR5bWc1eHhOa0xueUtkcTQ1bF9pOU9KOGxiWl8wUFFsUnhpRldOamtnMlJ5UTFCSGU3eHlnTWZHb1VvT1BoeG0zU2h4TFBNU2w5akQ3YUI1WHUwNktqZWhzc1JTRnVkNWY0VWRv?oc=5"
     },
     {
       "title": "Making Kubernetes AI-Ready for NVIDIA Vera Rubin on Day One | NVIDIA Technical Blog",
@@ -203,6 +259,14 @@
       "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5wcklIc2hOdHpVN0lVbkN6VE9XZjZ1RXBQNmVucHp2QWJzQUpyUGpRTTZoTGE0Ni1kMjNOUHVtVE1RTG5ROEpZNENudV9nWWZ0eE1Xa2I5b0pDeGs?oc=5"
     },
     {
+      "title": "Obscure neocloud lenders, not Nvidia, are where the AI bubble could burst first",
+      "summary": "",
+      "tag": "demand",
+      "source": "Startup Fortune",
+      "date": "2026-11-01",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNUkVSYTZKODBMUGwyQnl0Nk9RaE1zYXYwQy00OVhDanNlU1laWm9BdU41YlZJeFRwX0VSX2xNc0RlOG8zbkJ2dkpRWi1pRzI1c2ZYV2I0T0piWkFVTVBxYUVLNmszRHp1eFh1MHRQQ2loeGVldll0TnM3WmIwbG4xejlVMEhqWVNUSVRfQVN3UHpyVGJ0QkdsUmItcXdxYUtTTVhPVEROeV8?oc=5"
+    },
+    {
       "title": "NVIDIA Updates Rubin GPU Specs as First Production Hardware Arrives",
       "summary": "",
       "tag": "products",
@@ -227,14 +291,6 @@
       "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOWDZZYUZMSEc3ZHpza09mMk1BM0FfVWY3TlhJOVNTSDNUcVJ0WVpRQ25tOWNmbU5ZdFU2WXZaaHU1YW56TXBFSTZwRklNYk9Edk5YRlVNaEhnVnlkT3JiZUFQY0VtVTd3YnQ1RzhYVzVHWnpaVEkwUlJoNHFFTEhsQkpyVnBObkEySVNSZGM2OG5OdWlvSUhzRC1uSXlFVUs1c3huN29Odm9YakdtVUppXw?oc=5"
     },
     {
-      "title": "The First U.S. Humanoid Robot Stock Starts Trading in November. Here's Why I'd Wait for the De-SPAC Dip.",
-      "summary": "",
-      "tag": "apps",
-      "source": "Yahoo Finance",
-      "date": "2026-11-01",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPMUc3UEpuVWNLMERZcGFIbVFxZFVoRWt5eVBKZnJ2X0ZqWUI5MVJ4Y0NSalk5MnpRMnFxYW5UZ3NLM0stQXNwbTM1ajBiV0hrbzVLdWYxamRPV3BkeWNzTDZXMkE3Y0dtVER1a2xfamZjVVJQQk9GdmxiWHM2TU1qbGQ4U3hobXBSYTZ5a2N0Wk0wcVlQd3VaRA?oc=5"
-    },
-    {
       "title": "Wall Street wipes $1 trillion from the stock market as tech’s $828 billion AI spending spree sparks market fears",
       "summary": "",
       "tag": "aidc",
@@ -243,12 +299,20 @@
       "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1WaEdkUjE4cFJlX1hGUk9qODZTalAyR0hmci1pdXpQaWQzeU1xbmdqSFZBUXdpWXY4VGVMV3BQaFNEcFFOQWpsUk5YenhBLTJDVGl1dUNHOHZIM3F4UTlKVmEyV0dmZm9rcjM4WHhvdDN1dFlU?oc=5"
     },
     {
-      "title": "Buy The Hyperscaler Panic (SPX)",
+      "title": "Google outspends Microsoft in race to expand cloud capacity",
       "summary": "",
       "tag": "aidc",
-      "source": "Seeking Alpha",
+      "source": "Channel Dive",
       "date": "2026-10-31",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9TdVFvMnp0UHl0d1BqNlNqOW02QTlFdk9nUzlxb1d2YUVjbzh2bktGaEF6bzZ6LWRxS24xN1kyMDV6c1dPWEtXVWNScUx0TVhoeXZ2ZDBBeGtIOWRUZDFxbHhtM05tbVY4cGNRRHFQN1dYRldf?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPRl8zQVNGcDIyejlTQXNJOUF6MTJJX181aHR2SmVKdjRnQUJ4U0dwbXY4dzMwc1o4US0weHR4cC04eWtjcnhFQmFEU2d2N0o4aU90Q2l1eExuYWRSanl3ZU1uRC1qdFFaeTlzVVNTUHVGQy1FbjgwWVdCaG51VnNlNUdWU1VIY2VSdWFnazBPVnhUWVhvT3VBell3U3dqR0tLcVE?oc=5"
+    },
+    {
+      "title": "Anthropic IPO: 1,300% Growth, $16.3 Billion in Revenue, and an $80.7 Billion Loss. Here Are the Numbers to Watch.",
+      "summary": "",
+      "tag": "demand",
+      "source": "Yahoo Finance",
+      "date": "2026-10-31",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNeTZOWF9VTXpRQVB4cFdVclZqX1NVaUdrME9hemZRS3laODBSbU5Kbnd0WHpvNlE2elVfS0loVnVMYllRZ2llWExCSHJXRktJM3J6SmdBbk1saFhwYWV1NXRyZmx2YkpJMFFrUlRfNEM3WmtucExrZWJVT0xkYmJMd3pFeUN3NWkzVFlyOWkwc2F4ZnJDaVE?oc=5"
     },
     {
       "title": "FormFactor Inc (FORM) (Q3 2026) Earnings Call Highlights: Record Revenue, Raised TRITON ...",
@@ -257,70 +321,6 @@
       "source": "Yahoo Finance",
       "date": "2026-10-31",
       "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOOU9IZUJsbF9nQkZVV19Jc2twY0Q5TFVNeFBMNnJ2bFI4RC1LYjlKWDJtcG9pajhTdy1wNmRnOEwzS2wtd1Z0dXk1Z2c0QjBOZ29jUUhpclA0cndtV1ZnWG05Umx6aUFvYlhMUEk4cm5oX0VKZkowcV9WbUQtd0JCcjhrWkpobVg5VUtXWTh4Y054V2t1Um84?oc=5"
-    },
-    {
-      "title": "Jabil (JBL) Q2 2026 Earnings Call Transcript",
-      "summary": "",
-      "tag": "products",
-      "source": "Fortune",
-      "date": "2026-10-31",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFB6RnZCYWRDenRkd1VyUEZwUGRKZy1ZNC1aNnB3aFBiRFBNTkRGUE53aGdVbUh0N1JFeUFNcUtUX21KSnd3YXdFZmNYWGYzbUk3MGdnWkFla3ZwclQ2UER2M2tRWkJVbk9pRVY0?oc=5"
-    },
-    {
-      "title": "Meta builds humanoid robot with Chinese startup Fourier, The Information says",
-      "summary": "",
-      "tag": "apps",
-      "source": "Reuters",
-      "date": "2026-10-31",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOdTFWdC1PaTBpUG1YSmt0aW9XWTNEdzJsdjRYeUtCd1FfUGVXNlBuYUpGemJVUXZTM2IxTkExZ3BOSy1MblBvdjhrYUY0VDY2LS1BVnhJTU5YYVR1RzFDMzk2SUtKTjR2QmNSZkx0VDlkcm55ZEthSGp3Nms0WlBPaFN2MzJ0SWhsbFhVV1dTZEdwdF8tSTNCUU5hVHV0N0dkZGlmNF9oQnh0dkcwQ3J6NWVPVVVBeV9vWFNYcA?oc=5"
-    },
-    {
-      "title": "Meta Built Humanoid Prototype With Chinese Startup To Ramp Up Robotics Push",
-      "summary": "",
-      "tag": "apps",
-      "source": "The Information",
-      "date": "2026-10-31",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQbTRaOVBSZ3JDRTFyM2FSVWNjdWFhOU9VNjVSSGxfUzh4T0h2Vzg3eTlYUGFzaHhScDk1Yl9hd200aVl3QVl1ekNhVjRHS2YtczJiaHB0Q0ViZXlNMzRzOTI5QjVaS2c3czdLb3E4c2x1LWJYeTBHWTVYQ2dNd2lKWkRrUnlpTlRXMDN0M2dLUEhtOXZIeWJTcTRxYlFBMW9XZXFNalZxWQ?oc=5"
-    },
-    {
-      "title": "Trump’s Vision for A.I. Dominance Comes With Major Air Pollution",
-      "summary": "",
-      "tag": "aidc",
-      "source": "The New York Times",
-      "date": "2026-10-30",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQem5tczhQSXlXWkQyRU1XaTYyUmRaUElYZzlCbmtXRGI4WVgySklmZ2ctQ0s1UWJ2N1MzTU1xX1phbVdlTDIxM2NmcDVvdWpCT0EwcXFvZDlJMjJhdDBZaUpBODg4RnlnMWc3NWZaYXJYWi10VmhiNlU4MXVadlNXZmVZcHFXY3FQb1FHdjl0QQ?oc=5"
-    },
-    {
-      "title": "Can AI data centers be mass-produced like cars? This startup aims to find out",
-      "summary": "",
-      "tag": "aidc",
-      "source": "TechCrunch",
-      "date": "2026-10-30",
-      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOV1ltQ1NtZDlhZVBMZTRrQUpUZnB6OHFkcGJ4eEYzMlRxdDFDQlk1dGhWR21xOEtCSl9zLWpKbkl2bS10RUpNajVXX0ppVHhvZGFxZG1HSVVYR3llVVUwb1p5TnRaUFI2M1R3SE5SNTB0TEVGNmFET2U3MDFPYktrVmdTZVVzcjVHV1lPcURFaFo2TUJLc254blBFX0oybE0zdllNelZBYlJaV0s4Y3F0YWVGaldHWTFsc3Q3aEJMQ0Y0SmctWjc1YXltX3hzdVE?oc=5"
-    },
-    {
-      "title": "Alliant targets 1 GW of new data-center contracts in six months as power demand surges",
-      "summary": "",
-      "tag": "aidc",
-      "source": "Reuters",
-      "date": "2026-10-30",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPRmxLSkNiQnVWRXZGLUt1LV81NXJuM25tRkN2c05oelVCWUdwQXNMUkp2bk5jNVBOMHR6bi1rMmJSellrNEI0WXZEUUVNeFRyNlFqMTBBMEpMWjduREJobFZzMlB5aDViN3Nsanluc1R3aFp2ZWY0X0lGTGh2N1lXb0hoUFVfOGM1NHJ4YjZ6S01hRjBTOTF4Q0V1QmFLdzFaVFFoOHR2RTlKYzRXdVR5ZVplaFpkZkhXRXg3SUNVV2J5VTEtcWNSRA?oc=5"
-    },
-    {
-      "title": "AI hyperscalers are expected to finish the year spending a whopping $828 billion on capex",
-      "summary": "",
-      "tag": "aidc",
-      "source": "Business Insider",
-      "date": "2026-10-30",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQX2ZBTXdKeTh1cjFDSXlBaWtBS0pDa0o2UDU0SF9LZnJqQnpENTVmc0wtV1A4Ni16Rnk4a3BzYWVUeVN1RzI0YVZBR3ByQmNRYTRSSTlQZUJTcE1TaUZ0SWtVU2ktZExoU3hKRjdXN1pVTmlIa00wdmxEMXBZR0FPVnRyY2lXWEJybmw2ekwxTkVubnJxQmQtd0JfSlUwMHNab0FN?oc=5"
-    },
-    {
-      "title": "Higher yields now hurting AI stock bull as bond markets police capex: BofA",
-      "summary": "",
-      "tag": "aidc",
-      "source": "Investing.com",
-      "date": "2026-10-30",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOWkFSVmF0VHpkajRiOVlUbzdtVVpybXIydm4zM1pad01oV2RsUW1mcFpjUHVMaVJwd2c2X1FTZkZMYlhudkZ6bFVxcWJZSTNGSmNNWGQ4ZmdsbW9xWFplZEliNXotazZabWlSUW9UbFAza1FLR0FDNF9zMFRmMDZYQ1lPbmh1SGNKVDFzaUxvZ3ZkalVqUkZUNXl3YThLMGdUYWh2UmU5THJjR1FMenNncUdQVFdWcktxbzBFaXBVbUxnMVdPSnkxNFRR?oc=5"
     }
   ]
 }
