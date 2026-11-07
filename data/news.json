@@ -1,14 +1,14 @@
 {
-  "updated": "2026-11-07 03:34",
+  "updated": "2026-11-07 14:14",
   "source_note": "Google News RSS",
   "items": [
     {
-      "title": "Datacenters were on the ballot. US voters rejected them",
+      "title": "IREN Falls 13% in a Week, Hits $17.16 Low [2026]",
       "summary": "",
-      "tag": "aidc",
-      "source": "The Guardian",
-      "date": "2026-11-06",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQMjd1X3FyNVRETUU3RUcxaW9aUC1nMFh3NVBfNWtSVWh5UFgwQVNqZ3p2NHYxTjdrZVd6U0lGWlluMkotYjZMaThsZnBpMU5SZ05kbjZXY3kxLTU5SlFRU0lQN0I2OGFvUExIZDRscEpPX0RZV3A5TVhtNS02d2JWNFozSQ?oc=5"
+      "tag": "demand",
+      "source": "shattered.io",
+      "date": "2026-11-07",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOaXpKUVpST2gxNW9ZdGJFLUNoY1JZeWItaWpxMW1aTmhfSXZuR2ZzeWpaeG1vR2J4VENWZUlIalhuNHZjSGk1b094WW9yYnRoMmpVOTl2dlRmMzAtWkxqSGk2OHpiR3lUdTBiYXJsdkVpS1RhdGN6SnNyVndyVlJYYjA0NmI?oc=5"
     },
     {
       "title": "DCF Global: Britain’s New Bargain With the AI Data Center Industry",
@@ -19,20 +19,20 @@
       "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPTk9YWkJLUmphYkZvMklfbmk4Yi1OUXNWR2M3RGdUU0pNLXRxNXUwblQyTWNoMmdMRGFjTkJaUG5oY3V0WnNvc3VPSmJiczVQcUd6RVgzLUZTWXo5REpUMmxJOEJsNHJvVHhScVZ4ZHQxT3dqOHZjWEdNV3NiRmRpRDNqeDFIeEd6VjRWQUtDRFBlNE92MmxwODhkd2FZMU1yUWtBdUtSUlc5cTZGTXk1Q2JUdXlzRDAzSGo2MUdiVGhDdlR0WTc4eDNHNFhsQQ?oc=5"
     },
     {
+      "title": "Datacenters were on the ballot. US voters rejected them",
+      "summary": "",
+      "tag": "aidc",
+      "source": "The Guardian",
+      "date": "2026-11-06",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQMjd1X3FyNVRETUU3RUcxaW9aUC1nMFh3NVBfNWtSVWh5UFgwQVNqZ3p2NHYxTjdrZVd6U0lGWlluMkotYjZMaThsZnBpMU5SZ05kbjZXY3kxLTU5SlFRU0lQN0I2OGFvUExIZDRscEpPX0RZV3A5TVhtNS02d2JWNFozSQ?oc=5"
+    },
+    {
       "title": "Hyperscalers: AI Investment Will Outpace Near-Term Earnings",
       "summary": "",
       "tag": "aidc",
       "source": "Morningstar",
       "date": "2026-11-06",
       "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQbEk1TUtqYWVaZ21BZkxDMVRoZTNiRGE1TmdtbXJJUEdadFVrRXFRY3hUZTAxcUVMb0xINWFtbnltZndXV1RjYjd4N3NDNUlKWHhvLVRWeXZ1cXZCZEFVY0h0X3V6SzNINnJCWGtJZEZtUlNVQ2QySEVyeVF4cGl2Vk1ZeDN5UHZ5U2hEMmVJMVZ4UHJod256ZWVR?oc=5"
-    },
-    {
-      "title": "Exclusive | Major Investors Are Skeptical Anthropic IPO Can Achieve $1.5 Trillion Valuation",
-      "summary": "",
-      "tag": "demand",
-      "source": "WSJ",
-      "date": "2026-11-06",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPNVlmZWpuTHFFVDktVG9OaXlnVl9xSFliZFl4YXFRemVUZDFRRFFaajdEcnQ0b01sQTNJNDVDUkRaQXpLdEY3dGhVUjloVS16UHZIQ0cwUG5wQnpxaDcyX3lvX3A0VFZTb0xjMFBObUJKR3N5cVU2WFhqNzRMcEtjN09HQ3VKcnNIcy15V3VJUTdFRkk1OXhQYlNjMFpELUV0Y2o1MnNNa2dPd3lSN3JJdGM2Z0wzdw?oc=5"
     },
     {
       "title": "Nvidia is taking on new risks to help neoclouds through their growing pains",
@@ -75,6 +75,14 @@
       "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQVzlkcUZFWmc3Uk8zUXVDTi1TclV5dGtSM0d4bG5hTF82TzZhbkZxc0tXbGE1b0ZtN0Z4UDhsdy1pTmFBNjE3RmEwd0V0akVrWExpbXktR3FhSUZlb2ZRNFhNczh4S2xGb0RNbElZTlliZXBVMENNNmdKbE1MSGJaREhDanhxMlN6bXpHZEtDcWttU01Zc1F2MnJaRy0yM29BVDUwVGlpc1ZaQlFsT1Y3Q2RPeEdKNU4zc1p4LWtsbC16MkYyeGh4cFAzYnJlZ9IB0wFBVV95cUxQMHVGVXhVb2FVVjNlaVF3dFZlT3UtNlhybEdBaVEwWHAwSVFETUhBWDJacFdDSVpzLXZjbDJlamJyQmJZQU1idWd6dXpvVnl3VVU4dzlDRElpVlp5TFRKYXJLUVpabnp3SEs1TlhqbTg2cV9wRVNmRTROZGkzRmlXUXAzZG91VTNBN3Axb0pyX25HT2NvTnRLUVBWRUNrMVhrVzBpN2N6RWxoVmRVMmRHc0MyVlk4T1NZbFFneXJsNzN5TE5iMkk5UzRzZWJ0RFIzU1VJ?oc=5"
     },
     {
+      "title": "​‘World-first’ bionic humanoid robot anchors unveiled by Chinese state media",
+      "summary": "",
+      "tag": "apps",
+      "source": "Interesting Engineering",
+      "date": "2026-11-06",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOQUhjWmJrT1Y0ZGtqeVVxVG50X3FCT2l6TTI5Z2R3c2ZPazhMOXRhUDdXOWhnSS1LQTgyWmhNUXlwcmpkNUpjT3F0Xzg3UjZwcjdfeG53VEtqMEtwajlJV0xuTFJPc2p2TUdQcHRyT05mb01INmhkSUZOMzFWTGpVY2prZ3A0MkNJc2dFdjB3QkxqczdrSXFkTjQ0QQ?oc=5"
+    },
+    {
       "title": "OpenClaw Multiplayer: The Shared Agent Layer Agentic AI Needs",
       "summary": "",
       "tag": "apps",
@@ -83,12 +91,12 @@
       "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOS0dEcW04a2s4MUJzSXJMdzZjZERxNl9PdngzV3d0Wm5rWjBHUmJ0MzJRb2dGSnJiUUlYNVh3MUsyYk5RZTRBdVJVbXk4dlZqTGk4SUh3N0s2OHZOOWV3QVdKRUM4WFBHTS1pQThLZm9reXkwdWNhUDg1cW1WWThobUhxT3JxTXlTN1BORTFGZkRQRFNDUjRJLTJvSQ?oc=5"
     },
     {
-      "title": "Voters rejected AI data centers over resource concerns. Here's why measuring water usage is hard",
+      "title": "SpaceX Stock Tumbles. A 6-Gigawatt AI Data Center Is Drawing Backlash",
       "summary": "",
       "tag": "aidc",
-      "source": "CNBC",
+      "source": "TradingView",
       "date": "2026-11-05",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOSElxVG9yQnBRbVdSTkxabDRKWUFDb2d4STE0ZElpaEZEd1dUS3RLLUdaN1NRN3paOFV1NjAzaWUtSEJERUx5MGgzS2NnbW01aGZXa0I0RnhWVG5yNHBmLXVaN2tHc25CNW1pdVBrNzlvWGZxcnV1bTNOTzN5RXhpX0xHQzdNZE5oeG85dU50OUpwX0szMHF3WEQ5dnQ2cndNeXRiS2tB0gGrAUFVX3lxTE5xRXQwaXRkaUt3UFoxZmZJSllEUFllY1loWjBvNkNJcEQ4Mm5QZlZuOUJsS3dNWUY5MldSMUwwNWN0Y2otZ3RmaWw3V0dvUUZnbGdqVjVwSGRjU2EzUS1vX3ZKQk0tbkFkNEphSklLWFcwYXZHRFJGUEczcEhxcXJmYkFISDFMLWZoNGZ0SHZGTEIwODVrMGlWTWZueVRqemEzZUxJcjhmaVJlNA?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPOUM2cHVBdnJrT0NuQ1AtMUp2bS03cTJFdzZYSmtsU0VjTWY1LUtqeUJnQWlNbUMtWmxiRnV2ekJET25Md25UX0NpcUE0cGljY3V0ek5FQV9WSk5RN1AxYlA5dG03ZXB2MTV1M3VXU0x3WGJCTlktd2pteTVDUFNLemZFSm1KQVpDNnVJeUJ4SnJDWGxxX2toc2FBS1pBVmVQdW1BQVgzYXE1NTl2YlN3YmJNMTZHdjV2VkVmSE9UbHFNYldtMV9n?oc=5"
     },
     {
       "title": "美國掀起反AI資料中心浪潮，一面倒支持限制開發",
@@ -99,20 +107,20 @@
       "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1JUXVqNW9VMTkwRkZfb0NmdkltUWtWa0J4am9SUHdnM1ZKNDdwVlZmMGRjNFFQV1YtWklOVkh0X01YTVBDa3hqMVFqcEZJUQ?oc=5"
     },
     {
-      "title": "全美爆發「反資料中心」投票潮！38地區通過禁令、過半選民反對，AI擴張面臨政治逆風",
-      "summary": "",
-      "tag": "aidc",
-      "source": "數位時代",
-      "date": "2026-11-05",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQQ0twM01lc09BOHBlR1RET2tJTElia29EWmFQU0xjVHRCamg0bF80YlRlWk5NVEo1MmVTbVNiWjVYUS1CeW9xdHI1NGprNlNCOXk0cEx5UUQxbks0eklEM3NnQ3QzX29ETVlwUnN1RlpFTk9vVHV3OGtKT21xYnlxMHJFZ1o?oc=5"
-    },
-    {
       "title": "AI資料中心踢到大鐵板 ? 美國德州25％規劃產能添變數 業界掀震盪",
       "summary": "",
       "tag": "aidc",
       "source": "自由財經",
       "date": "2026-11-05",
       "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5ZYWdRXzlDRmQ4VG90cVNQZlJ6aFBpc1NpRnBKZVlZZXZ5eXdUY3ctTTgzSElISjBCSTRnZm5tYjBqMUdMU3Z1YjVSMGc3bDZQU2t4YmZjM1p5M1dpUWcw0gFkQVVfeXFMT2pHajhFS3g2dXk0MmhMWDJXSWxaZzcweF9xMjZhUVN3RGFENEJHOEo5aWVlekdvZ3V2emFQajgtMG9LbTE0RVJaSDlWMktnQ0xFcWx1VkN3YUxTVXNrYVU3Zzl0cw?oc=5"
+    },
+    {
+      "title": "全美爆發「反資料中心」投票潮！38地區通過禁令、過半選民反對，AI擴張面臨政治逆風",
+      "summary": "",
+      "tag": "aidc",
+      "source": "數位時代",
+      "date": "2026-11-05",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQQ0twM01lc09BOHBlR1RET2tJTElia29EWmFQU0xjVHRCamg0bF80YlRlWk5NVEo1MmVTbVNiWjVYUS1CeW9xdHI1NGprNlNCOXk0cEx5UUQxbks0eklEM3NnQ3QzX29ETVlwUnN1RlpFTk9vVHV3OGtKT21xYnlxMHJFZ1o?oc=5"
     },
     {
       "title": "德州變天AI資料中心踢鐵板！台鏈恐受衝擊鴻海、緯創、台達電德州大布局受矚- 日報",
@@ -123,28 +131,28 @@
       "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5UWG9BNjhJYUxya29WcG5Bdk1ZaWpVY3ZDTWgwTDdrano4b1o3dnRObHVuZ1dqTHZ4QUdCNEdiUDM1WTBQdjVJMWVMdXByYTd3QXlGUWh6UUROYmNtNlhn?oc=5"
     },
     {
-      "title": "民主黨重返多數對 AI 與資料中心發展非全然負面，一文全面了解原因",
+      "title": "全美AI資料中心恐踩煞車？民主黨勝選掀監管風暴，台灣供應鏈受牽動",
       "summary": "",
       "tag": "aidc",
-      "source": "TechNews 科技新報",
+      "source": "遠見雜誌",
       "date": "2026-11-05",
-      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNMkdZeF84SnBJLWMyWnlHckRJR1RXU0RSRFpHbnlWYmxxT2dGQW94eFJjUTFJYWRxUzlDN1NudHlPZXBpTnYtWUpiekJDNlNjVEFOeENzQUtNbmpUckpOMFM5cGFVQ0o1ckZiR2FpRHdabnBJcUgtNEFFY0ZvbG5vNE0tdTVWYURsSTVfcDdFVDlNOURKdWtvTGpKbkc4UDQzaW5jWXRFMjdObFNIRFBrRElpQUl6bVJiWXhzWVZzOWUtN3haVlJvM0VEYUgyUTJaeDV4czZKNWZvQQ?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFA4YmU3M3BleHVMYkR2RFlYY1RQNE9GT3dKV1RsVlZSS01HVE01dGRfUXpkcU9DMmxmb2ZwbFNFMTNkdVRKQjZtLS1Gcy1MUQ?oc=5"
     },
     {
-      "title": "IREN (IREN) Draws Tighter Oversight On Neocloud Data Center Projects",
+      "title": "CoreWeave vs. Nebius: Which Is the Better AI Neocloud Stock to Own for the Next 3 Years?",
       "summary": "",
       "tag": "demand",
       "source": "Yahoo Finance",
       "date": "2026-11-05",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOWjRNRkxGNjA3VGJ1UDNpUVJFWUhFRjdzSVAtVDBoOHZRMFNMUTNZZHJQRWQ4TGFsX2kzVTRXREF3UVBmWXUwNC00NUQtV0FtM0VBYXlueE1HUWt4cXJBT1R4QWNjWE9qTmphQUIwWWdXNEZhTEFjVVl5c01hMFBPdi1IaFlENWdtY08wYktyUnZ6Qk4xRmhEWTZVbVBhUQ?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNQVJYeU9NZklEMlE0NEIyWnpfaHdfM01nUFNQdmRoXzdaZmFfNWU5UUpwVEVtRGpmb3pqaUMxVXgzaXBmckYxMmQzMF9qQXVBZVR3WElhOFVISG96WlA0elBEcXNsN21FX1FjNS0yRVR2QmJha0wtLUZIY2dDMWRweU14VmRUcG9FOWZzN0tRTWhRVk03RkRVTW53?oc=5"
     },
     {
-      "title": "Investors wipe $2.5 trillion off Nasdaq as blue tsunami prompts AI fears",
+      "title": "Neocloud IREN says $4 billion in annualized revenue being delayed due to customer request",
       "summary": "",
       "tag": "demand",
-      "source": "Reuters",
+      "source": "CNBC",
       "date": "2026-11-05",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPVVFVWVUwWmVwQXRLMTV2ZFBIV3dpR1VBUTU4dnhfUW5SN3BwcGZraXF1YTFDMmx2TjZFOTVBTWNqc09zTV9VbE1faDJ5Y294THA0YlFkTlZmX3AzWDJacm96Um1YQ0htd2FLRmJFTlpvLWVhQ0pXdUtyLVh0ZTRESzBJNW1fZ2lrTVBkUEIzejF2VUVLeGdyQWxDazczTmNWQWdOMXIybTR2T0x5OWFGNWMyU256bUhRME54eXBlTQ?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1iak1TdV9VYjNuOUVBc2I2RGdLNk9aX3dNc0U1QXBYUndsY2EwUlBHeV9ZQkZJWHRyblJSOEswSnEyUWtNbEpid0xQMEE2V0NOUmM3eWRQc2t1R3V0aWNBWUhqa1NKX0VZa3gtUmJENzNiTm1s?oc=5"
     },
     {
       "title": "NVIDIA CUDA 13.5 released with Vera Rubin support and improved GPU resource management",
@@ -211,14 +219,6 @@
       "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9BdjRjWGE3Q285VjIxNHBfZFNJNnJib250dDNWMEtQUVVWbzJxQjZZV01FbUI0aWRUODlSZlhwVWl6Uy1YZDFaMWtHemtRZTg?oc=5"
     },
     {
-      "title": "藍潮來襲、民主黨橫掃國會，AI資料中心不妙了？美股何時回穩？",
-      "summary": "",
-      "tag": "aidc",
-      "source": "天下雜誌",
-      "date": "2026-11-04",
-      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9obk5xNXk4aFdIR3F6RENtT29pTE9BVk0ya0NPaW1WWXVtTUpScENQZERUajRSRThCLThTalJlSTFFNnZEWTlVS1dMSmFmZw?oc=5"
-    },
-    {
       "title": "美國期中選舉變天 產業市場／AI 資料中心面臨「藍色海嘯」 民主黨拿下四大重鎮州長 主張嚴格監管",
       "summary": "",
       "tag": "aidc",
@@ -227,20 +227,20 @@
       "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE56TTRJek8zNi05X0JhRElQTnNvWlRmZW1uMUc1WjZKTlEyUENRY2Zla3VsZ0dmM3k3ckFQd1FhaTQxUXZleWgza2NTaHZ5MlRrWmRrTEs1Um1fd9IBX0FVX3lxTE9xb0dnU0tsN2hLc21HMHRuUEJycVZHQmF4TloxRzJvT05JMGdxSjBXZXdmemFVMTQtenZOaG4ydnlzRnM0c1lVMlFOSmJLc2pvVURFa1pUMWxXcGhFQ0Jv?oc=5"
     },
     {
+      "title": "藍潮來襲、民主黨橫掃國會，AI資料中心不妙了？美股何時回穩？",
+      "summary": "",
+      "tag": "aidc",
+      "source": "天下雜誌",
+      "date": "2026-11-04",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9obk5xNXk4aFdIR3F6RENtT29pTE9BVk0ya0NPaW1WWXVtTUpScENQZERUajRSRThCLThTalJlSTFFNnZEWTlVS1dMSmFmZw?oc=5"
+    },
+    {
       "title": "Neocloud Sell-Off Leaves Bitcoin Miners Oversold",
       "summary": "",
       "tag": "demand",
       "source": "VanEck",
       "date": "2026-11-04",
       "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPV1ZEcE1fdUZBRlN3YUdINjhyZGs2Rld1YjhtODRTdFh5eDI0SHdTSUgzQk9nUTV1aVRjWGZYUlliTTJqajlIVXlOeGNmTTUxRWs3dDJ0ekNOT2ZYLVJJYWtHakpaTTNQUThsWDdBLWRlS1VOTXI5SVpkSnloNHoyYjdtcjFwREVrU1hleUpwV1F2NUxXdGtJWXJUaEJOSXNI?oc=5"
-    },
-    {
-      "title": "Startup Profile: hosted.ai Accelerates GPU Utilization",
-      "summary": "",
-      "tag": "demand",
-      "source": "Futuriom",
-      "date": "2026-11-04",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOSGJDc1NZaUkwaVVSbjBFRWVPdWdJMXFackxMSjZkRHQ0QUQ5SktaOXJTNDhLWDA4d3dfQThGc3RQTTB5bmVRR1YyOXNBQ18zTHppeWM3amM1RFFxLXlUMzRCam95Y0pWREVVbDEyZWdlYnZleFhjUTJZZkZLYTdXdVh3aUc0MV81Y1JvU3IycGJiYXFBTGhPU1BVY3g5d3NXZ2c?oc=5"
     },
     {
       "title": "AI's Building Boom Meets A Blue Wave. 'Neocloud' Stocks Fall.",
@@ -299,20 +299,20 @@
       "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQYlFvNi1SMVREU2xIajB2cmlXaHUwbnRiU3RzTnY0Vmh3eXAyVE1WV1FxN2RhZ01yblJpNGVxeHdKdmdZWFBUdXk4dWptdXItc19kZFBPTGVMMnY2bXNlLXRUNWtucGItM2JSV09xYVVmbUxUMEN5VG1LOVZYS2c3VEktUXFKOEtxZFdrN1U4TWdWeHRPT3VhSEtZQ0pCYXd5ci1HV3VKeEMwX2laTEV1Snp4XzhiTVh1cmRCTEprQUhpRFNmOE1SQzZwRQ?oc=5"
     },
     {
+      "title": "Brookfield plans for a $27 billion AI data center at UK power station",
+      "summary": "",
+      "tag": "aidc",
+      "source": "CNBC",
+      "date": "2026-11-03",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNYzl3ZVM5cV9NUzBldS1OeUM1RkVtLUdNQ0dJM0g4eGJ2NTEyVURocFcwZkVlUkFWbVd6ZUx5dC1yRTVtSFczTG5qcTBLNW0tUVhXUTRpRGxHVWdJZUNWbFZuaFUydDN3SHNlX2E2M2J4RGFZN3ZWcGs3S053bVA3U0toTdIBiAFBVV95cUxQQzE3TVNBeTY0dkx5b1k1M21hVnZRM241R3hfR2NpejBLRHRPM1ZmQWROMnI3TUtvTDUwT3VJVE1jWm1STjVwcHNlNEdJdzg5b0JPVHc2ZG81Qmw2YXhMdlp6QVRwd3h5LVFTR3JobWkwNTFxaXBpRXpVRkU2a3hUVmhTblZkLXJS?oc=5"
+    },
+    {
       "title": "Elon Is Doing It Again: SpaceX Will Be The World’s Biggest AI Cloud",
       "summary": "",
       "tag": "aidc",
       "source": "SemiAnalysis",
       "date": "2026-11-03",
       "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBtdXQ2QllwRG1GMm13OW4yM1ZXVXdVcVkwb2lWSnRfeGExWDBYZzdxc1NKNzFicmFNTDRDLV9JLW5pLUZPZXBlRHZxVFFrUWZWY2VnYVo5dVZ2VjdQNUxTRWJVX3lGQklDMGdrNzFTTEJYTFdUY2NrWWlhUjQ?oc=5"
-    },
-    {
-      "title": "Drax, Brookfield partner on $27 billion AI data centre in UK",
-      "summary": "",
-      "tag": "aidc",
-      "source": "Reuters",
-      "date": "2026-11-03",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQcTgtRXFhNnVTZjJmYlZWZVJqRWstSEw4dG5YTnhXQ0I5Nzd6UERMdThvU3lVYkFWNi1Yc1pXVVMzbUgycGNIaXk4eXRSUDh0blJGUmZ1MXBJejlEMUtnbzdKN1pIdUp4RTYzVldQb1c4R1lxREZnWDduQU5IalBrREl5c2pNaHRYMXJZbUxubEF0Z240OWprQ09mQjdZejhaTnc?oc=5"
     },
     {
       "title": "Drax Plots A 1-GW AI Data Center At Its Power Station",
