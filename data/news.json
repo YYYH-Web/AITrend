@@ -1,7 +1,31 @@
 {
-  "updated": "2026-11-08 14:20",
+  "updated": "2026-11-08 21:44",
   "source_note": "Google News RSS",
   "items": [
+    {
+      "title": "Chamath Palihapitiya Warns AI Data Center Slowdown Could Be A ‘Disproportionate’ Blow To Anthropic And OpenAI",
+      "summary": "",
+      "tag": "aidc",
+      "source": "Stocktwits",
+      "date": "2026-11-08",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNUWVqZFhYQXo1R3pfbXlpRHVRLUpsdEkwSnFPX0IyYmFYdEFYUHBnY04wbE5qSGM3WGMtYThzOWgybmhmQkVCNzkxeDI5ajVUYkRqWFdRLU05Q3dMMzd2U3IyNEFya21GWFdmWXAyanBSQmNHS080a1RYdjhvd1RTY253QUZ1a2tPbjIwd3VWdV92OXhVbWJRLW5hT2tWS3U4MEczbTBaRXVPbXdZS2syQkFhZUx0S2otNVZkbjFVYTNWdjh0ZlZj?oc=5"
+    },
+    {
+      "title": "UduTech's Alexander Tsado on Africa's GPU Cloud [2026] - https://tech-insider.org/",
+      "summary": "",
+      "tag": "demand",
+      "source": "https://tech-insider.org/",
+      "date": "2026-11-08",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQa2dzU0Z2b1o5TlRVc2ZBR1pzU0ZRWTFFX0FRSmtYRUhwbHB4Sm5WdG5qTWgweWZsRDVWOFpKSXFLM2NyOHlzWEMxNlpybi14NTJmMS0tQlQwSlIwYWFnNnJROThfUFFIZGdncUIwbVFpQ3FSZ1BOQ3RQVnlNSldkSFVybGhCNGNYal9LeVRBMHBhVHIz?oc=5"
+    },
+    {
+      "title": "Microsoft, Meta And Google Just Silenced AI Spending Critics In One Earnings Night As Big Tech Capex Swells To $725B",
+      "summary": "",
+      "tag": "aidc",
+      "source": "Stocktwits",
+      "date": "2026-11-07",
+      "url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxNQ2ZDQkRWWGZaNVdBV1UwS0FEY0RvVVJqUFUxNXd2eHpWM1haeXltLUNpaXB2TW5kcHlJRFo0WFNOQWZFaGNDZ2p3WlcwZjhPVndrYkQwWVAxR0tVVnotaFdDNnZHT1IxZ1BJVHJXZXFpVG5ROUlMcGZoR29iczhkOGM4VG9UMEVWWHJoUEY5TlBCN0RiTEotLTFWNVdFZHZpUmVBOHBuYWVaN0xYMEJzSkgtSno4WHhuc2x4TmpMUkV5bHJDaTNqVHFKalBIMl9pZ01MSjF2a0hpczUtYjMxUHk1OGt0VUxxbHRuaHZ3Nkt4ekRLTl9YZzVQX04wYjFUS25wLUZwWUJwTFU?oc=5"
+    },
     {
       "title": "IREN Falls 13% in a Week, Hits $17.16 Low [2026]",
       "summary": "",
@@ -9,6 +33,14 @@
       "source": "shattered.io",
       "date": "2026-11-07",
       "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOaXpKUVpST2gxNW9ZdGJFLUNoY1JZeWItaWpxMW1aTmhfSXZuR2ZzeWpaeG1vR2J4VENWZUlIalhuNHZjSGk1b094WW9yYnRoMmpVOTl2dlRmMzAtWkxqSGk2OHpiR3lUdTBiYXJsdkVpS1RhdGN6SnNyVndyVlJYYjA0NmI?oc=5"
+    },
+    {
+      "title": "U.S. Data Center Tracker: Power, Facilities & Growth (2026)",
+      "summary": "",
+      "tag": "aidc",
+      "source": "Electric Choice",
+      "date": "2026-11-06",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9acDEzM3A0SWNlUWl6NjN3UXUyZkxpRE9hZ3BtNVJkMUZ2M2dyVWkyQ0RESC1OLWZHY2oxYzlXMW1vSHdXUjNHWjZIMmNLRjhtU2d4dk53?oc=5"
     },
     {
       "title": "Datacenters were on the ballot. US voters rejected them",
@@ -35,12 +67,12 @@
       "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQbEk1TUtqYWVaZ21BZkxDMVRoZTNiRGE1TmdtbXJJUEdadFVrRXFRY3hUZTAxcUVMb0xINWFtbnltZndXV1RjYjd4N3NDNUlKWHhvLVRWeXZ1cXZCZEFVY0h0X3V6SzNINnJCWGtJZEZtUlNVQ2QySEVyeVF4cGl2Vk1ZeDN5UHZ5U2hEMmVJMVZ4UHJod256ZWVR?oc=5"
     },
     {
-      "title": "AI資料中心還能蓋在哪？德州新州長喊先停建 全美45場公投44場挺設限",
+      "title": "德州變天 AI資料中心要踩煞車？童子賢：美國不會喊停 但點出「這難題」",
       "summary": "",
       "tag": "aidc",
-      "source": "UDN",
+      "source": "工商時報",
       "date": "2026-11-06",
-      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1yRlhmLV9oV2JOOFhPdEtZYWZ4amFsM2c4cmlqLUtsSFhxeFdubWdxWk94c0xSRnB5a2dYYmJzR0hNX2NrSDFSVlV5Y09vNDZt?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFB6N1ItRGFGTUNXdzFqVXA4ck1JQzBtQ3VJeGZYZDJBRWNjQ1NJTGJqSUlCOG9zYTRhd3QxWFFIOU1TV3Q2Ty13M251c3FiYVI1NjFVUXpLc19kOWpVRWpZ?oc=5"
     },
     {
       "title": "Nvidia is taking on new risks to help neoclouds through their growing pains",
@@ -56,7 +88,7 @@
       "tag": "demand",
       "source": "CNBC",
       "date": "2026-11-06",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNTlBrMkJ1TjdYY3VXQTVQeWZ3NFBvZE10d25OU1d2UXVLTlhXQWlrUzBDX082T2UyY3dSY2VBX2tnanFYQmRkVmRMMnU1Y2pvcEZ1eHU0WXBNRmZMa1pzaWFrT1FWZkF3cE44QVVkblgwMHFKOXZEZS16UHVNV3RNQUhEbUdmTHBGd3B6NTF4YmpHNEJrUktjdVdyZlgyU1V0ZEstT2hvNWdxQdIBrwFBVV95cUxNUWxBWFlLbTJteFZrY2Z5dVcwT3FrelRobWc5c013N1hsR05RVThlWUFuN09YcHpfa0I4V0tLb0V1QVFsVlkyREp1a3A2cnN1UHhmR0tJN1p0YWtib0Q4c0NNaHNiSW83enY1VUJQejM5YU42RlBvVm1qdTJkc3NzM1diemg1Ry0zVjNzUEM0bVc5NzcwbmRubms1amhVVHRfdHpTSEJ2VW8tS0dscFpJ?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNTlBrMkJ1TjdYY3VXQTVQeWZ3NFBvZE10d25OU1d2UXVLTlhXQWlrUzBDX082T2UyY3dSY2VBX2tnanFYQmRkVmRMMnU1Y2pvcEZ1eHU0WXBNRmZMa1pzaWFrT1FWZkF3cE44QVVkblgwMHFKOXZEZS16UHVNV3RNQUhEbUdmTHBGd3B6NTF4YmpHNEJrUktjdVdyZlgyU1V0ZEstT2hvNWdxQQ?oc=5"
     },
     {
       "title": "GPU vs TPU: Rubin, Ironwood, MI355X’s 288 GB [2026] - https://tech-insider.org/",
@@ -115,14 +147,6 @@
       "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNdk42anJHNXZZdl9CY3ZJRGRNODcxR2x5V2tleWNwVkNvSWZaaWN4cW9RUEM3OVo1U0RTWTFoUjV2a3lGZXFHRkpjOGR2OVF2enNVYWpEMTloMVFEMDNLOW00Ul82THNXaTBua3U4c0VKV0lSWEVRZk9IVWVZblRtd3V6TjJUVG1DaUF3WEtfSU9oTE4wODdEN3UtT2dGc3RFMTFyWGpqSTM5UHdTdF84R1R4MmR0NHc?oc=5"
     },
     {
-      "title": "SpaceX Stock Tumbles. A 6-Gigawatt AI Data Center Is Drawing Backlash",
-      "summary": "",
-      "tag": "aidc",
-      "source": "TradingView",
-      "date": "2026-11-05",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPOUM2cHVBdnJrT0NuQ1AtMUp2bS03cTJFdzZYSmtsU0VjTWY1LUtqeUJnQWlNbUMtWmxiRnV2ekJET25Md25UX0NpcUE0cGljY3V0ek5FQV9WSk5RN1AxYlA5dG03ZXB2MTV1M3VXU0x3WGJCTlktd2pteTVDUFNLemZFSm1KQVpDNnVJeUJ4SnJDWGxxX2toc2FBS1pBVmVQdW1BQVgzYXE1NTl2YlN3YmJNMTZHdjV2VkVmSE9UbHFNYldtMV9n?oc=5"
-    },
-    {
       "title": "Dan Ives Sees Cash Flow Rebound In MSFT, META, GOOGL, AMZN: Says AI Bubble Fears Thrown Out The Window",
       "summary": "",
       "tag": "aidc",
@@ -145,14 +169,6 @@
       "source": "自由財經",
       "date": "2026-11-05",
       "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5ZYWdRXzlDRmQ4VG90cVNQZlJ6aFBpc1NpRnBKZVlZZXZ5eXdUY3ctTTgzSElISjBCSTRnZm5tYjBqMUdMU3Z1YjVSMGc3bDZQU2t4YmZjM1p5M1dpUWcw0gFkQVVfeXFMT2pHajhFS3g2dXk0MmhMWDJXSWxaZzcweF9xMjZhUVN3RGFENEJHOEo5aWVlekdvZ3V2emFQajgtMG9LbTE0RVJaSDlWMktnQ0xFcWx1VkN3YUxTVXNrYVU3Zzl0cw?oc=5"
-    },
-    {
-      "title": "德州變天AI資料中心踢鐵板！台鏈恐受衝擊鴻海、緯創、台達電德州大布局受矚- 日報",
-      "summary": "",
-      "tag": "aidc",
-      "source": "工商時報",
-      "date": "2026-11-05",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5UWG9BNjhJYUxya29WcG5Bdk1ZaWpVY3ZDTWgwTDdrano4b1o3dnRObHVuZ1dqTHZ4QUdCNEdiUDM1WTBQdjVJMWVMdXByYTd3QXlGUWh6UUROYmNtNlhn?oc=5"
     },
     {
       "title": "全美AI資料中心恐踩煞車？民主黨勝選掀監管風暴，台灣供應鏈受牽動",
@@ -243,12 +259,28 @@
       "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9BdjRjWGE3Q285VjIxNHBfZFNJNnJib250dDNWMEtQUVVWbzJxQjZZV01FbUI0aWRUODlSZlhwVWl6Uy1YZDFaMWtHemtRZTg?oc=5"
     },
     {
+      "title": "美國期中選舉變天 產業市場／AI 資料中心面臨「藍色海嘯」 民主黨拿下四大重鎮州長 主張嚴格監管",
+      "summary": "",
+      "tag": "aidc",
+      "source": "經濟日報",
+      "date": "2026-11-04",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE56TTRJek8zNi05X0JhRElQTnNvWlRmZW1uMUc1WjZKTlEyUENRY2Zla3VsZ0dmM3k3ckFQd1FhaTQxUXZleWgza2NTaHZ5MlRrWmRrTEs1Um1fd9IBX0FVX3lxTE9xb0dnU0tsN2hLc21HMHRuUEJycVZHQmF4TloxRzJvT05JMGdxSjBXZXdmemFVMTQtenZOaG4ydnlzRnM0c1lVMlFOSmJLc2pvVURFa1pUMWxXcGhFQ0Jv?oc=5"
+    },
+    {
       "title": "藍潮來襲、民主黨橫掃國會，AI資料中心不妙了？美股何時回穩？",
       "summary": "",
       "tag": "aidc",
       "source": "天下雜誌",
       "date": "2026-11-04",
       "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9obk5xNXk4aFdIR3F6RENtT29pTE9BVk0ya0NPaW1WWXVtTUpScENQZERUajRSRThCLThTalJlSTFFNnZEWTlVS1dMSmFmZw?oc=5"
+    },
+    {
+      "title": "Anthropic Revenue and Valuation Statistics (Nov 2026)",
+      "summary": "",
+      "tag": "demand",
+      "source": "Exploding Topics",
+      "date": "2026-11-04",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1VV09mY3FENzVFMnFBam9ZMGpmdVpVQjBYejdZV082ajU0QmMtYmtLOE43Tjk5VGZGQU5KSTV0d012Um8wNTcxN3oxMzV2Zm81d3pGRkE3M2hPRkZ5TWlZ?oc=5"
     },
     {
       "title": "Neocloud Sell-Off Leaves Bitcoin Miners Oversold",
@@ -289,38 +321,6 @@
       "source": "BigGo Finance",
       "date": "2026-11-04",
       "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1yR1hONFJPM3U3al9SdDZLZlhiVW5lZjNOZ1JnQ3VwM0hBMjJCNW9IU253bmU3QVdiOUV1cmJFYVFRSGljajhuanpMcjZqYnZjalptb0dmenVLVEF2NDZHVjFjeEkzeXRlTW5UMXhMZEI5dmtxLVE?oc=5"
-    },
-    {
-      "title": "Where Could NVIDIA’s Next Growth Come From?",
-      "summary": "",
-      "tag": "products",
-      "source": "Trefis",
-      "date": "2026-11-04",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOa2p5dHpTdklvTXVFOHMtdU1PVGlsTTd3RzdrVjBPUDBEMFhwbXRGcXdrYkZTU3B3VE51Skh5Ull2N1BqTU9qMlJCNUdJcTdvUXMwRWU0Wjg4OUZLVFVhQnREc0NBVVBmSWxPOTM5RTRqeGlacW5qOEczOWRsY2hZSFRaWmRxcXA0dU5ETnBrRllWN194OVg4b1lPN3dwZnBzNWU5Vw?oc=5"
-    },
-    {
-      "title": "Upcoming Hardware Launches 2027 (Updated Nov 2026)",
-      "summary": "",
-      "tag": "products",
-      "source": "TechPowerUp",
-      "date": "2026-11-04",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE96UjhWam04c0FLbVgwMVNqd0JWNjZLNWFqcXdJUUFkYm9EaHRHMWNtTXhzMWFQM2pRZnBHVkN4bjZESnRvVUZqSElaelkwUUZLTWN5X1daMFNrNEZhUFZsN19Ia3BDNWVPVzJzTg?oc=5"
-    },
-    {
-      "title": "Xiaomi’s humanoid robots work a full 8-hour shift in its EV factory",
-      "summary": "",
-      "tag": "apps",
-      "source": "Electrek",
-      "date": "2026-11-04",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPRHlsVE02aUd1U3ozeUxFNi1BdFljTU1FOVNtbXNXd0dmYnRSYUZiYUFkQXlpc0ZtZG8xOTFjc3V6aEZ5aklYd3Y5d3ZYTnExR2RsbnpEU1pIbWluWC1IZDhIYWowaWtBM1dGa3FydkNkZUxTWURWaHV5ZHlhU2lkY0NXUQ?oc=5"
-    },
-    {
-      "title": "New Humanoid Robot Offers Ordnance Disposal Option",
-      "summary": "",
-      "tag": "apps",
-      "source": "National Defense Magazine",
-      "date": "2026-11-04",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNQXNmOWhZLW1XTGRkZE5xVDF2eWlNX3FKXzNRalZNWHJqWGhhOUdITExvODVBak9YbzBCLUZwWk81bkVWOEFnZ0N5ZzFzQVZBa3ZFRVg0WEs5ZkFQOC1vQkJMaHBOcFB3czVNZDh0dHdReEwyeDhhTkpFOG9HaDl4YWY4dmwtaUZlNkNQZGtQRmQ1a2VkZmVjOVJRdGRWaWVDZ3FuMmtTZUNJZEtIS0E?oc=5"
     }
   ]
 }
