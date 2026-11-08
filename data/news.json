@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-08 21:44",
+  "updated": "2026-11-09 06:17",
   "source_note": "Google News RSS",
   "items": [
     {
@@ -35,6 +35,14 @@
       "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOaXpKUVpST2gxNW9ZdGJFLUNoY1JZeWItaWpxMW1aTmhfSXZuR2ZzeWpaeG1vR2J4VENWZUlIalhuNHZjSGk1b094WW9yYnRoMmpVOTl2dlRmMzAtWkxqSGk2OHpiR3lUdTBiYXJsdkVpS1RhdGN6SnNyVndyVlJYYjA0NmI?oc=5"
     },
     {
+      "title": "CUDA 13.5 Makes Vera Rubin Production-Ready: NVIDIA Expands Scheduling and Multi-GPU Communication",
+      "summary": "",
+      "tag": "products",
+      "source": "igor´sLAB",
+      "date": "2026-11-07",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNOWxXaWdfWkNrMWRTUjFvSjR0VVQ0Q1JnNWlWbWUtcFBhX1FoU0NRR2ZNZmQtMVl5X0Frb3o1VUVrWG14dXFnMGxILXRzenllaFZDVHo0Z0tXUVZWLXpsN2Z3a0ZlZWE2NzZsTVdKSjRUSmxHVW5XVUFmaU05dzFkdWRlelV3UzNsZlZTbXgydHg2OUlVcXFhbnRsNmlKYXYwb1hoVmhadENCUFE?oc=5"
+    },
+    {
       "title": "U.S. Data Center Tracker: Power, Facilities & Growth (2026)",
       "summary": "",
       "tag": "aidc",
@@ -43,20 +51,20 @@
       "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9acDEzM3A0SWNlUWl6NjN3UXUyZkxpRE9hZ3BtNVJkMUZ2M2dyVWkyQ0RESC1OLWZHY2oxYzlXMW1vSHdXUjNHWjZIMmNLRjhtU2d4dk53?oc=5"
     },
     {
-      "title": "Datacenters were on the ballot. US voters rejected them",
-      "summary": "",
-      "tag": "aidc",
-      "source": "The Guardian",
-      "date": "2026-11-06",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQMjd1X3FyNVRETUU3RUcxaW9aUC1nMFh3NVBfNWtSVWh5UFgwQVNqZ3p2NHYxTjdrZVd6U0lGWlluMkotYjZMaThsZnBpMU5SZ05kbjZXY3kxLTU5SlFRU0lQN0I2OGFvUExIZDRscEpPX0RZV3A5TVhtNS02d2JWNFozSQ?oc=5"
-    },
-    {
       "title": "DCF Global: Britain’s New Bargain With the AI Data Center Industry",
       "summary": "",
       "tag": "aidc",
       "source": "Data Center Frontier",
       "date": "2026-11-06",
       "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPTk9YWkJLUmphYkZvMklfbmk4Yi1OUXNWR2M3RGdUU0pNLXRxNXUwblQyTWNoMmdMRGFjTkJaUG5oY3V0WnNvc3VPSmJiczVQcUd6RVgzLUZTWXo5REpUMmxJOEJsNHJvVHhScVZ4ZHQxT3dqOHZjWEdNV3NiRmRpRDNqeDFIeEd6VjRWQUtDRFBlNE92MmxwODhkd2FZMU1yUWtBdUtSUlc5cTZGTXk1Q2JUdXlzRDAzSGo2MUdiVGhDdlR0WTc4eDNHNFhsQQ?oc=5"
+    },
+    {
+      "title": "Datacenters were on the ballot. US voters rejected them",
+      "summary": "",
+      "tag": "aidc",
+      "source": "The Guardian",
+      "date": "2026-11-06",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQMjd1X3FyNVRETUU3RUcxaW9aUC1nMFh3NVBfNWtSVWh5UFgwQVNqZ3p2NHYxTjdrZVd6U0lGWlluMkotYjZMaThsZnBpMU5SZ05kbjZXY3kxLTU5SlFRU0lQN0I2OGFvUExIZDRscEpPX0RZV3A5TVhtNS02d2JWNFozSQ?oc=5"
     },
     {
       "title": "Hyperscalers: AI Investment Will Outpace Near-Term Earnings",
@@ -147,12 +155,12 @@
       "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNdk42anJHNXZZdl9CY3ZJRGRNODcxR2x5V2tleWNwVkNvSWZaaWN4cW9RUEM3OVo1U0RTWTFoUjV2a3lGZXFHRkpjOGR2OVF2enNVYWpEMTloMVFEMDNLOW00Ul82THNXaTBua3U4c0VKV0lSWEVRZk9IVWVZblRtd3V6TjJUVG1DaUF3WEtfSU9oTE4wODdEN3UtT2dGc3RFMTFyWGpqSTM5UHdTdF84R1R4MmR0NHc?oc=5"
     },
     {
-      "title": "Dan Ives Sees Cash Flow Rebound In MSFT, META, GOOGL, AMZN: Says AI Bubble Fears Thrown Out The Window",
+      "title": "Investors Game Congress: $1.5T AI Capex at Stake [2026]",
       "summary": "",
       "tag": "aidc",
-      "source": "Yahoo Finance",
+      "source": "shattered.io",
       "date": "2026-11-05",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOVFlia2lnbVJ2YXJLWjVvVTZyVklqZ3liTjlBUXBvNFRuZHNkTmtWZGIxM0VYRVotUVlaSV9mdDV1aUh6RHJXUzJ0eWR1VFY3RThLUC01ajdWSHBaVWZYY1FmaE1ock8yOWFLbWRtQWtvSzlUMDF1eUVoa2dlUVlxd2hScGhma1dwNEd2bk9Zbmg?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxORl82TjVObF93VlpEOXIwWDNPcU9TcWpvbS1JTjZCX015b3ZjWE52NVg2ZmllVU1UMDh3aHg3ZE82OHMtNXBUbGZpclIxdVh1TjJxSEJMWUNnaXBjSDlCbFFlblY3UE1Ga0tIakI5UGx5UHhfX2daalNlc2ZmNHNjMjNLeGdYLUdCTzhCd1lBVQ?oc=5"
     },
     {
       "title": "美國掀起反AI資料中心浪潮，一面倒支持限制開發",
@@ -195,6 +203,14 @@
       "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOWjRNRkxGNjA3VGJ1UDNpUVJFWUhFRjdzSVAtVDBoOHZRMFNMUTNZZHJQRWQ4TGFsX2kzVTRXREF3UVBmWXUwNC00NUQtV0FtM0VBYXlueE1HUWt4cXJBT1R4QWNjWE9qTmphQUIwWWdXNEZhTEFjVVl5c01hMFBPdi1IaFlENWdtY08wYktyUnZ6Qk4xRmhEWTZVbVBhUQ?oc=5"
     },
     {
+      "title": "Investors wipe $2.5 trillion off Nasdaq as blue tsunami prompts AI fears",
+      "summary": "",
+      "tag": "demand",
+      "source": "Reuters",
+      "date": "2026-11-05",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPVVFVWVUwWmVwQXRLMTV2ZFBIV3dpR1VBUTU4dnhfUW5SN3BwcGZraXF1YTFDMmx2TjZFOTVBTWNqc09zTV9VbE1faDJ5Y294THA0YlFkTlZmX3AzWDJacm96Um1YQ0htd2FLRmJFTlpvLWVhQ0pXdUtyLVh0ZTRESzBJNW1fZ2lrTVBkUEIzejF2VUVLeGdyQWxDazczTmNWQWdOMXIybTR2T0x5OWFGNWMyU256bUhRME54eXBlTQ?oc=5"
+    },
+    {
       "title": "NVIDIA CUDA 13.5 released with Vera Rubin support and improved GPU resource management",
       "summary": "",
       "tag": "products",
@@ -203,12 +219,12 @@
       "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNeGJJY2NqWlE3WmdHazdxQnF4YnBvQW1IZEZGTThzQWtPZzFZOTRBRHRRYk5Oa2wxV0dfeTFWNHJnTXdZNzRkZ3dFa2VoWmdLYjN1RFJrUjdHNjRPMDczOGYyOFNUcnlXTEJLMHJxY1hzc3JaS0VnMGJ0VXl6amx2VVpxY0xuc0ZrTUlPTVJVNUsxX1JGQ2xCNFp6MjdhaWVmMUR6Vkl1SlNqekZNYkZuU1RJejI?oc=5"
     },
     {
-      "title": "Nvidia Vera CPU: 1.8x Claim vs AMD’s 2.24x Rebuttal [2026]",
+      "title": "Marvell to buy Lumentum in $115 billion all-stock deal — combined company to supply scale-up and scale-in optics for AI data centers",
       "summary": "",
       "tag": "products",
-      "source": "shattered.io",
+      "source": "Tom's Hardware",
       "date": "2026-11-05",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPUXlLcndlVXVkZWpjd0VxaVo1WDM2MUtwUHZGVTVxR3VoVkk0MFRqTEt2SmhiZ1pFbHoxbmtxNFVNRGF4T0FlSEItX2c4dlVGbFd3TmZDQUJqX29nYlVVV2s4X3Z0LTZNQmxiSnlhcklzZHBjSWJnZERhMkgxZERXd1g0c1M?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMimgJBVV95cUxQMXFiVkdRS2x5S0daU0hpS0JPOGtEVFhRV2l0d1JjdGhMci15ZzV3RF9QMVZqTEhWNG1PS3dRRnRvUDk0WmwwWG9aMjRNNTc1MmtoOW9QTDZkdEs0NEdwQ2huRWVHeHRsdXpzaVRkVzIweDFoZUY4emFzYzgyTjVVQWNqV1lEOF85YUhldHJzamc5NnVvSV91R0RsS2RzaTJ3WlVkMUZLTHRYT2NEOElhQkVzcXRUWEhGVkpqZHZDSDY4cU9ZWUVBRzZUTmpQYVpMeDRIRzZZUGJ0TWVKRXhlMTAxUkV4dHpKVnAxclNSYjRoNHdpU3RkUm9XMm1xdmtWRjZYYXF5QTFpb1B5bUpHS3M1eEJra25ySWc?oc=5"
     },
     {
       "title": "Taiwan's Asia Optical Posts Record First-Half EPS of NT$5.98, Shares Buck Sector Weakness to Hit Limit-Up at NT$128.5",
@@ -291,14 +307,6 @@
       "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPV1ZEcE1fdUZBRlN3YUdINjhyZGs2Rld1YjhtODRTdFh5eDI0SHdTSUgzQk9nUTV1aVRjWGZYUlliTTJqajlIVXlOeGNmTTUxRWs3dDJ0ekNOT2ZYLVJJYWtHakpaTTNQUThsWDdBLWRlS1VOTXI5SVpkSnloNHoyYjdtcjFwREVrU1hleUpwV1F2NUxXdGtJWXJUaEJOSXNI?oc=5"
     },
     {
-      "title": "Startup Profile: hosted.ai Accelerates GPU Utilization",
-      "summary": "",
-      "tag": "demand",
-      "source": "Futuriom",
-      "date": "2026-11-04",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOSGJDc1NZaUkwaVVSbjBFRWVPdWdJMXFackxMSjZkRHQ0QUQ5SktaOXJTNDhLWDA4d3dfQThGc3RQTTB5bmVRR1YyOXNBQ18zTHppeWM3amM1RFFxLXlUMzRCam95Y0pWREVVbDEyZWdlYnZleFhjUTJZZkZLYTdXdVh3aUc0MV81Y1JvU3IycGJiYXFBTGhPU1BVY3g5d3NXZ2c?oc=5"
-    },
-    {
       "title": "AI's Building Boom Meets A Blue Wave. 'Neocloud' Stocks Fall.",
       "summary": "",
       "tag": "demand",
@@ -313,14 +321,6 @@
       "source": "NVIDIA Developer",
       "date": "2026-11-04",
       "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOeUUxbmFrLTVDMVJuZjBVcVBnNVhIS05RVVFhaEEyc1BmckFfWWk2cm9zYXFUckJKczBZWHBMTDVNRFFMQW1tVzBsMmswcDB6d3JTakxBYkkwOXkyQkswdmJCSkpvTmpGWDZtQVplaFg0ZVBGQUtaZVpmQl9veW4yUDZyQXE1Z3lEQ3RjYlUxR0g?oc=5"
-    },
-    {
-      "title": "Nvidia CUDA 13.5 Goes Live With Full Vera Rubin Support for Production AI",
-      "summary": "",
-      "tag": "products",
-      "source": "BigGo Finance",
-      "date": "2026-11-04",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1yR1hONFJPM3U3al9SdDZLZlhiVW5lZjNOZ1JnQ3VwM0hBMjJCNW9IU253bmU3QVdiOUV1cmJFYVFRSGljajhuanpMcjZqYnZjalptb0dmenVLVEF2NDZHVjFjeEkzeXRlTW5UMXhMZEI5dmtxLVE?oc=5"
     }
   ]
 }
