@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-09 06:17",
+  "updated": "2026-11-09 14:54",
   "source_note": "Google News RSS",
   "items": [
     {
@@ -17,14 +17,6 @@
       "source": "https://tech-insider.org/",
       "date": "2026-11-08",
       "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQa2dzU0Z2b1o5TlRVc2ZBR1pzU0ZRWTFFX0FRSmtYRUhwbHB4Sm5WdG5qTWgweWZsRDVWOFpKSXFLM2NyOHlzWEMxNlpybi14NTJmMS0tQlQwSlIwYWFnNnJROThfUFFIZGdncUIwbVFpQ3FSZ1BOQ3RQVnlNSldkSFVybGhCNGNYal9LeVRBMHBhVHIz?oc=5"
-    },
-    {
-      "title": "Microsoft, Meta And Google Just Silenced AI Spending Critics In One Earnings Night As Big Tech Capex Swells To $725B",
-      "summary": "",
-      "tag": "aidc",
-      "source": "Stocktwits",
-      "date": "2026-11-07",
-      "url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxNQ2ZDQkRWWGZaNVdBV1UwS0FEY0RvVVJqUFUxNXd2eHpWM1haeXltLUNpaXB2TW5kcHlJRFo0WFNOQWZFaGNDZ2p3WlcwZjhPVndrYkQwWVAxR0tVVnotaFdDNnZHT1IxZ1BJVHJXZXFpVG5ROUlMcGZoR29iczhkOGM4VG9UMEVWWHJoUEY5TlBCN0RiTEotLTFWNVdFZHZpUmVBOHBuYWVaN0xYMEJzSkgtSno4WHhuc2x4TmpMUkV5bHJDaTNqVHFKalBIMl9pZ01MSjF2a0hpczUtYjMxUHk1OGt0VUxxbHRuaHZ3Nkt4ekRLTl9YZzVQX04wYjFUS25wLUZwWUJwTFU?oc=5"
     },
     {
       "title": "IREN Falls 13% in a Week, Hits $17.16 Low [2026]",
@@ -163,6 +155,14 @@
       "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxORl82TjVObF93VlpEOXIwWDNPcU9TcWpvbS1JTjZCX015b3ZjWE52NVg2ZmllVU1UMDh3aHg3ZE82OHMtNXBUbGZpclIxdVh1TjJxSEJMWUNnaXBjSDlCbFFlblY3UE1Ga0tIakI5UGx5UHhfX2daalNlc2ZmNHNjMjNLeGdYLUdCTzhCd1lBVQ?oc=5"
     },
     {
+      "title": "Dan Ives Sees Cash Flow Rebound In MSFT, META, GOOGL, AMZN: Says AI Bubble Fears Thrown Out The Window",
+      "summary": "",
+      "tag": "aidc",
+      "source": "Yahoo Finance",
+      "date": "2026-11-05",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOVFlia2lnbVJ2YXJLWjVvVTZyVklqZ3liTjlBUXBvNFRuZHNkTmtWZGIxM0VYRVotUVlaSV9mdDV1aUh6RHJXUzJ0eWR1VFY3RThLUC01ajdWSHBaVWZYY1FmaE1ock8yOWFLbWRtQWtvSzlUMDF1eUVoa2dlUVlxd2hScGhma1dwNEd2bk9Zbmg?oc=5"
+    },
+    {
       "title": "美國掀起反AI資料中心浪潮，一面倒支持限制開發",
       "summary": "",
       "tag": "aidc",
@@ -195,12 +195,12 @@
       "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNMkdZeF84SnBJLWMyWnlHckRJR1RXU0RSRFpHbnlWYmxxT2dGQW94eFJjUTFJYWRxUzlDN1NudHlPZXBpTnYtWUpiekJDNlNjVEFOeENzQUtNbmpUckpOMFM5cGFVQ0o1ckZiR2FpRHdabnBJcUgtNEFFY0ZvbG5vNE0tdTVWYURsSTVfcDdFVDlNOURKdWtvTGpKbkc4UDQzaW5jWXRFMjdObFNIRFBrRElpQUl6bVJiWXhzWVZzOWUtN3haVlJvM0VEYUgyUTJaeDV4czZKNWZvQQ?oc=5"
     },
     {
-      "title": "IREN (IREN) Draws Tighter Oversight On Neocloud Data Center Projects",
+      "title": "Flatkey Launches Flatkey Compute, a NeoCloud for Dedicated NVIDIA B300 Clusters",
       "summary": "",
       "tag": "demand",
       "source": "Yahoo Finance",
       "date": "2026-11-05",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOWjRNRkxGNjA3VGJ1UDNpUVJFWUhFRjdzSVAtVDBoOHZRMFNMUTNZZHJQRWQ4TGFsX2kzVTRXREF3UVBmWXUwNC00NUQtV0FtM0VBYXlueE1HUWt4cXJBT1R4QWNjWE9qTmphQUIwWWdXNEZhTEFjVVl5c01hMFBPdi1IaFlENWdtY08wYktyUnZ6Qk4xRmhEWTZVbVBhUQ?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNcFduWDhaMWJtQWZOTzkzLTBPQTBlYXF6elNVbHdYMnpCZnUxUU1FT2ZFMHdwd3NOaFVtbXdMTkU5NGd3VTBRNThWWERsOUlpUVVQQ010eTVZMzdybzhfSkNTalUzM0xBamRSZUl2ZHFIYzVkUUVtb3FhZUdRUmx3Tkdidy1NUHlpdWtDYTd5dkJMVmR4NC1lX1lJRVpWd2FuMzN4ZjZob1A?oc=5"
     },
     {
       "title": "Investors wipe $2.5 trillion off Nasdaq as blue tsunami prompts AI fears",
@@ -267,6 +267,14 @@
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPaXI2Q09vS0VtUGZENVFrUnlxOGdmZUtqV0ZGTUIySEtkem1uLVQwZkZqTmRPMThoaE9WM1VLSEZVa2tBSFp5NXZjMTQzbW1zWXhrdlNvLUdrbFBETV9DNDdFVUJqOHNrQVU0MzJYcGNaNXZud2o4Z1dldk5QNjdtOG9jdjI5WjRUVGdNbjZ3?oc=5"
     },
     {
+      "title": "Box taps Nvidia’s AI models to build a rich context layer for autonomous enterprise agents",
+      "summary": "",
+      "tag": "apps",
+      "source": "SiliconANGLE",
+      "date": "2026-11-05",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQeTQxSEh6eC0yQTFWMXA0QkI4TFRDemtydWpFMVEyNmJIc2wtODNObzFYVGlLakFOZC1WU0pUajNta201V0IySmFzUk0ycUc1ekhfM1VlMGphUDBPRWF6WXc1X01BbFJFRTFfeWloRmRUU2stSlN5by1MQUFvOEs3NDBzdEI3OVlsSXB4OVZVQ3F5emEwMkY2NEtJaHdRX012cjZhUmE4bTJlY3p0eVRraHR5ZjJOZXo4MDl4WEJXSlhlbTZl?oc=5"
+    },
+    {
       "title": "美國選後換劇本！AI資料中心半數新增容量恐卡關 台積電等供應鏈承壓",
       "summary": "",
       "tag": "aidc",
@@ -289,14 +297,6 @@
       "source": "天下雜誌",
       "date": "2026-11-04",
       "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9obk5xNXk4aFdIR3F6RENtT29pTE9BVk0ya0NPaW1WWXVtTUpScENQZERUajRSRThCLThTalJlSTFFNnZEWTlVS1dMSmFmZw?oc=5"
-    },
-    {
-      "title": "Anthropic Revenue and Valuation Statistics (Nov 2026)",
-      "summary": "",
-      "tag": "demand",
-      "source": "Exploding Topics",
-      "date": "2026-11-04",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1VV09mY3FENzVFMnFBam9ZMGpmdVpVQjBYejdZV082ajU0QmMtYmtLOE43Tjk5VGZGQU5KSTV0d012Um8wNTcxN3oxMzV2Zm81d3pGRkE3M2hPRkZ5TWlZ?oc=5"
     },
     {
       "title": "Neocloud Sell-Off Leaves Bitcoin Miners Oversold",
