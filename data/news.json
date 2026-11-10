@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-10 06:32",
+  "updated": "2026-11-10 15:31",
   "source_note": "Google News RSS",
   "items": [
     {
@@ -19,14 +19,6 @@
       "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9icW84TTREZUp6bFQyQ2RPb0ZhYk9SeDlPNDlZTDhLRWFUbzY4bkZhNlo2QUdYNUF2ZFN4eDZDQ0NreThIZ1VRWkRaYlI0bFRCajFQSktTVVFlUE12T3huc0t4cXc4VV9OYUpsZmNn?oc=5"
     },
     {
-      "title": "Demand, Debt and Democracy: The Worries of a Neocloud Industry",
-      "summary": "",
-      "tag": "demand",
-      "source": "Bloomberg.com",
-      "date": "2026-11-09",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQbTdEUDVHSXVWWlNMcGVpbDBBMmJ1YWluSzB2cTlaUVJLNWxlSnl5RVZKbHpJVEJfN1dBS2ZSOHVzZW1kTFBfXzlDQUpZT2ptOTQ0RzFKamtrMmwxR0xJRGliUE8yQnRpWjcyT3djNVoyX3ZFZ2ctTXRUQUxlV3Q0YzRSMnpPcFJTOTAwQ3NMMEFCVE00Y2N3QjRJaDFqZjJyTnc5ZHVxWUVJM0lnTXE3OQ?oc=5"
-    },
-    {
       "title": "Nvidia-backed Groq seeks $8B valuation, 2.5x its August mark, as neocloud investors retreat",
       "summary": "",
       "tag": "demand",
@@ -35,12 +27,12 @@
       "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNZHp6NUFIN2JQY1d6bzNwZl9HWkFyNDBmcEV6cklnRWt4SWotUkxuNDFuZUZPU2tpUWNXTUtISzQzbk9MSFNZdkl6Tkh2SjhqLXlicG5qSng1MDJrU3RIQUhTbThuYmFUR2xDYTJCZGJVRWk0c05xTHZqQV9oNm9mcU1Wd29jU09Jd24yRVBPcEtzNnJxSWRpbHp6em0wUS1Fd05qRzdhQ3Fkb1BjOWIyaHZOS2hoUzBX?oc=5"
     },
     {
-      "title": "Nvidia Gets the Spotlight, but This AI Stock Could Steal the Show in 2027",
+      "title": "The Optical Superhighway For AI",
       "summary": "",
       "tag": "products",
-      "source": "24/7 Wall St.",
+      "source": "Semiconductor Engineering",
       "date": "2026-11-09",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxObHI5THF0T0tkbHpXWHQ0Zk5WSEhrSmszQWZRYzVJWENpRTh6RDFHR3FwRWMyZ3hhQ205S0E1azlVYXRjYlc5cS1Lb1dDTEp3WVVmT3dHSy1mVFo0MUpWTm84WmlkcFdnNFlTOXhGWlp4Q2dpYTR6ODU1SzRvdHhnVlJzRUh3bW1kTXp6Mmxfdko3dThXOFYtblU4ZnRzZVZQR3dvWmV2MzRWbnBEb3RqemxYUDFhdG8?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBwODQwZjlJTzFzQWJtcm9FMmtNNUtRb2hXdHg3Z0x5azBFNUZwbmJPU1ljOFJRM1JMaGs5ek44T0VnRDFsa1hsN3RNSkJ1ckhhNjN6R1ZBTWhkOEpSb1JRdG03VWdNNEFKSGlXNXhR?oc=5"
     },
     {
       "title": "PicoJool: Rethinking Optical Interconnects for the 12.8T AI Era",
@@ -51,12 +43,12 @@
       "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQSndiS0U5NG1fbmlBeGg1OEFZaEMzMlh1dnpraXF1eHRwM01SNlV1dWVtbEhoSUtLNkhtTFdGUTcyaWxSQU9IQkVIeHVObjY2THhycXFHQkVBWVRCdE9heUMwTXNvcERiNjB5MHdJMC13WGRoSUV5NGlITF9YN1htdUxsYnBYRU1IdUE?oc=5"
     },
     {
-      "title": "Enterprise AI Spending Outpaces Adoption Growth, Report Finds",
+      "title": "Report: Enterprise AI Spending Outpaces Adoption Growth",
       "summary": "",
       "tag": "apps",
-      "source": "THE Journal: Technological Horizons in Education",
+      "source": "Campus Technology",
       "date": "2026-11-09",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOUWJ4ZmtlVURGNjIxdWRWelBpeVliVXo4WlFxUlJxYmdEbi1aQUlPT1JwSmg4UTR5OUFsMnozYUl0QmJSSFVjLWV2NDlRODhOWHhNQV80djVZOWF3bVJFUnBhMGd4WjU0c0x1LWFVNnFzbWhXUDJ4aVFYeEYzd2dMcEY1cXpHdk4xVlJMaUJMeFd4Ym94MWg3LUpPYUQtazNVNWFubjBVaVNVeTRo?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOOHdBajlyRGY0bU9FSWtxbWN6LWhya3U3Y043di14QnV0WUJYV0JkVXE3UzhQOE83ZWZwMDZUU1JTVl9aQnJPN25vbGp3Um05SDJjT1M2YVU4YmVPTktHQW5RRExjdnJmQ2pkTWVQOFRsRkNIUkM4WWV4RTFUN01EZld6T05qMDZnb1FfLXV3TFd1VDdFMW4xcDlVZXNndXJuVFV1V0ZiMHlPNXlD?oc=5"
     },
     {
       "title": "IBM: A Full Enterprise AI Stack, But Rivals Keep It A Hold (NYSE:IBM)",
@@ -105,6 +97,14 @@
       "source": "igor´sLAB",
       "date": "2026-11-07",
       "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNOWxXaWdfWkNrMWRTUjFvSjR0VVQ0Q1JnNWlWbWUtcFBhX1FoU0NRR2ZNZmQtMVl5X0Frb3o1VUVrWG14dXFnMGxILXRzenllaFZDVHo0Z0tXUVZWLXpsN2Z3a0ZlZWE2NzZsTVdKSjRUSmxHVW5XVUFmaU05dzFkdWRlelV3UzNsZlZTbXgydHg2OUlVcXFhbnRsNmlKYXYwb1hoVmhadENCUFE?oc=5"
+    },
+    {
+      "title": "I hired humanoid robots to clean up after a wild house party for for $100 — here’s how it went",
+      "summary": "",
+      "tag": "apps",
+      "source": "New York Post",
+      "date": "2026-11-07",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOYlE0S0tnV0pPNVlNQnBBQ2dBdUpLaU1pcVhfY0JwRF9Fck5pVGw3NGdqWFU1U3RvcnoydGtEb181VmlFeGFOem93RXNISEg0dl9yNDE3MDlDVG9QTk50d1IyaDlnXy1OMTFxRTlJOGFqazZuTEk1QWhtUmhxeFZabU92SER1aWZOUUEwclZJME1Pc1FVRndwdWl2U0o?oc=5"
     },
     {
       "title": "U.S. Data Center Tracker: Power, Facilities & Growth (2026)",
@@ -203,12 +203,12 @@
       "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQMjd1X3FyNVRETUU3RUcxaW9aUC1nMFh3NVBfNWtSVWh5UFgwQVNqZ3p2NHYxTjdrZVd6U0lGWlluMkotYjZMaThsZnBpMU5SZ05kbjZXY3kxLTU5SlFRU0lQN0I2OGFvUExIZDRscEpPX0RZV3A5TVhtNS02d2JWNFozSQ?oc=5"
     },
     {
-      "title": "Nvidia’s Answer to Data Center Backlash: Retrofitting Apollo’s Old Phone Buildings",
+      "title": "SpaceX Stock Tumbles. A 6-Gigawatt AI Data Center Is Drawing Backlash",
       "summary": "",
       "tag": "aidc",
-      "source": "The Information",
+      "source": "TradingView",
       "date": "2026-11-05",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNdk42anJHNXZZdl9CY3ZJRGRNODcxR2x5V2tleWNwVkNvSWZaaWN4cW9RUEM3OVo1U0RTWTFoUjV2a3lGZXFHRkpjOGR2OVF2enNVYWpEMTloMVFEMDNLOW00Ul82THNXaTBua3U4c0VKV0lSWEVRZk9IVWVZblRtd3V6TjJUVG1DaUF3WEtfSU9oTE4wODdEN3UtT2dGc3RFMTFyWGpqSTM5UHdTdF84R1R4MmR0NHc?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPOUM2cHVBdnJrT0NuQ1AtMUp2bS03cTJFdzZYSmtsU0VjTWY1LUtqeUJnQWlNbUMtWmxiRnV2ekJET25Md25UX0NpcUE0cGljY3V0ek5FQV9WSk5RN1AxYlA5dG03ZXB2MTV1M3VXU0x3WGJCTlktd2pteTVDUFNLemZFSm1KQVpDNnVJeUJ4SnJDWGxxX2toc2FBS1pBVmVQdW1BQVgzYXE1NTl2YlN3YmJNMTZHdjV2VkVmSE9UbHFNYldtMV9n?oc=5"
     },
     {
       "title": "Dan Ives Sees Cash Flow Rebound In MSFT, META, GOOGL, AMZN: Says AI Bubble Fears Thrown Out The Window",
@@ -249,6 +249,22 @@
       "source": "遠見雜誌",
       "date": "2026-11-05",
       "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFA4YmU3M3BleHVMYkR2RFlYY1RQNE9GT3dKV1RsVlZSS01HVE01dGRfUXpkcU9DMmxmb2ZwbFNFMTNkdVRKQjZtLS1Gcy1MUQ?oc=5"
+    },
+    {
+      "title": "Moonshot AI Bypasses U.S. Chip Curbs Via Europe Neocloud Deal",
+      "summary": "",
+      "tag": "demand",
+      "source": "The Tech Buzz",
+      "date": "2026-11-05",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPMFJvTHhyVjJJaXNiQ3BpMjBDYk43TG91TmJLaDdQdmQyVVlBX29oSkZ0LXJyU3dab1AybmNkY0VQMDZIOUUyaDQ2aFJxTGFXbkktZ096dlZpQmNXUHVpY1VlM2ZOalpZaXZjMWNrd2twbmd6YXE4aWxKOFFLa0lnTWlXX1oyZG5FU051TDZpRXNUWV8wSlQzYw?oc=5"
+    },
+    {
+      "title": "NVIDIA Vera Rubin: Solving the Memory Bottleneck in Large-Context AI Inference",
+      "summary": "",
+      "tag": "products",
+      "source": "TechInsights",
+      "date": "2026-11-05",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPc084RzFhQXpJMFZTV0ZrTE5TTk9hWnNod09ybVNyWVNYWjNzM0t2bkk1YUVqVkhFZDlzMXpnOUFZbXFWT3lodlAyTE94Y2k4NFFQeTJwd0dHSGhhMFlxbDdsNVZjYzhpMFktYjNXVjdJcWNnWEcyclk0UnYxTGFPUGZVdVhxOEUwT2lBanljSEZEX0h3RU5SZXlDdklDa0xpNThqUVViSQ?oc=5"
     },
     {
       "title": "NVIDIA CUDA 13.5 released with Vera Rubin support and improved GPU resource management",
@@ -299,28 +315,12 @@
       "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOcmp2QnJjbUhiWkhTQmhfZzgydGJIS1g3QkZsVnVyYjJvV19xUWpMVkNwS0dyWXBoOU56WThDRVZPMGk4cTExY1lEQTZaREtVNDdiSjB0a3NNOEtTb1F2MHg3aHJBdkN0V1RWTWhVUWRONmRkM1JrY29NeDBzZkw3ZFh1U2c0cV9KcGg3X0VHamxONS1yNk9oWU03dEs0TFNyM2FDTG1NVGpVZFU?oc=5"
     },
     {
-      "title": "Salesforce sees surge in enterprise AI adoption with agentforce",
+      "title": "AGLT: First Pure-Play Humanoid Robot Company Starts Trading On Nasdaq Today",
       "summary": "",
       "tag": "apps",
-      "source": "InsiderPH",
+      "source": "Forbes",
       "date": "2026-11-05",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPaXI2Q09vS0VtUGZENVFrUnlxOGdmZUtqV0ZGTUIySEtkem1uLVQwZkZqTmRPMThoaE9WM1VLSEZVa2tBSFp5NXZjMTQzbW1zWXhrdlNvLUdrbFBETV9DNDdFVUJqOHNrQVU0MzJYcGNaNXZud2o4Z1dldk5QNjdtOG9jdjI5WjRUVGdNbjZ3?oc=5"
-    },
-    {
-      "title": "美國選後換劇本！AI資料中心半數新增容量恐卡關 台積電等供應鏈承壓",
-      "summary": "",
-      "tag": "aidc",
-      "source": "鉅亨網",
-      "date": "2026-11-04",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9BdjRjWGE3Q285VjIxNHBfZFNJNnJib250dDNWMEtQUVVWbzJxQjZZV01FbUI0aWRUODlSZlhwVWl6Uy1YZDFaMWtHemtRZTg?oc=5"
-    },
-    {
-      "title": "美國期中選舉變天 產業市場／AI 資料中心面臨「藍色海嘯」 民主黨拿下四大重鎮州長 主張嚴格監管",
-      "summary": "",
-      "tag": "aidc",
-      "source": "經濟日報",
-      "date": "2026-11-04",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE56TTRJek8zNi05X0JhRElQTnNvWlRmZW1uMUc1WjZKTlEyUENRY2Zla3VsZ0dmM3k3ckFQd1FhaTQxUXZleWgza2NTaHZ5MlRrWmRrTEs1Um1fd9IBX0FVX3lxTE9xb0dnU0tsN2hLc21HMHRuUEJycVZHQmF4TloxRzJvT05JMGdxSjBXZXdmemFVMTQtenZOaG4ydnlzRnM0c1lVMlFOSmJLc2pvVURFa1pUMWxXcGhFQ0Jv?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPZml0VGRneE1GZkM3MlU1SDhBeTlpRy1pRXlvMWpnQzMwUzJfU2ZnT2Jkb1lLV2pmb3BfTVlQYnpYTHBnbGhWdnJRdzBaYjdGbTB0RDdoaHdQZzRtQVJYUmlldURtdGpvdXNMSjBaZDZQcExxNk5CQllGV0xURHN4TDM4S1NqRzRhRHJsRnVuTWJvdGd6NjNma09uVzlQTGJmWllQMWhsYmNSemFPSVFaZDZ0LXNuRGg5VXBoRkpULWZIeklhaEpj?oc=5"
     }
   ]
 }
