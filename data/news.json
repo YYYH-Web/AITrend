@@ -1,7 +1,55 @@
 {
-  "updated": "2026-11-11 03:52",
+  "updated": "2026-11-11 14:48",
   "source_note": "Google News RSS",
   "items": [
+    {
+      "title": "Exclusive | OpenAI Continues to Suffer Heavy Losses as Revenue Rises to $10 Billion",
+      "summary": "",
+      "tag": "demand",
+      "source": "WSJ",
+      "date": "2026-11-11",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNQ1Z2WGlSZFF1REswbldRM3lQRXJJNWdHVEFlNDNPNFhRRXRzSEdySWZFa281U1lzVFBiNVU0bE5GUlNTLU9YT1ZuV2VOa2VobmpRVmh4eGs2LTJVSzZKRWJwTWxKNzBRZGpZeHU2VV9GUTlfemk5all2aDM2RE9ENWowMGgtcnFXMEJSQ3dZTHVHMkpoT2tOTGpGOWRWdU8tUVdRT3JEVVcxTy1yUU5GYU9GcWtCZFdI?oc=5"
+    },
+    {
+      "title": "NVDA Reportedly Weighs Lower-Memory Rubin Ultra GPU Designs To Ease HBM Bottleneck — Why Retail Is Watching Micron",
+      "summary": "",
+      "tag": "products",
+      "source": "Stocktwits",
+      "date": "2026-11-11",
+      "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxQUTZJX1J1SjZlTERCX2tUWmZQNmNRVjR0Sm5hSjZoVTREUGJQQ2tXZm4zekhpV0Q1aTJyWjVjS05lbmhGWHl6aThwUkd1MjZMUHItQVlWamJUV19wd3JtVUFUU0FQa1B4OGJHYzZ3ODdLLWI4Q2VDSEdtZDMxWFdteXNJTTJDaFlRN2ZMX1BtbU1LSWlaUVhISlF5Vmp5Z0Q2M2VraGtoODUtUWk0MVNoVTQ5bXNPNHRQcEFBWXBiaXFJTDRWMU9yUU5XSVBtRW80SDRreHdjajlSTGRXTFBGTENFakRkR2E5clVVemUzOExLODMtRGFIMU1ncFhlWF85emRmVHhKVjFlUQ?oc=5"
+    },
+    {
+      "title": "Alberta's Gigawatt Play: Why Building Data Centers Means Building an Industry",
+      "summary": "",
+      "tag": "aidc",
+      "source": "Data Center Frontier",
+      "date": "2026-11-10",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPRlBLc1BvckQzYkdYQlJkVC11WjBOaEhhQ2NEVS1FLWF5dzhYYnowaDhhdEJpMDhIZ2c5bEdteVprdW5hR0JrOVlRREhVd0R5NlVxZGtYNjJxcVpwQk5fcURSNEdVSjZqZVpNdXlyN2VvRXBiS2JRZkhXUnFYWnNlNjlmN1NkcC1RUGN1Z3haWnBTTU4yQmh2M0N4U2JiM05sX3E0UjRlWklmV0xRZUpBMG1ucm0xRnVhUXcxY1hsWXMxalItTDR6dElPaEF0ZFZ3RXRYdQ?oc=5"
+    },
+    {
+      "title": "Hyperscalers Are Projected to Spend $1.3 Trillion on Capex in 2027. Here's the 1 Industrial Stock That Gets Paid Before a Single AI Token Is Sold.",
+      "summary": "",
+      "tag": "aidc",
+      "source": "The Motley Fool",
+      "date": "2026-11-10",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPOTZDTm1PUmNWY1d5TUJHWV9RQ2lQcUp0bTc0R2pUWWNyMnlpZUZVRTFURzAxaXUtMm1NVU9FbXdjTHNRbnFvUEZxXzZWeDd1OThQd2ZxSFlMeC02VmNGSEowVUpnRllnX09uRUN3ZXg4NmVmVXRPQkdhZkJnb1dDb0kxbFE0YVltalFKWThEUjRtV0hTWGtvMw?oc=5"
+    },
+    {
+      "title": "OpenAI posts steep losses even as quarterly revenue rises to $10 billion, WSJ reports",
+      "summary": "",
+      "tag": "demand",
+      "source": "Reuters",
+      "date": "2026-11-10",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQSWgwbFNYa2Z4R1pzeU83WUhSVTUwSG9vTC1tT0lfV0FMZk1oWGlNellpU083T2M2VGJDV19fLXhJY3N4dHJUUnUxMTNSeU1XdVdtd3YxNWZ6RWxlcTE1RTRyZDB5UDAweUhFTk9wRjVmNGlzSFUxOEpZTkc0TEdJY05DN3VNRDlidmJnVlJHTEY5dTJaakVFX0x3Mkl2TEZFTDBfN3dBTXhZVkxVRG41X2lyMENmWVFJQ2hHbWs0bHdzem5NSER6d0xhMjl0dw?oc=5"
+    },
+    {
+      "title": "Where Anthropic’s Revenue Goes, and Why It Matters",
+      "summary": "",
+      "tag": "demand",
+      "source": "Morningstar",
+      "date": "2026-11-10",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPSUV0eEJ6akRrWUF2bC01QWh2SlNJSTBSSVBEWG13SUthZHVmN21YY0tGUWJSeWJ6S2ZFRWptT3daN19RemxvaHNpeVpHQlA2TVVBTEEtSkpnMzlUTDBGNHB1d3dSSG16WWxXOGdvZEdzN2hzWWdRVlp5VzNaYW14ZmRPWm1iUQ?oc=5"
+    },
     {
       "title": "Goldman Sachs expects Anthropic revenue to exceed $600bn by 2030",
       "summary": "",
@@ -11,28 +59,36 @@
       "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPc0tWeGNDOUh5S1RleHBrVDlUdGNiRjktVDZGbmtRNlBUcXkwbDRfNXBuSXZ4Yk1NNVBOUTZXNDRlc09LdDI0VlpKMlFRMUVCaVh6VndVSWlwT2NkNElsc1JxUDVZUWFYZ2pWY3NFTFNKQm9fZnk1YkNTZWV6dnFVc2s0T2o?oc=5"
     },
     {
-      "title": "EXCLUSIVE: Anthropic eyes $1.4 trillion IPO valuation in test of Wall Street's AI fervor",
+      "title": "OpenAI CFO: Q3 was a ‘blockbuster quarter,’ as revenue jumped 50%",
       "summary": "",
       "tag": "demand",
-      "source": "Reuters",
+      "source": "Yahoo Finance",
       "date": "2026-11-10",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNaUtnS210c1pKNVpEZXJ1V1JpdUdyZ0h5OGh2SzVCXzJaVGRwaDZnb0NQZUxFS0ZFWmxwbU53ZlJtdlBkOWplZHdaNkloU0xwV3hvdlpjNnh0R1FISXdMOExfc09JckJqTWxjSWlZSjZpN0RWR1kyRUF6YUlXN0dqSm5XQU5TUmFmbWpFbGlzT3FZRllaMGU4cld0cDlsaFVYY0IzV2ZNYmwxYW0yd1FDaw?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPYy1vZWJ3T2doMjVHX2lQb0tVMFJhb216eWhXT1NPSzVUZm1RZVhxRTBOLTZfR3dnT3Q4eVQ3eXREY2s4bEdsbkdLM3F3U2Mwc0pZMWlmSVQzMFM1WXl0UDhsTFZFUVUyWXpkcG1qbzBCWVloWmw2Z0hBdHdMaE1OSzJDRHNtemo2MUVzNExfdVdPb3JoZ1UwTUNaSDBRaVg5NklhMU5pblpwSWtSanAxOGljUHdqX2VY?oc=5"
     },
     {
-      "title": "Goldman Analysts See Anthropic Revenue at $685 Billion By 2030",
+      "title": "Jim Cramer says Anthropic's explosive growth could justify a record-breaking IPO",
+      "summary": "",
+      "tag": "demand",
+      "source": "CNBC",
+      "date": "2026-11-10",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE51VG1hT2dUTmZtZ1M3THp2YTRfR0hKelZ6VldSRGxPLXA1RVNDMjEtb21IaG10Q2Nianpiek55T0lXVkNDdE1IejhoekVUeVRNVE12R1ZEN0trNmJYY05ocXpKZW5mTHRsMjdhUEpXMGVVZFZFNXpGLU5jQ0Y?oc=5"
+    },
+    {
+      "title": "OpenAI Third-Quarter Revenue Soars Nearly 50% to $10 Billion",
       "summary": "",
       "tag": "demand",
       "source": "Bloomberg.com",
       "date": "2026-11-10",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNN1RKamhydkhuY0JnSlJrcl9LcjVzdUtTdURJRzNZX0x1ejFlbWZJMmVaRUJzRk1aUVBJbnp5dlhiUE1KaXR1UWdpNTdIb2JTLXlZenJJOVlWNjR6UWczRVRSbGxmQm5SRjFmSVpOY3ZKZFpKM1FtVmNrblZSM2ZEc3VxNDd0U2VMMl9FM2tJUFJPcEMxVEFzS2hETUNBc25PcTViQzNpZnd1M0I3d2tNV1Fn?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPRDhDaVpHZTR4QzFGMnM1bVhVOUJVM2FkeU1wTUxKYUUzMldHbEVGVC1XR25iZ3hrdGhIbHdheUJhd1Q2T0tqX3cycXFhU0ppemhfZ3dHcG11RDdaS2JPVU5vSThNZmUtYWdveWNiOUplbG1MTFFCY2hLenNVRUxhQ2xibktrUzNaU2pVMVk3UlVqWFhGQllxcGtYclZfMlF5a1pTR2x3ZkhhUkNSNUE?oc=5"
     },
     {
-      "title": "Goldman Sachs models Anthropic revenue at $685 billion by 2030",
+      "title": "Anthropic's lower-than-expected IPO valuation might not top SpaceX, but it's a 'smart' strategy, experts say",
       "summary": "",
       "tag": "demand",
-      "source": "Quartz",
+      "source": "Fortune",
       "date": "2026-11-10",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFB0RUlGanVHNlB3WFpYNVhIR04ybVhacnM2Sk4tZXJGOXRWX3RqdVdSNGhwMDJCbXNpSTRvNS05ZXU4a0RuZzlKUUdEMVpUalB6R3pPR0huTHBBd3hSRHp2bG41Qll0ZThKaWZZMXVGNGM5STJMNWxxUnh3?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQYnVCSTA4VERVbE9QQmhQbjNENjRrSVhqc21PTnV2bFVtdHNCWXRFLUxBWVpqemFlN21FcXhobDh2OGRXTGNqNXJaUXBpOVZjcmk3czg4Tlo3Ukp0NlloaWpTNk44OV9IZDJHUmpKb0hPdndlVjNTZEdsX3hpVUJJT2dMS2dMXzVQd2ZqXzFtSEo2YjlqeGtETDdiWXJLNUNjelQ3Ng?oc=5"
     },
     {
       "title": "If CoreWeave Implodes, It’s Taking This Neocloud With It First",
@@ -43,12 +99,12 @@
       "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNeUFOLVJUbUZ5YUliNlBfVlNDQzJ6X1hYSjdLajRqdXY5YWVDUC1zcUFtcDFKSE1KdkIxemx5UDdFbWFiOFY4VmJaTzdBVS01aGtzTVdQNy1URC11M1FnQnc0TkVobjV0eFlaWUltN3d6aW1waDR6UWxtbmhyWEhFaE1GcjVWRmtMLVpGQng3amg4SDVBY2RpcWtFRUpkZVdXMm5hcmJ0MA?oc=5"
     },
     {
-      "title": "A closer look at Verano, AMD's first step toward a Zen-based superchip to rival Nvidia's Vera Rubin",
+      "title": "Flatkey Launches Flatkey Compute, a NeoCloud for Dedicated NVIDIA B300 Clusters - Union-Bulletin",
       "summary": "",
-      "tag": "products",
-      "source": "The Register",
+      "tag": "demand",
+      "source": "Union-Bulletin",
       "date": "2026-11-10",
-      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPV2ZZME1sb2JBTVBGT2l4V0pUcGlCbnNLSnJRUmZ2aUhMaU41Z0tGaERoNVJJOHRUZkxZRjR2aGZ4NlJJYTlzWUJxb1l0SkxPUlZtQklSTXJFb2NEYlpQdlBlTzQ3MFd5MC0xNkl2N29RMXo1Tjk5M2N5Z1ZWVUpHVldZNHZWdEd0Tm5LaWpOUGFXcy1NUkJFRm9MNi1mNjUzTWpzUkJQU3hUWXNKMmFiNVZfbHNGbW1DXzk4dE1FSW1IYW85cEdJd1FYS0VuVk9nSHRYLUVLSGxtMDhPWlJva0tLTTkzQQ?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxOZGV4Rk9BNzB3Wld2MC1QbGROQzBIRTIycG83X2dDdVRocC1LVFg4M25OVWtxcl9TNkUzT3ZBdFlqR2JQTjB3UldROE5HRnVMYTFjUVp3VzU4eFBGYnIxZFhaZjc5Y2N0d05BbFkzMlJqaE1pVWE0OU5CcUFDYWt4bjRCSEQxUWRKME90TS1lbi1xUkZkekdUeXF1aUhUQWxhWjhJY3lJSGF4VTJENlZzZnQzMUJlZ3hSUlZaa3A4YzVFeEgzNDFfa3pqMmhraV9RUXpnZkE1WHdzb0VoZHBGVU1tU0tkMUsxUHRMc0pINXJLQ1lNTzBOYXVGVmZiNVk4ajNR?oc=5"
     },
     {
       "title": "AMD's Verano Targets Nvidia's Vera Rubin With 112 Gbps CPU-GPU Links",
@@ -57,6 +113,14 @@
       "source": "BigGo Finance",
       "date": "2026-11-10",
       "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1NSmloZXVpOWdaVTFyb0RPVXBLbGtyb3E1RWZ3ZUZYQ3M2em1HUzEtNFM3Ri1DNEdqR1BOTlNQQmRmOUhCUTZlakNqMFpmRjQxc0I1M0xlTy1ZTk8xOFRqOHR1TFRVNk1ha08tOVhvRC1hX0ZCWEE?oc=5"
+    },
+    {
+      "title": "A closer look at Verano, AMD's first step toward a Zen-based superchip to rival Nvidia's Vera Rubin",
+      "summary": "",
+      "tag": "products",
+      "source": "The Register",
+      "date": "2026-11-10",
+      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPV2ZZME1sb2JBTVBGT2l4V0pUcGlCbnNLSnJRUmZ2aUhMaU41Z0tGaERoNVJJOHRUZkxZRjR2aGZ4NlJJYTlzWUJxb1l0SkxPUlZtQklSTXJFb2NEYlpQdlBlTzQ3MFd5MC0xNkl2N29RMXo1Tjk5M2N5Z1ZWVUpHVldZNHZWdEd0Tm5LaWpOUGFXcy1NUkJFRm9MNi1mNjUzTWpzUkJQU3hUWXNKMmFiNVZfbHNGbW1DXzk4dE1FSW1IYW85cEdJd1FYS0VuVk9nSHRYLUVLSGxtMDhPWlJva0tLTTkzQQ?oc=5"
     },
     {
       "title": "Molex Forecasts Top 10 Connectivity and Electronics Predictions for 2027: Powered by AI, Simulation-First Engineering and System-Level Optimization",
@@ -72,7 +136,7 @@
       "tag": "apps",
       "source": "THE Journal: Technological Horizons in Education",
       "date": "2026-11-10",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOUWJ4ZmtlVURGNjIxdWRWelBpeVliVXo4WlFxUlJxYmdEbi1aQUlPT1JwSmg4UTR5OUFsMnozYUl0QmJSSFVjLWV2NDlRODhOWHhNQV80djVZOWF3bVJFUnBhMGd4WjU0c0x1LWFVNnFzbWhXUDJ4aVFYeEYzd2dMcEY1cXpHdk4xVlJMaUJMeFd4Ym94MWg3LUpPYUQtazNVNWFubjBVaVNVeTRo?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOV1RfTk1IcFpTQmdMZS1kNklESW1XdmprZDlEaEF2bmlGTFU3ZkVxQkg2blo1TWVmaUowYWYzelNuay1OZ2ZSdktiWlFGaHJLRzU0T2VxYnFGQTVab1JSN3pKRHZuRGVIOUNKOUYyLTM2SHVkY3pPTUI2TlItMGtpQmE0bDZvakcxbURpalNSWTRURy1Bb2tRazd5WnRsWFN5SVpzUWpNSDNpV1h2LUY5SUg2ZUg2ZzllQ2NwdWVZN3ZQd2J1SUE?oc=5"
     },
     {
       "title": "AI agent infrastructure: Red Hat's Kubernetes strategy",
@@ -83,6 +147,22 @@
       "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNOW5VaGFLRTlGOVh3eG1SYXNDb3U1cDh5bUJYMl9YOUNlVXFvbXpGU0l2U3FfWXI4V3UyT2xDS2NTLWxfbE93Y0g4V1A4bFZfcnRMbk8xclI4OXEwNEctRWlZQ1plTk8tYVFWbml2QzlHNV94c3lTMU9xSklnN2JxOFhFbHc?oc=5"
     },
     {
+      "title": "Data Privacy Is Becoming the Deciding Factor in Enterprise AI Adoption",
+      "summary": "",
+      "tag": "apps",
+      "source": "HackerNoon",
+      "date": "2026-11-10",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOdWtvSGxQT1Zwb3dsZEFaRDdMMW5JZS1nQnNhaWtGbldkaWNOVklNclhodGVjOFRMb0JMRjhDa2g4Q0dZZnZBdzV6eUJ5WElVTG44Y201eHVVbTFuX2dKYmd3N0I4VGN6ZHVaQVlIMHJKbEFVMEtqUDVTVWRYdURMY1V5NHhTbzlWMEl5N19ISzNiSkk3QTNvSw?oc=5"
+    },
+    {
+      "title": "Bay AI launches with $50 million to secure enterprise AI agents",
+      "summary": "",
+      "tag": "apps",
+      "source": "SC Media",
+      "date": "2026-11-10",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOM3Q2QkRHMDVaNnZVUF9Ib29PWi0wVGUwNEVyVVJDZU1NT0tPLUdDMjJ2Mkx1LUdKRHJ5Q1FfWVpyc294WV9tUDdXRTVxQzdwQV81MHVVNjlKSmZ6S2YteTNRelg0OGpCdmFJLWxXZ0tOZGxsU1kxcWZFMnNNNHdqYXZEaWtsVi1aQWJIVkRJcjNrYXBFcXRj?oc=5"
+    },
+    {
       "title": "PuppyGraph adds AI schema builder and MCP support to help ease enterprise agent adoption",
       "summary": "",
       "tag": "apps",
@@ -91,12 +171,12 @@
       "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQblAwZzhLcHJkSlp4bjduV2plekowcGV0TnRidTZBMFJSbVc3RU4yQjZOZzZGeUhMVnFtdDREZVV6TEo3QjRUa1o3bnNIZUZaeG1BaTYySDFILTd0NjR0YUxFQXZLNzNWV1V4NVVVT3Joa05vdHEzX0RaZ2ZwZHpEcUFtLVhfMFlzbEprNWJIWlBzTWo2MFduUFdDc3huc1dqMm1qRjNDVXhDYzY5OC1iWktlcW1yV21Rbmw4UThYelFMaXA4amdsLVNDOXA3M0lY?oc=5"
     },
     {
-      "title": "Data Privacy Is Becoming the Deciding Factor in Enterprise AI Adoption",
+      "title": "Bay Raises $37M Series A to Scale Enterprise AI Agent Security",
       "summary": "",
       "tag": "apps",
-      "source": "HackerNoon",
+      "source": "Unite.AI",
       "date": "2026-11-10",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOdWtvSGxQT1Zwb3dsZEFaRDdMMW5JZS1nQnNhaWtGbldkaWNOVklNclhodGVjOFRMb0JMRjhDa2g4Q0dZZnZBdzV6eUJ5WElVTG44Y201eHVVbTFuX2dKYmd3N0I4VGN6ZHVaQVlIMHJKbEFVMEtqUDVTVWRYdURMY1V5NHhTbzlWMEl5N19ISzNiSkk3QTNvSw?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPRkpZc2VvOWRFZUs5b2NNRHRURW8ydzBQbngxYVc3OXVDZ25wQWxMTDJXNjNZM2hFUUZGNlZIYzdRajloYzZ1TGotajg2X0c1T1RLX3pQcmwxTWhqNnNnU2plTEtuMU9PaHJJMjg2ckFSRHBXV0V3MGE4V3VzU3p6NlRralNMN3BHM2Nn?oc=5"
     },
     {
       "title": "Shortage of Turbines Drives Market for Second-Hand Market for AI Data Centers",
@@ -107,12 +187,12 @@
       "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNendGUlBYMFl2T0taU1RKLUYwY0oxY0FFNW5JSW5fdHJsRE9vTzBhSWF2anl0eWNQRk5YNnR5WWVGM2pjckFHaDVUTVBVZE1tWjlPcURKeGNoVjZuN0F3TEJndkRMNi1JeGhwQkNzMmlSRnNuemlGOHRPUTJ5X3dlc2ktWUJoZy1wN3NWaTJ3UWotTmpzUTEyYndZMTl5Q3BFOG80RkxncVByZ1ZHT3B6eC1zV1FLRkhwblRoWl9R?oc=5"
     },
     {
-      "title": "Why Morningstar Thinks Anthropic Is Worth $1.7 Trillion",
+      "title": "Anthropic skips six-year waitlist with massive $3.4 billion gas turbine generator deal — firm takes over OnePWR's orders, secures 1.7GW of capacity to power AI data centers",
       "summary": "",
-      "tag": "demand",
-      "source": "Morningstar",
+      "tag": "aidc",
+      "source": "Tom's Hardware",
       "date": "2026-11-09",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQbjMxWE4tU3d5NUZQRUZtTVQtMHZJNjFTVDgtTHFVWWtfRnlEM1htNmRKaXI2b21HeGZ4VFp0V2NhdmxYZUVwd2JUQTVjUVFERHN1SmhyMmZfRUZfNWV2bnJETmFhVTRSN2U5RWZ4R0dvLUhKV1VKTlhDa2VRY3VPRkdVN1A5a2VCbkRGSTZtRWIxdw?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMiygJBVV95cUxQRE95eDJUVGprY1ltalIxbXh0TEcxamdqaUtfZEE4VUR2bnFCM19jVld2dmYtQTFnR01CNWY4RF9NMlljb0tGSWV3NGVQelJNSkdXSHJXTDFSVWV5THBVUEpUX2kzT0lCYjVORUZHNVN6bUxOOXVQOUNTamp6azRwRnl2NFdiaFNSSjFfNUY0RmRTd3dLYWFZNktZOWE4clRvSG9EYnE0b2RwMnVHdzkxUExPSGtlZlk2dDZBR3FaLUMtakhpTTN5bXFYYVNfajNMaWp2TWxoU3RpeXJiajFmTHo1ZkU0alFObVZkc1BTM3pMb3cxNjd3VWhxZGQ3SENzR2lnN0hiMWFiblBmZjdwaE9yaEEtSEZzOGZ2RnZoZkFDUXQ5NWs5RzdkVnFrRHlCY2htVnpvMGlsSTQ2d2IyLXdvTUV3QmFrcmc?oc=5"
     },
     {
       "title": "Neocloud vs Hyperscaler: 9 AI Infrastructure Categories",
@@ -121,6 +201,14 @@
       "source": "Northwise",
       "date": "2026-11-09",
       "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9icW84TTREZUp6bFQyQ2RPb0ZhYk9SeDlPNDlZTDhLRWFUbzY4bkZhNlo2QUdYNUF2ZFN4eDZDQ0NreThIZ1VRWkRaYlI0bFRCajFQSktTVVFlUE12T3huc0t4cXc4VV9OYUpsZmNn?oc=5"
+    },
+    {
+      "title": "Demand, Debt and Democracy: The Worries of a Neocloud Industry",
+      "summary": "",
+      "tag": "demand",
+      "source": "Bloomberg.com",
+      "date": "2026-11-09",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQbTdEUDVHSXVWWlNMcGVpbDBBMmJ1YWluSzB2cTlaUVJLNWxlSnl5RVZKbHpJVEJfN1dBS2ZSOHVzZW1kTFBfXzlDQUpZT2ptOTQ0RzFKamtrMmwxR0xJRGliUE8yQnRpWjcyT3djNVoyX3ZFZ2ctTXRUQUxlV3Q0YzRSMnpPcFJTOTAwQ3NMMEFCVE00Y2N3QjRJaDFqZjJyTnc5ZHVxWUVJM0lnTXE3OQ?oc=5"
     },
     {
       "title": "Nvidia-backed Groq seeks $8B valuation, 2.5x its August mark, as neocloud investors retreat",
@@ -147,28 +235,12 @@
       "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQSndiS0U5NG1fbmlBeGg1OEFZaEMzMlh1dnpraXF1eHRwM01SNlV1dWVtbEhoSUtLNkhtTFdGUTcyaWxSQU9IQkVIeHVObjY2THhycXFHQkVBWVRCdE9heUMwTXNvcERiNjB5MHdJMC13WGRoSUV5NGlITF9YN1htdUxsYnBYRU1IdUE?oc=5"
     },
     {
-      "title": "IBM: A Full Enterprise AI Stack, But Rivals Keep It A Hold (NYSE:IBM)",
-      "summary": "",
-      "tag": "apps",
-      "source": "Seeking Alpha",
-      "date": "2026-11-09",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPVVFRVlFSMy1ndklUbjNHR1ZHSFF5Y05CYkdScHN6YWpEamk5VEVBVUkzOTZZYzVidGY4NHR5RUZvOU1Vb0puSDYyZ0VXU1paZDg5X1JYOGk0bHNVRHBFamtsX1RZQVE2V2ZWelRWRmxSLWhVcWk0WTktZXpDSUY3QWVJS2thRmpGekw0V2Z4ejFfLWMzWURyeHo1YTFxQQ?oc=5"
-    },
-    {
       "title": "Chamath Palihapitiya Warns AI Data Center Slowdown Could Be A ‘Disproportionate’ Blow To Anthropic And OpenAI",
       "summary": "",
       "tag": "aidc",
       "source": "Stocktwits",
       "date": "2026-11-08",
       "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNUWVqZFhYQXo1R3pfbXlpRHVRLUpsdEkwSnFPX0IyYmFYdEFYUHBnY04wbE5qSGM3WGMtYThzOWgybmhmQkVCNzkxeDI5ajVUYkRqWFdRLU05Q3dMMzd2U3IyNEFya21GWFdmWXAyanBSQmNHS080a1RYdjhvd1RTY253QUZ1a2tPbjIwd3VWdV92OXhVbWJRLW5hT2tWS3U4MEczbTBaRXVPbXdZS2syQkFhZUx0S2otNVZkbjFVYTNWdjh0ZlZj?oc=5"
-    },
-    {
-      "title": "《美股》德州州長澄清不討厭資料中心AI/費半彈- 新聞",
-      "summary": "",
-      "tag": "aidc",
-      "source": "MoneyDJ",
-      "date": "2026-11-08",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOWEFMNHFLeW9qT01iZ3ZKdVhIUWNKTDkxVUgzNVB5WnBlMGFKMVNkTVNNZkhKTTE2MzI5V3NDZl8xZHNvTWxrQjh2T0FGOEdhT1d2Szg5T294TzlSdkxtR3BITFpZZWU1X3ppaGVoRnFFUHJ1V1hvNnloNFJVeXI3dEVOQzJDQTJ3VDlNbjlaeFpCdw?oc=5"
     },
     {
       "title": "HBM4 Memory Hits 80% Yield, Powers Nvidia Rubin [2026]",
@@ -187,30 +259,6 @@
       "url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxNQ2ZDQkRWWGZaNVdBV1UwS0FEY0RvVVJqUFUxNXd2eHpWM1haeXltLUNpaXB2TW5kcHlJRFo0WFNOQWZFaGNDZ2p3WlcwZjhPVndrYkQwWVAxR0tVVnotaFdDNnZHT1IxZ1BJVHJXZXFpVG5ROUlMcGZoR29iczhkOGM4VG9UMEVWWHJoUEY5TlBCN0RiTEotLTFWNVdFZHZpUmVBOHBuYWVaN0xYMEJzSkgtSno4WHhuc2x4TmpMUkV5bHJDaTNqVHFKalBIMl9pZ01MSjF2a0hpczUtYjMxUHk1OGt0VUxxbHRuaHZ3Nkt4ekRLTl9YZzVQX04wYjFUS25wLUZwWUJwTFU?oc=5"
     },
     {
-      "title": "Seaport offers preliminary thoughts on Anthropic stock",
-      "summary": "",
-      "tag": "demand",
-      "source": "Yahoo Finance",
-      "date": "2026-11-07",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOM05wUHozZnlRc3FiR3JTMWVySnFrVzdHUDkzSXJnekUzVjNNdUMtR3ROR3JQckFZdDktbUFvX0JQaS1wV2J6YS1aRXN1d3FWRVdqMWZ4RDBub0ZtNU5zSWZvaXJ6LTNaTVp1Vi15dm9ZOThzRDdvWlRyVnVLWnFfZExzc252YnRQN0szYVNNM0o5UU1Ia1pJdDhhMnhYdVhHdGRraUs1TUlfTnZRY1E?oc=5"
-    },
-    {
-      "title": "IREN Falls 13% in a Week, Hits $17.16 Low [2026]",
-      "summary": "",
-      "tag": "demand",
-      "source": "shattered.io",
-      "date": "2026-11-07",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOaXpKUVpST2gxNW9ZdGJFLUNoY1JZeWItaWpxMW1aTmhfSXZuR2ZzeWpaeG1vR2J4VENWZUlIalhuNHZjSGk1b094WW9yYnRoMmpVOTl2dlRmMzAtWkxqSGk2OHpiR3lUdTBiYXJsdkVpS1RhdGN6SnNyVndyVlJYYjA0NmI?oc=5"
-    },
-    {
-      "title": "CUDA 13.5 Makes Vera Rubin Production-Ready: NVIDIA Expands Scheduling and Multi-GPU Communication",
-      "summary": "",
-      "tag": "products",
-      "source": "igor´sLAB",
-      "date": "2026-11-07",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNOWxXaWdfWkNrMWRTUjFvSjR0VVQ0Q1JnNWlWbWUtcFBhX1FoU0NRR2ZNZmQtMVl5X0Frb3o1VUVrWG14dXFnMGxILXRzenllaFZDVHo0Z0tXUVZWLXpsN2Z3a0ZlZWE2NzZsTVdKSjRUSmxHVW5XVUFmaU05dzFkdWRlelV3UzNsZlZTbXgydHg2OUlVcXFhbnRsNmlKYXYwb1hoVmhadENCUFE?oc=5"
-    },
-    {
       "title": "I hired humanoid robots to clean up after a wild house party for for $100 — here’s how it went",
       "summary": "",
       "tag": "apps",
@@ -227,20 +275,12 @@
       "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9acDEzM3A0SWNlUWl6NjN3UXUyZkxpRE9hZ3BtNVJkMUZ2M2dyVWkyQ0RESC1OLWZHY2oxYzlXMW1vSHdXUjNHWjZIMmNLRjhtU2d4dk53?oc=5"
     },
     {
-      "title": "DCF Global: Britain’s New Bargain With the AI Data Center Industry",
+      "title": "AI Data Centers Face 14 Ohio Curbs, Meta Warns [2026]",
       "summary": "",
       "tag": "aidc",
-      "source": "Data Center Frontier",
+      "source": "shattered.io",
       "date": "2026-11-06",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPTk9YWkJLUmphYkZvMklfbmk4Yi1OUXNWR2M3RGdUU0pNLXRxNXUwblQyTWNoMmdMRGFjTkJaUG5oY3V0WnNvc3VPSmJiczVQcUd6RVgzLUZTWXo5REpUMmxJOEJsNHJvVHhScVZ4ZHQxT3dqOHZjWEdNV3NiRmRpRDNqeDFIeEd6VjRWQUtDRFBlNE92MmxwODhkd2FZMU1yUWtBdUtSUlc5cTZGTXk1Q2JUdXlzRDAzSGo2MUdiVGhDdlR0WTc4eDNHNFhsQQ?oc=5"
-    },
-    {
-      "title": "Crusoe Hands Google a Pre-Developed Wyoming AI Data Center Site",
-      "summary": "",
-      "tag": "aidc",
-      "source": "Unite.AI",
-      "date": "2026-11-06",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPOXoxMVVfTDUxS1VlMXBRYWM5VGl6MTk4cTBxY3pMcXVlUUlTYVdRWU9hUHpzaWNYMkR2ZVY0U05kNXNPVWFhUWV0Q2t4NU9ZOG1xbG9BcVVtOEtFZlRfaF9GLU9MWjctMjhRaXVGWEdqQlltWlcxY2FzTnRGXy03R0RUNUJnVTdNS1NTbmZn?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNanVzSWJfbXBMTml3dGRUR296TjhMQ0hnUHZHUk9wdWJQSGZWYXdtMEtFNS1STDZDYWxxandoXy1uVWl3QmVpTlZVbTI4TlJyell3T0l2Z0xZWjBnMklRLTZGZ1RxUllkMEFXOG1UclZRbm92Q1l0RExielN2TnlUbWRCUVpUdkhy?oc=5"
     },
     {
       "title": "Hyperscalers: AI Investment Will Outpace Near-Term Earnings",
@@ -249,14 +289,6 @@
       "source": "Morningstar",
       "date": "2026-11-06",
       "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQbEk1TUtqYWVaZ21BZkxDMVRoZTNiRGE1TmdtbXJJUEdadFVrRXFRY3hUZTAxcUVMb0xINWFtbnltZndXV1RjYjd4N3NDNUlKWHhvLVRWeXZ1cXZCZEFVY0h0X3V6SzNINnJCWGtJZEZtUlNVQ2QySEVyeVF4cGl2Vk1ZeDN5UHZ5U2hEMmVJMVZ4UHJod256ZWVR?oc=5"
-    },
-    {
-      "title": "The Inmates Are Running the Asylum: Wall Street’s AI Capex Contradiction",
-      "summary": "",
-      "tag": "aidc",
-      "source": "Dr. Robert Castellano's Semiconductor Deep Dive Newsletter",
-      "date": "2026-11-06",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQR3c3czU3RmNkbE5EN195Uk9DMV9zNW92XzNFRlpTUGVhX1V2S2plejNTZDZYZlBsM0hVVHBxb21YWjUxM3JWdEtOY3llZ0x1NGdzRGpPUGlpT3VGeDRjcW04N3lSV3hwZ1M3Ymp2WC1DOFNEU19OZTNFQlQ1dEFuNE5B?oc=5"
     },
     {
       "title": "德州變天 AI資料中心要踩煞車？童子賢：美國不會喊停 但點出「這難題」",
@@ -289,38 +321,6 @@
       "source": "semivision",
       "date": "2026-11-06",
       "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5zX3E1RnE1OF9uYkZNNkZwdjJVSGZFR3dnLWFZVUc0ZGc0ZXhXZW9QazM3WTF2UUJ1cWFQSUdPR3RBWVc2YW9ES1FzaGtYaHFUS2s4TWpKNnhpWWFtcllma2RYWkRIYVBvc0szYXExR0ZNSnhkbmIyRTNTX0daUQ?oc=5"
-    },
-    {
-      "title": "I watched a humanoid robot clean my apartment. It felt like a taste of the future.",
-      "summary": "",
-      "tag": "apps",
-      "source": "MIT Technology Review",
-      "date": "2026-11-06",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQVzlkcUZFWmc3Uk8zUXVDTi1TclV5dGtSM0d4bG5hTF82TzZhbkZxc0tXbGE1b0ZtN0Z4UDhsdy1pTmFBNjE3RmEwd0V0akVrWExpbXktR3FhSUZlb2ZRNFhNczh4S2xGb0RNbElZTlliZXBVMENNNmdKbE1MSGJaREhDanhxMlN6bXpHZEtDcWttU01Zc1F2MnJaRy0yM29BVDUwVGlpc1ZaQlFsT1Y3Q2RPeEdKNU4zc1p4LWtsbC16MkYyeGh4cFAzYnJlZ9IB0wFBVV95cUxQMHVGVXhVb2FVVjNlaVF3dFZlT3UtNlhybEdBaVEwWHAwSVFETUhBWDJacFdDSVpzLXZjbDJlamJyQmJZQU1idWd6dXpvVnl3VVU4dzlDRElpVlp5TFRKYXJLUVpabnp3SEs1TlhqbTg2cV9wRVNmRTROZGkzRmlXUXAzZG91VTNBN3Axb0pyX25HT2NvTnRLUVBWRUNrMVhrVzBpN2N6RWxoVmRVMmRHc0MyVlk4T1NZbFFneXJsNzN5TE5iMkk5UzRzZWJ0RFIzU1VJ?oc=5"
-    },
-    {
-      "title": "​‘World-first’ bionic humanoid robot anchors unveiled by Chinese state media",
-      "summary": "",
-      "tag": "apps",
-      "source": "Interesting Engineering",
-      "date": "2026-11-06",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOQUhjWmJrT1Y0ZGtqeVVxVG50X3FCT2l6TTI5Z2R3c2ZPazhMOXRhUDdXOWhnSS1LQTgyWmhNUXlwcmpkNUpjT3F0Xzg3UjZwcjdfeG53VEtqMEtwajlJV0xuTFJPc2p2TUdQcHRyT05mb01INmhkSUZOMzFWTGpVY2prZ3A0MkNJc2dFdjB3QkxqczdrSXFkTjQ0QQ?oc=5"
-    },
-    {
-      "title": "Voters rejected AI data centers over resource concerns. Here's why measuring water usage is hard",
-      "summary": "",
-      "tag": "aidc",
-      "source": "CNBC",
-      "date": "2026-11-05",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOSElxVG9yQnBRbVdSTkxabDRKWUFDb2d4STE0ZElpaEZEd1dUS3RLLUdaN1NRN3paOFV1NjAzaWUtSEJERUx5MGgzS2NnbW01aGZXa0I0RnhWVG5yNHBmLXVaN2tHc25CNW1pdVBrNzlvWGZxcnV1bTNOTzN5RXhpX0xHQzdNZE5oeG85dU50OUpwX0szMHF3WEQ5dnQ2cndNeXRiS2tB0gGrAUFVX3lxTE5xRXQwaXRkaUt3UFoxZmZJSllEUFllY1loWjBvNkNJcEQ4Mm5QZlZuOUJsS3dNWUY5MldSMUwwNWN0Y2otZ3RmaWw3V0dvUUZnbGdqVjVwSGRjU2EzUS1vX3ZKQk0tbkFkNEphSklLWFcwYXZHRFJGUEczcEhxcXJmYkFISDFMLWZoNGZ0SHZGTEIwODVrMGlWTWZueVRqemEzZUxJcjhmaVJlNA?oc=5"
-    },
-    {
-      "title": "Datacenters were on the ballot. US voters rejected them",
-      "summary": "",
-      "tag": "aidc",
-      "source": "The Guardian",
-      "date": "2026-11-05",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQMjd1X3FyNVRETUU3RUcxaW9aUC1nMFh3NVBfNWtSVWh5UFgwQVNqZ3p2NHYxTjdrZVd6U0lGWlluMkotYjZMaThsZnBpMU5SZ05kbjZXY3kxLTU5SlFRU0lQN0I2OGFvUExIZDRscEpPX0RZV3A5TVhtNS02d2JWNFozSQ?oc=5"
     }
   ]
 }
