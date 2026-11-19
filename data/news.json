@@ -1,7 +1,39 @@
 {
-  "updated": "2026-11-19 04:43",
+  "updated": "2026-11-19 15:40",
   "source_note": "Google News RSS",
   "items": [
+    {
+      "title": "美鬆綁能源計畫審查，支持AI資料中心擴張",
+      "summary": "",
+      "tag": "aidc",
+      "source": "台視全球資訊網",
+      "date": "2026-11-19",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQNDVGNW9adHJPSXVhSlZDcjRLSHRWQVZuUmZpbFlaZVVWUGJqNnduUm9kRDB5T2cta1ZqalRpT3pORkZ1endjdWdSVnM0dy1uVGh0ZG5nMVlPUjFVWU1qLUlqWTZISTRNVDBzcFB3ZnE1ZFo4UjNOdDRoTmJpNl9KQXp0OUYtSFNsR29tZUFGLXFiZw?oc=5"
+    },
+    {
+      "title": "Anthropic IPO (Live Updates): $81 Billion Raised—Breaking SpaceX’s Record",
+      "summary": "",
+      "tag": "demand",
+      "source": "Forbes",
+      "date": "2026-11-19",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOdUdDUjdPYlNZRG1KR245Rjc2SEQtTlVuVnZUZk4ycHBXM3lqSFBfTmZBZW8tUDIxVWZpV0huNnZLNWdiOWlFczVieFA3bEN3Y25Db2NnajF2Rkp5OFcxTFJEZ01fckRnNFgwcUU1ZHUtMW83RWowdVlRdERCaV9td0Q4NDJNWlUwbVNBU241YW9RNmhyUGFMMGpzSk9LQWYxN3I2akNYSDNuV0VqVU5zNUVJZUlzLXdtQ2FGMA?oc=5"
+    },
+    {
+      "title": "Microsoft Bet Big on OpenAI. Anthropic’s Profit Lead Raises Questions.",
+      "summary": "",
+      "tag": "demand",
+      "source": "Barron's",
+      "date": "2026-11-19",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQbmxQN1VFeUZSVzdzNUQ3c09YSTNGRkVDeUZEcXNUVWZjaXVuM2FkanZlajVWN0E4Ym5tMXE4NlV5VHhiUG9IMk5yTnpCcmd5QXJRNU9nVjdidnZ1bnVsR0pOLWpadl96UHhVYW1kVWR5bjNBejBhM09Cb2pwX296T08tYTBPd2E2?oc=5"
+    },
+    {
+      "title": "Anthropic revenue target: $600bn, soonish",
+      "summary": "",
+      "tag": "demand",
+      "source": "Financial Times",
+      "date": "2026-11-19",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPTzZJTkViRl90T2lUaU1mR1dOTUkzNnhFaXdrZDVFbHdxNktLbEdHS3phMDhCZ1pfY1pXWExlOHBvZDNoa0xid0dteTJQNTlndlZxaXMwQTZyN1ZMWGlhSGRkdWp3M3pjVlFGNFg5WlFvY2U5Ym95dmx1MlA0MmpSMy10X04?oc=5"
+    },
     {
       "title": "Fund Managers Are Cutting Tech at the Fastest Pace Since 2006",
       "summary": "",
@@ -9,22 +41,6 @@
       "source": "24/7 Wall St.",
       "date": "2026-11-18",
       "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQbmk3WVdRajJLZVJuNE1PangtTlNiUFI3dHMtZUh6MHYyb0s1WDdGck44b1NxUm1oYUpTTXlsNVp2TTNnVjR5RG5tNWhLdmRKWVdzOHplWmhQaGtHVUxpTExLNTZaTXFIS1EzWVBsZ0FySW1kdl9ROUREUEYwbk9WMl9IR2l0Mnl4d0xNbVB3U1hTZTBNYXB6LTducU8yQkFWQ0s3T3lzUVY?oc=5"
-    },
-    {
-      "title": "Anthropic Revenue and Valuation Statistics (Nov 2026)",
-      "summary": "",
-      "tag": "demand",
-      "source": "Exploding Topics",
-      "date": "2026-11-18",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1VV09mY3FENzVFMnFBam9ZMGpmdVpVQjBYejdZV082ajU0QmMtYmtLOE43Tjk5VGZGQU5KSTV0d012Um8wNTcxN3oxMzV2Zm81d3pGRkE3M2hPRkZ5TWlZ?oc=5"
-    },
-    {
-      "title": "Should You Buy the Dip in Neocloud Stocks & ETF After NVIDIA Result?",
-      "summary": "",
-      "tag": "demand",
-      "source": "TradingView",
-      "date": "2026-11-18",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNel9CcW85UkFDa3RjVzQwckZLTHJPdTdzR1FDbkhxMEhob3lnWThKQVdFWnJlTTljSUc5X3BNMFRsRHN3WXdqZWIxNlFjN01ySzA5UHptUl9XRTZZd2dDUXFlWmQ1Q2hyXzRpbkVLZTV5NDVsOTlVMWZGVlZabUVyNmdmR2tVYnAyY1dRZ25lV1pFRFJGQkJFX25tUkdhVy1GeWZ3Tzk2NFpHY3hIWXFpWkdoc085T2o2YVltNjBB?oc=5"
     },
     {
       "title": "CoreWeave and IREN Fall as Nvidia Signals Caution on Financing",
@@ -67,14 +83,6 @@
       "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQTVZrTGJ1QlhYWUllZW84bDljamZvU1JoNDVmTWV3OGstU3FOc0hvam5meFNQWUNyZVNmZEtUOUtQb3k2ZURuWnZOVjU2a3hQQTdaRHhiTFBGNWFRcUg5MHduTU5pVkt4WVEwbUZLNG5HWGxpOVZmSjlWdl9rYjFsTjZSeGlCbHN0Y09aYjZQZzNNX2RacjFzX1J6TEJCT0tFRWdLc0ZOc2NmZHFNcUlpM2FNdmtxbkZuUko3QXJkRndoOUxuU3Q5YmpMUHM?oc=5"
     },
     {
-      "title": "SemiAnalysis's Dylan Patel: Permits, Not Chips, Are Pushing Gigawatts of AI Data Centers Into 2028",
-      "summary": "",
-      "tag": "aidc",
-      "source": "BigGo Finance",
-      "date": "2026-11-17",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFA0LXdCblMyTmxWZVg2V3MtZFRyMzd3ODhlZFlzU2d5cEJYeUxVcHRVZzRZUGxGSzhlS3VSamVDTzRZR0JjNWIwLTRPajc4SkdITjRVMnFUQW5WelE?oc=5"
-    },
-    {
       "title": "The AI sell-off makes sense. Staying bearish may not",
       "summary": "",
       "tag": "aidc",
@@ -99,20 +107,20 @@
       "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1iZmNJMnU0azFmQWNYNk5QVWE0bWg5X1VYN2pEZEpuOVVRMFVKNVJudmpMbmMtTzBRaEdRbG5CZkdkaHYyRG1GQ0UyOW41Zw?oc=5"
     },
     {
-      "title": "AI資料中心電力需求飆升，光寶科秀800V供電架構，布局Edge AI智慧應用| 新聞",
-      "summary": "",
-      "tag": "aidc",
-      "source": "Reccessary",
-      "date": "2026-11-17",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9sejFxVHJiRFpzNjlnaTloZjZwbU8wWmlWcV9feDB2Rk1VanpQLWxfbGlNUXpudTgzZEc0QWVEQURURm1fNTQ5eWF6cW1vNkE1clFfTGZsbldWUGFJNDhMRDlzSUtSZnkyaDExak5ndEFMN05SbVhDOFV1cC1YUQ?oc=5"
-    },
-    {
       "title": "AI 資料中心往哪蓋？電力正成為選址關鍵",
       "summary": "",
       "tag": "aidc",
       "source": "TechNews 科技新報",
       "date": "2026-11-17",
       "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5Odms3YnF2MHpkMGRObTZoWmJVb2dwZ3FnLWNwSkpkRGZDQTd4ZklrbnJ1dDNLa0g0MTQ5cEstYld3clRtZ1N1dmtOMmZla1MySTcwVE5jdWdsdUFsLTJ6UmN5UU82S3NWWFBuU2x3?oc=5"
+    },
+    {
+      "title": "New Street starts Anthropic coverage with 'buy' rating, estimates revenue above $500 billion by 2030",
+      "summary": "",
+      "tag": "demand",
+      "source": "Reuters",
+      "date": "2026-11-17",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNck0wUlQwaUFLZFczaDFkai1PQmhJSkV3SDRwbXFsY01CaEM3cEVJaU1oUG5qWlVOUmxIWTBoVFR1RzhmbDVXeWg3SUpxY0VlR3cxci1qU1l1NlZUcENIQVAyaG5XMXB0OWZQR1pBaGNGaEhWRzRpOUVGODBERGFsU3FzbEdNOFh2TC1MSEtLenVDc0djNUp5YlBibjExRXN1SUlnT2RabXhGTUJnRWlsS2pobXRYTkdhaUQyZzVmYjhaanc?oc=5"
     },
     {
       "title": "Anthropic's Quarterly Revenue Jumped 47% to $17 Billion Ahead of Its IPO",
@@ -129,6 +137,14 @@
       "source": "Columbia Business School",
       "date": "2026-11-17",
       "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQTjVLWkNxN0M4cElnaWlJcFpPNG1pRkVfdWczYUVaT0d0c0ozRDBLVDNqbWZ2allxVnRXTlpTNmZuWWpnVE5VUFd6UlA2MVQtcTduNGZpbDRiQm5OYUdhTjgtbF91bGtPRzNuMjFYaG92cXp4MXpKclVsRnNMN1ZuSjdSYVZfZDJzX3c?oc=5"
+    },
+    {
+      "title": "Investors look to Nvidia's earnings and Anthropic's IPO to refresh the tech rally",
+      "summary": "",
+      "tag": "demand",
+      "source": "CNBC",
+      "date": "2026-11-17",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOYlFDb3RMdVlJbXpWWTd3XzVMRzZnOWFYRzR1VHBwXzRHZWlIdS0tYjA5RjVfY0dHRFF2VVIzN1VkdjZhWVdxb0pWT2pvOEd4dVI1ZDdOTy1RYWdObXBocm01cXVPUGpHVXJqcmRuSGRheFgyNUhOMmFGUUk5cEttSzNVb9IBiAFBVV95cUxPVVE1NVl1aGppdU5rbFBEQ053ZmRxSXYyZ2lwX1kwZFpFanRDb1QzcWlQZ1ptM3VJRGRGUkdaQzVFWTFFWVIxWmZIQWM1WEswLUhNRm83RllQemFOdzNyXzV5ampaLWFpRlhsZWFNdjdCNlp0N3BZNzZzcTJQd2FJZVNOQ0tUSUsw?oc=5"
     },
     {
       "title": "Apollo CEO Marc Rowan warns neocloud financing access could 'disappear'",
@@ -153,14 +169,6 @@
       "source": "ServeTheHome",
       "date": "2026-11-17",
       "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQR284TGNDTVNUOHVXUnM0NkZraTZOTk9JZlhidUVQY1JKLVF3UjA3ZTdrWkszNVozRG8ybE1CU1dkaEJVSy16UG9ld1FFNWhkZjE0MjBoS2FjNmlsQktRYlZ2V1dLYWJZNzc0TDllQU1RMm5wUmZEdGhvdG1adVNNSUNDc0loY3VGTzRIak0wd1Ixa3V2ZHVhWk8zUm4yNF9pd2RZ?oc=5"
-    },
-    {
-      "title": "NVIDIA Reveals Rubin HPC GPU With NVLink 7 And Over 50,000 CUDA Cores",
-      "summary": "",
-      "tag": "products",
-      "source": "HotHardware",
-      "date": "2026-11-17",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNMWx3NWpKWXlsNnlRcTZIc0FBUWJmLWQxY0pmUThTY1JvM3prREhONi0wY09oUUEzemdUbTVROUpEVmZrcFkxMXRDS3FaOVVWUEpybUUxb1VkQmp5UGNfUEN4RUo4Zk9fLWltQ0hQaGhoN0Mxc0Y1LUstaWF6c2hCaWlVOThaQlhFam1mc0FEZkV6UQ?oc=5"
     },
     {
       "title": "Lambda puts Nvidia photonics to work in 10,000-GPU AI cluster",
@@ -243,20 +251,20 @@
       "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE43QW5Ic2k1LTR3UXVpbWdUdTEtbmlHV2tfZWhLSTZleUpoNkYxZEg3NUpYbWxpbXRITm9KWkxUMVlZMzhPWUhURFBvdHRBX05FMlRGVjBfY0VBSVhpeUpZNGlSRkpZOXpRVThlbUR2OA?oc=5"
     },
     {
-      "title": "Anthropic IPO Costs About Twice Google Per Sales Dollar",
-      "summary": "",
-      "tag": "demand",
-      "source": "Trefis",
-      "date": "2026-11-16",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNTmdpeWZ5TVdDUk5LOWhvU3dwUDJHSG54NXR4VGJCa084RmxzRkdOb3ZyNTRhWlA3NndvMGtXT1EwVXlEZDhxMGVjZ3lxWUdjcHhMLWZfT1J2VGViMnl1Y2o2eDlLVE1CSURHTWU4UXVBV1E3RE1Manc3Qi1vNHhUVDZOSUhmRXQtbFFQWl9IdXBDVkMtYk1mblZrVTcyZDNYQjhWaGE3aGFEMmZQcmtrMGsxaHVyVFRj?oc=5"
-    },
-    {
       "title": "Why neoclouds like CoreWeave probably want to see Jensen Huang return to Nvidia",
       "summary": "",
       "tag": "demand",
       "source": "Yahoo Finance",
       "date": "2026-11-16",
       "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPcEdTZHVyT2R5dWMtbW54NHNmR2M5UlVjeUlXT1B2NEo0cG1MOU9sa3JnUzE5MFozLUlnMEhtb3Z1d3J4ZDRZUmh6SkVoTERpMjFjU0t6VlFsMG9kSV9JLUlnZVFTeHlPZTBrNWtBdTVQTEdVRmlNUjhZTVVXUzhtYlE0ZngzX0hONGdpRWMyYkg3Z050VVQ4bWdwdU5CUjVESlZ1bEF3NlEyTzJwX0xKWmxfZ0Fza1FueUd2ZDR0MV90SHJDZktocFl3SWNpNFFicjJ4YWpB?oc=5"
+    },
+    {
+      "title": "Nvidia's AI financing machine may survive Huang, but with less risk appetite",
+      "summary": "",
+      "tag": "demand",
+      "source": "Reuters",
+      "date": "2026-11-16",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPd2JkdDdXVFVDWWplOU5DRUtSZ0tQS25DanRfRl92ZUU5WVNDQnBwUUhhM3RRdDRSdEdISTNwa002U05EdkRlSlFXNE1PZ1RSVElZUjU5ZnRvT2RqQjZjaVRidXJRQ2dtb3FuRG9GQ0hrMm1ialRwSkN3U0VLTkZoNUhpUTYwakJUUUlOR0FMWWVMdUI0MUlkdVdYdUZOYzc5YVNtYk5wMjlHYlRKaG1RUWNOMGtnM1dCZEJpUEw4cThSc1Js?oc=5"
     },
     {
       "title": "IREN Drops 7% as NVIDIA Turmoil and Financing Worries Hit Neocloud Stocks; Nebius Falls 6%, CoreWeave Slides 4%",
@@ -267,12 +275,12 @@
       "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOOW5ocm9EalpOSUVtMmxWaF9KZHBIS2p2dHFXRXFPbnVIaU9uc1phV25SVFNpMkhzSFp1OEs1d205Y3dvUmc5dE84M1R1aV8xTTBrbFN1Sm1teklyZ2xTQV9EdlJ4UVYweHhSQXhSYmtvaDZEY1c4SDBYalJqNkV1dVoyOFdOZWlZeVBuSFFVYzQ3RVRNT01WWks2QjRYTDg3VFBkVm4xdlVLRXFCMHRrLXF6NTlObDhuUGFwU3ctMlNQY0pkNnNFamlsejE1RzZPVFZ2WkxDc3pTUTFsc2hKUFNuWlo?oc=5"
     },
     {
-      "title": "Nvidia's AI financing machine may survive Huang, but with less risk appetite",
+      "title": "Huang’s Ouster Fuels Doubts About Nvidia’s Support for Neoclouds",
       "summary": "",
       "tag": "demand",
-      "source": "Reuters",
+      "source": "Bloomberg.com",
       "date": "2026-11-16",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPd2JkdDdXVFVDWWplOU5DRUtSZ0tQS25DanRfRl92ZUU5WVNDQnBwUUhhM3RRdDRSdEdISTNwa002U05EdkRlSlFXNE1PZ1RSVElZUjU5ZnRvT2RqQjZjaVRidXJRQ2dtb3FuRG9GQ0hrMm1ialRwSkN3U0VLTkZoNUhpUTYwakJUUUlOR0FMWWVMdUI0MUlkdVdYdUZOYzc5YVNtYk5wMjlHYlRKaG1RUWNOMGtnM1dCZEJpUEw4cThSc1Js?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQOEdLX0NXbnFsWDh4TXNMaUFuMVRxX2FtcEVBR3hQa3R2a08yOEhBWXlMYm5xWnl5LWljT1RFVk85OFk5T3hMWWgwemVXNEZPYVBTLVpRZndkam9PSFdxSjM3OTlTUWVPdl95MVpyVUoyem55R2JYVGRuajZsU0JxeWRSclRJTS0xck9pc0xyUFl6Sk1tRVFhU19Ycm1MNU50bGEwSFpGUUZMQ3VrRFpCNm1pVVFPdw?oc=5"
     },
     {
       "title": "Nvidia announces Rubin HPC GPU with 'record number of CUDA cores' at Supercomputing 2026 — new chip accelerates agentic HPC workloads, arrives in 2028",
@@ -299,28 +307,20 @@
       "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQb19TMjY1N3p1OGxRUmFrVkRfN3ZYR3g0VWJ1X3NKR0V6VksyUXFxYVpRLWNYWnVzaVR6WFNTX3JRbmpnU2kyUm1kYmEtTmMwOWdSNW1yRklCOVJkNU95bk1FWDhPM0tldHRNNEFocU5ZLWNQd1lQTjEtSFVlTGxyM2MtRldVeXM5d3k0MURtbFhxa3M?oc=5"
     },
     {
+      "title": "NVIDIA Rubin HPC GPU Packs Over 50,000 CUDA Cores, All Connected Using 7th Gen NVLink To Accelerate Simulations & Data Processing As Launch Slated For 2028",
+      "summary": "",
+      "tag": "products",
+      "source": "Wccftech",
+      "date": "2026-11-16",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9TR21WZXpVYzFtaVNSWk1iOVRiRGs0YlZ0MXpiVUkyN2xRWjNRUkNqSGRIVGVBWDB0cUoxeXFQTWtVTEJfMTBuVGZ5N09SRjdDdkIwT0p2SzR2dUhVR3IyT0JoT0k4UVpWVkFCZHR3S0x3Z9IBd0FVX3lxTFB0OHNQZXV0QnpfVWdLRFBjTnZXbjRQeHdOYXl6ZDJCZjV6QWNTMURmcEpWRGpPZTF4ajhXeUYxWkNLVXQ0UW0xcU5GdUMxSmx1VDhxZVZDNjRORzJBMnVCU0IxZjd2S3pQU0h2dG5BaHJOZEItdjNn?oc=5"
+    },
+    {
       "title": "Nvidia unveils Rubin HPC GPU for agentic AI-powered science and engineering workloads",
       "summary": "",
       "tag": "products",
       "source": "Data Center Dynamics",
       "date": "2026-11-16",
       "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOYnZvWlA1R19ZbDByRE9wcjE5Y1ZtOGVJbmo1VlJkazFKb29YVF8tdTdxV01qb1hEb0ZGcjRrNVdEYUU0TEpKMjh4OEdEdjhQVjdsZXRia3EyZmFhemk0OEwteFBIb0RHOEhleTVTcjZjdkhyLU1XSm5pRGVPNkc0THdKa045Mll6aFM5Z25NWXk0UHltS1EwSXlHY3huOTJLdE96TVhVT2RsbGVYNDdrOVRZS0JkTGZncWg2VGdjcnBzSUNWUFJOcQ?oc=5"
-    },
-    {
-      "title": "NVIDIA SC26: Rubin HPC GPU With 50,000 CUDA Cores Due in 2028, 192-CPU Vera Racks in Early 2027, and a 13,0...",
-      "summary": "",
-      "tag": "products",
-      "source": "StorageReview.com",
-      "date": "2026-11-16",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPV2dGU1RRZ2trcDlvN2M4ck4xMHBzbWVuYlYzaVVhV0x5N3d4Tk5hd21hZ0dqZnIzdlhaMW5ubXQwRmRkdlkxVHhFNG0ta19Wck1MclIwNFplWmpXTHAtM0V6WDMyLWxtazdWVV9LQ3Bsd3FZMkNzbG1jQWRHOV9vWkxIYmZsYm94Uko2M3dPWXpLc3M2cktsTnpBRE1BdEo3YllRUDd5RmVsdnPSAbABQVVfeXFMUFdjSHpOXzQ1SmtROVA4TkNHb0NaREVqN2loMEdXRXUwNzI2UjNPbVVyOE0yUVdwY0pqWnJEN1NuV1pUWEJmWVRzb2hSUFpLcnVnX19QaHR1QzRKVzNnR3pvSVhfM3ljWHVGdHNSeU1xV1g4OHJUbE50YzFIVmVvbTlWNEdTR0VDSlpSOXdDWE5acnYtQTVMTlpiUGJ3ZTBIejNJQl85NWplYk85cy05djQ?oc=5"
-    },
-    {
-      "title": "Vera Rubin NVL72 MLPerf Results: 3.7x Over GB300",
-      "summary": "",
-      "tag": "products",
-      "source": "shattered.io",
-      "date": "2026-11-16",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9aOTRKQUNQMjYyNTlqUndPc2dPVjVKOGRoTzN1MGdzdXQ0OFJxaWNzZGpNNWZtYWQyaW1HYVp5bnppSEVqNElGcGlPR0V0SVRQNGtXYjIxZ1lfRHJKcERZZzVxcmJfczRSeDQ0ZEdZQW5YS2M?oc=5"
     }
   ]
 }
