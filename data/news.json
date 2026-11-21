@@ -1,14 +1,14 @@
 {
-  "updated": "2026-11-21 04:33",
+  "updated": "2026-11-21 15:26",
   "source_note": "Google News RSS",
   "items": [
     {
-      "title": "Asia FX Talk",
+      "title": "川普擬禁止美企海外蓋AI資料中心！違者恐遭課巨額稅金",
       "summary": "",
       "tag": "aidc",
-      "source": "MUFG Research",
-      "date": "2026-11-20",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9nRUk2cWQ2WXdNNlIwM1lmci1fenh3LWhWcmJ4Vk9fQTNrNlgzT3FxTFFrenBZcFNZdkR2OUQ4VGRwVm05UC1FLW5Fc2xqUFNZc3E1ckFZM1ZFY3h6dUtIcHQ0VDRsU3lBeFZ1OHZVVQ?oc=5"
+      "source": "自由財經",
+      "date": "2026-11-21",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1FOXpjaUtDQkRKQ1BBc1NGeE1tLXkyeEU0cEFxbFZHbGJuS3VqdzBuZ1A4S2FleEdZcW5BSnBGeTRGNHFmbmVIdU1xYmVnQ09hTWhpanNCOXQzUlA3Q2xN0gFkQVVfeXFMTlBEX1gyTm9rY2pSc044VGxmRHVVNUpWcFJWd2NnTm14T0pCc1FsSGNxbWluSFF4MzhPRzd2Q3ZqV3JianRiSlpQWmtJWFJIZEVwTzdDRmRjOGhtdXJZcFI4X09yZQ?oc=5"
     },
     {
       "title": "美國資料中心建置卡關，台灣AI供應鏈會受影響嗎？廣達、台達電等訂單與獲利關鍵一次看｜股市話題",
@@ -17,6 +17,22 @@
       "source": "永豐金證券",
       "date": "2026-11-20",
       "url": "https://news.google.com/rss/articles/CBMi5ARBVV95cUxQSUlSMGJNM1h4eG5pdFUwR1hhaXdnUU1OMHFmX01fVHd2ME51c1B2TXdUVC1WS1RnOVFkRmdjaDlENnduNzhJei1kTXVvQ2dPcEdsUUdvR3RvTlRfZXVyMDFCSHFXclMwOVZFWWRTNzZheVVvUkdyaE1lNmVHX21OLU9EaV9PNlo0ZmVuYUlhTUItOXlLb1R4Z0I5aEVWOEtEWHFpeDN4SjE3bnNvUmJxSDhjMGdGdThJUXROajFFeDdWOUhWOHU0M0tlQ2tkTEhXXzVTdHBwLXFNck02V2VFSGNPMFBGenhCWjQ4OEJPYVFnNGdXSXVrYUUwTUlQbHRxTHM2TkM2R1V0LXNabUZYSHBDY0s1YnRTeGdKajlOWW1NemRKXzJPaXFqcmpGYk5ZMm9sTUItcmxvc0ZNS3BxcGszTFVLR0FDR1hQSVdITXVyM3ZiX0RvRXNKdEMzV1J6Z2RoNTBiQUdzTHFOY0Z3OVNpNXctbVBadFBRQUlqTEpYUENiNTFiVXlpLXpRQUd6V2pDRFVvZE9YdVloYzNkNGVScXJSN3RrRTZ0RkRsdnZDYjNMX19xYTVaSThkdGZEeU0xa1ViUFBPSl9lYlIyVlZyazlsVm41ekhLdzFtZml0S0VBVlkxeGFlRHFaaUdlTzg1RDkwRTRiNjNGUkprUGRkTVRTaTQ0YlhZNHRRSjhtRnc5b01BNllYM0k5T2ZyYndENlFqczM5Y1B0NlRSRDIxSUpLME5PS3dZMGdwWkVfMnpCWGhSbFFUVDk0VjgteDBQZkZmc1dwT0FTZTlYT0t4OUg?oc=5"
+    },
+    {
+      "title": "川普想把資料中心留在美國！美企赴海外興建恐遭禁或被課重稅",
+      "summary": "",
+      "tag": "aidc",
+      "source": "鉅亨網",
+      "date": "2026-11-20",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE42RHV0aWx0UTJHellhRE1NVXhvbVdEblpfWnV1bGFzTC1janRQcHZ6c2xIRjJqaUhZRjJfSmtIVVF0aEJBS1JHbWFMQVpJUzA?oc=5"
+    },
+    {
+      "title": "AI資料中心接單達15億元！重電大廠」在手訂單突破130億元、看到2029年前三季EPS衝2.44元創同期新高",
+      "summary": "",
+      "tag": "aidc",
+      "source": "Yahoo股市",
+      "date": "2026-11-20",
+      "url": "https://news.google.com/rss/articles/CBMixANBVV95cUxOdDJja0ZMQ3pMbWlpMnRHRVNxT080WTNYWlg3ZW1QTE9iSE91TzNUUjRYd1hLeTFZQWJQaS1TQUxCanhwR251elgtWldIN0dwQ1hFcmlnM0E0czFUYmQ0YUFoc21Mc3BBM0dDS0ZwbWlSSkhLMmNTQjFEU3hWOFFtekdUTVNybUJ2MWVUcml1TDBWaEE4N2phYkI4WFRMMi1JNXdPTnJuWF91TFUycUNvZkYyVlVmMVZMd2lmSTFIZEJjc3I4TTYyYjRkQnA1eUZiTnc0XzVHSWwtM292eUNoa1UtTG4zUmRPTVp0YWNicHJUQ1hEdWExNU81U1NYX2NSNTRweUQ1Q0Z6eUxtRVFMa0VPa1k4eEF6aFdHYy1nVTNCSkdUa1B1SnRlVU5JcjNGYVNhM3R5a0dFWVlDWlBaQXRORFJrWFA5bUttSV9uZlZTQ3lydEs0Mk1sa045T3YwMjBvVUZXY2ZIMGVJTVJMN3pwWVowRC1CVUZFTmQ2ZXhhNWNLalRueHY0allQd2hvNUpUMmhiS0RNeXEyMUVieVV2VXJZWUFlSlUxNzNaaUN5ZzlvZk4zSWR5UVZEMFEweVEwVQ?oc=5"
     },
     {
       "title": "Anthropic shares roar as revenue soars",
@@ -139,6 +155,14 @@
       "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1xSFI3YkYxQ0NwSGN0RmpLVHNfeERWRG1pZnJUZ0NlZTJaNXJjM2hHV3VPOGc2T2xWM2ZkMWtYXzhQWnVBOVhxYzhyRDRoaHRMeG15ZS1CTVpITzh3MW9zcU5QVXRoQzRYWEt6di0yVnlyU2hj?oc=5"
     },
     {
+      "title": "Nvidia's shift in financing tone may spell trouble for Coreweave, other neoclouds",
+      "summary": "",
+      "tag": "demand",
+      "source": "CNBC",
+      "date": "2026-11-18",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9IZ2MtRFhGSXJRTVZCWWtGUGN6ZGNsb2VoUkhjcGZhV0UzbFJodkJsR2xNdTB5ZWRDMll6UkFZakJyZXYwaFFJQk1jUnhyaTNwVjBhcjBSaVZCMlhCbmNYM2QtTlctNktfSU95UGNiaw?oc=5"
+    },
+    {
       "title": "Nvidia Shrinks Neocloud Backing to $32 Billion as CoreWeave and Nebius Rallies Fade Fast",
       "summary": "",
       "tag": "demand",
@@ -179,20 +203,20 @@
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBsbDNBSmdHVW5nSnZoZ1VxNlQzeHlLWi1tN1NST3RNbktzZUdVRURjWVZ4OGZRZkxUTm5mQ2d1c1VpTWU5c3J3VlBJMHZXaFYxVk9vNThlTDFKR2J1eC1KOEpNY2NidVVqVW1EQlUtUUJlMGJBNGhTa0FaamI3N0E?oc=5"
     },
     {
+      "title": "Humanoid robots will become a common sight in China",
+      "summary": "",
+      "tag": "apps",
+      "source": "The Economist",
+      "date": "2026-11-18",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOaTZYeE42NENweFp3SGdqUXk2am9WY3JiYnlHT0NkTnhJaXRCOXBqdEo3ZV8tNW1wbnRidjg1ekNoTU9qOFpRUVBhbXFCcWRlQy1GSmI2aHFra0dGRlNUTWczSDRCdkwyeXdJYlBqMTJnQlZuX1NXc3pZSXh2U0JsY1RYeHdXS1h6ZEpBcDVRR3l0WUFzbE9McnU2Nm5EdmhUVnVtWWs1Yw?oc=5"
+    },
+    {
       "title": "An Eric Trump-backed startup unveils a powerful new humanoid robot—and won't rule out arming it",
       "summary": "",
       "tag": "apps",
       "source": "Fast Company",
       "date": "2026-11-18",
       "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOay05N1JJSXFwUk1VakFZM3ZXRVVsSkEyWVhiSlVoUmt2b2c5bzJCcEx5cGE3WU5qbktYemF5WVBPZFlsMTd0NmJCM3ZNSnhBYndUblI1SHBvNTdNR0d0ZWNzS0xJOVNTS0hFZ3NoY05ialAwUHdLdlozNU5XbDl4ek05VlV4UWJQRDdvTw?oc=5"
-    },
-    {
-      "title": "Get ready for humanoid robots, says He Xiaopeng",
-      "summary": "",
-      "tag": "apps",
-      "source": "The Economist",
-      "date": "2026-11-18",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxORFdoX3dJb1NvYXpIc01lQ2xEeTJyM0hqLS1nWVB0N1gzWGNyVUVQbVVQUHc4WnZqZFU0ZlpHVFJURi01UHVyd2VYVzdTUS1NWmpqUGF3RlIxVkMwU080dEx4R3ZyZFU1dEVvUlJRUWxrYTlhT1dDazQyN29LSXF2bWxVai1mZURDVnBEcEx1dXVGRjAwNWVwU1U4WW9pdFRp?oc=5"
     },
     {
       "title": "Microsoft and IBM Unite to Accelerate Enterprise AI Adoption",
@@ -243,12 +267,20 @@
       "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5PWkxlVWg1MHR1c01TU3NlcDdFRkotZjktb0VJQ3RiN2xkZ3JCbk83cXpUMDFjeXVpdldhOGotX0ZLWmJ6aGt6NGdMN3BJakxjTDZmak5wMkhNMTNwNzgzZ0hhVFlyRWJxWlgxbEY5bEo?oc=5"
     },
     {
-      "title": "AI Bets: Splitting the Stack",
+      "title": "Is the bubble popping? BofA fund manager survey sees tech cut by the most since 2006",
       "summary": "",
       "tag": "aidc",
-      "source": "ETF Database",
+      "source": "Fortune",
       "date": "2026-11-17",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE44UXhJeHdPTWpWdHdZZnBETFl3QWpSLURrZ0JsUjRGQTVsSF9Fa0F1dlNRbVI5b0hGRXV3Vzc3ZUFyZkdKMHpaTmR6eXEzclBSYnNWNGFTbEd6SkVSeWppZEZQc0NTTFRDWW5NLXdCSE9HNEk?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOdnlOdUNheTNhTGhnd0NoV3NObWE5Tkt4MGlnd0JjVURnS3ZzZVJuZDR5VmtCZE9GTm1kNzlQWlBnTnFsUnJPc05rcW9nQzFIbWxrb0FlNTBsNkJaM0NCUHpLQkZMaWFfcjVrTmYzNUk5cEg1RkMxQ1ZibTlqbDZ3aGlVZlNqSUpuSDNIdGJnaUV6NWlSVnU5YVZzeHg3UQ?oc=5"
+    },
+    {
+      "title": "Bank of America survey: 52% of fund managers expect an AI hyperscaler to cut spending",
+      "summary": "",
+      "tag": "aidc",
+      "source": "Crypto Briefing",
+      "date": "2026-11-17",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5mcnUybVI0WUk3eklNdjJfQU5fWnFhZ1RiVjUtQ0lWNzNxbC1VQklKcFNCX3FjZXRCOFI5NWwtOENQd0lzSDBhNm4zRk51RGdOOS1oa2hCOVl5eUxEZUw1dTNnWmFCa1E2c2ZMSk5SRE5yeFozOXNmeldTY1o?oc=5"
     },
     {
       "title": "OWASP公布AI資料中心十大資安風險，韌體遭竄改、高速網路防護不足列重大風險",
@@ -257,22 +289,6 @@
       "source": "iThome",
       "date": "2026-11-17",
       "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1iZmNJMnU0azFmQWNYNk5QVWE0bWg5X1VYN2pEZEpuOVVRMFVKNVJudmpMbmMtTzBRaEdRbG5CZkdkaHYyRG1GQ0UyOW41Zw?oc=5"
-    },
-    {
-      "title": "AI資料中心電力需求飆升，光寶科秀800V供電架構，布局Edge AI智慧應用| 新聞",
-      "summary": "",
-      "tag": "aidc",
-      "source": "Reccessary",
-      "date": "2026-11-17",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9sejFxVHJiRFpzNjlnaTloZjZwbU8wWmlWcV9feDB2Rk1VanpQLWxfbGlNUXpudTgzZEc0QWVEQURURm1fNTQ5eWF6cW1vNkE1clFfTGZsbldWUGFJNDhMRDlzSUtSZnkyaDExak5ndEFMN05SbVhDOFV1cC1YUQ?oc=5"
-    },
-    {
-      "title": "貝爾威勒布局800V 與 EBO 迎接 AI 資料中心升級",
-      "summary": "",
-      "tag": "aidc",
-      "source": "經濟日報",
-      "date": "2026-11-17",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE82U0YwR1BtNFc5a0piVlB1WFRyai1iWURoODRjeEM3UDRpVkVKYUF6ZE5UVkxjUk9MSk9maE0xNGoxUnlTQ21tSmhZcTMzOE85LUlDTi16aFc3UdIBX0FVX3lxTE12ZzJ1R2xDNEpUUV9NeFo1X2Y0b3F4Nng2NXhVRy1EZUR6YUZuZ3VsUnBfckl6d1ZlX1ZQQkFxRXZrbzdpUEpJU05XTkVfa0ZIN3RzeXBuQXN6OE1ha0VV?oc=5"
     },
     {
       "title": "New Street starts Anthropic coverage with 'buy' rating, estimates revenue above $500 billion by 2030",
@@ -297,22 +313,6 @@
       "source": "Columbia Business School",
       "date": "2026-11-17",
       "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQTjVLWkNxN0M4cElnaWlJcFpPNG1pRkVfdWczYUVaT0d0c0ozRDBLVDNqbWZ2allxVnRXTlpTNmZuWWpnVE5VUFd6UlA2MVQtcTduNGZpbDRiQm5OYUdhTjgtbF91bGtPRzNuMjFYaG92cXp4MXpKclVsRnNMN1ZuSjdSYVZfZDJzX3c?oc=5"
-    },
-    {
-      "title": "Investors look to Nvidia's earnings and Anthropic's IPO to refresh the tech rally",
-      "summary": "",
-      "tag": "demand",
-      "source": "CNBC",
-      "date": "2026-11-17",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOYlFDb3RMdVlJbXpWWTd3XzVMRzZnOWFYRzR1VHBwXzRHZWlIdS0tYjA5RjVfY0dHRFF2VVIzN1VkdjZhWVdxb0pWT2pvOEd4dVI1ZDdOTy1RYWdObXBocm01cXVPUGpHVXJqcmRuSGRheFgyNUhOMmFGUUk5cEttSzNVb9IBiAFBVV95cUxPVVE1NVl1aGppdU5rbFBEQ053ZmRxSXYyZ2lwX1kwZFpFanRDb1QzcWlQZ1ptM3VJRGRGUkdaQzVFWTFFWVIxWmZIQWM1WEswLUhNRm83RllQemFOdzNyXzV5ampaLWFpRlhsZWFNdjdCNlp0N3BZNzZzcTJQd2FJZVNOQ0tUSUsw?oc=5"
-    },
-    {
-      "title": "Apollo CEO Marc Rowan warns neocloud financing access could 'disappear'",
-      "summary": "",
-      "tag": "demand",
-      "source": "CNBC",
-      "date": "2026-11-17",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9oTWhZd1oxMk5VTHEzb090TkN0SzRabHRueS04akFTY0g5Rm5SLWNCX01uczI3NGNnWGR1NEhvZ3VRQTN3Szk5cGFnUmdNT29xYzNTMTJFbFN4b1hiMTdENGh4Vkc3b2tfTlJNb3Y2UjF4VE83RFlRY9IBfkFVX3lxTE1XVnoxMFVzdjNRbHdfdUM5SXIwM1hhSUxOMFpQWkxDSFgxQk12UHB1YWQyLUxkMFZfZDB1U2tHNUZSbTl5VWFxVjd5QU1LN0JPZ1pCMEQ1dDZ5Szd0MU9sbnlLNmlqV2tLczBjNFhocWZKdGc1UVZRTTV2eVQ1UQ?oc=5"
     },
     {
       "title": "Nvidia turmoil marks the end of easy money for the AI trade",
