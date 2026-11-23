@@ -1,7 +1,47 @@
 {
-  "updated": "2026-11-23 03:52",
+  "updated": "2026-11-23 15:54",
   "source_note": "Google News RSS",
   "items": [
+    {
+      "title": "資料中心開不了！馬斯克：AI產業明年「瘋狂缺錢」數千億美元從哪來？",
+      "summary": "",
+      "tag": "aidc",
+      "source": "工商時報",
+      "date": "2026-11-23",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE01MVE1OHViZDZENW9BalhlYzBVZkUyMzByT2tHUGhKVVFjbVNYVzlyRHlFVHJiNllzMlVSMzRnZDFnSHlsQUZoanRNbDhuNHFzdmdqUkYwaEJYdnJiWVhZ?oc=5"
+    },
+    {
+      "title": "Beyond CPO: How Foxconn’s 12.8T XPO Is Redefining Optical Interconnects for AI Data Centers",
+      "summary": "",
+      "tag": "products",
+      "source": "semivision",
+      "date": "2026-11-23",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9OeTNZWGRjTmdoSVBCdWtIdUFaSVhWN084V1FLLWQ5aG13WWNtS25YTmJoWExLczBOMnJjUTBaYXhBU1RCRWlWUWZMbEpBQnVvUHpVREtnQm9lSVh1b05SSFI4TkNYd0E2WXZRRFEzMWhGT1ZWb2ptZ19yVUZIdw?oc=5"
+    },
+    {
+      "title": "How Amazon Plays the Long, Expensive Data Center Game That Neoclouds Can’t",
+      "summary": "",
+      "tag": "aidc",
+      "source": "The Information",
+      "date": "2026-11-22",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxORkt3LUxXYjZSOEgweWR3SHowTnJQd19PNVE3NnRVaHhhcDBQNC1vaXVibjRKRDBUVF84dEhJcDN1MTlsX1A4Q0hZelo3RmtMelhhM3lhbmtOZUNSc3VfWGRNdDNfRVQ5LXRwN01nc1lsVVNxdk9GQXYxUTNJY2EtSUFrTnpuekItcEowd0Jod3lkODNQS04wQWgwVUszd1ppem8yelZydTdKSFozamdVaGY2V0FhQQ?oc=5"
+    },
+    {
+      "title": "Meta to Build C$13 Billion Alberta Data Center, its First in Canada",
+      "summary": "",
+      "tag": "aidc",
+      "source": "EnergyNow.com",
+      "date": "2026-11-22",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOeHpJcTRfS0hLbWRWNWpadFdJOHZBaFNyUTdaUkh5ZFRSN25wTGRwNHBRZXRwVHBXR3ZQRHhWZXJ5MjNVRG5nZzU4bE1wc2RlRWhPdF9BdkNtbk9NTFNveXRvNTNoaHJheFV5SG5LQlM1Vzg3M1VWZVFYUGFiLVp4eWYxaVctcHkzdGxRREpDTnJrQnNLcC1XQlllQkc?oc=5"
+    },
+    {
+      "title": "DATA CENTRES: Alberta May See ‘Gigawatt-Scale’ AI Data Centres Under Construction This Year",
+      "summary": "",
+      "tag": "aidc",
+      "source": "EnergyNow",
+      "date": "2026-11-22",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNVHVkaGNLYmRZZ2NqUm1DakVZNjltZDVsaGJjNGtzai1jaWVxY2lYMjlpRndMNWItdHdPeEJyelFSMU1KTlJ1OTVWUE1TYW00N0NpNXZTZlNyZVZBTkpBa0F6T0JWS2JnRWJmVnJxNG4wV3dhNVcxZjBvaU0tbEpCTk5YY3huQklCN09DdzdwWnBsd0RfcUtjMDBLeU5HcHNQX1ZqZEdWeDE?oc=5"
+    },
     {
       "title": "川普不准美企赴海外蓋AI資料中心！揚言課「巨額稅金」 力阻中企奪美國晶片算力",
       "summary": "",
@@ -25,14 +65,6 @@
       "source": "saastr.com",
       "date": "2026-11-21",
       "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPTXQwZFNiOUJqZHp0Y1RwalhkME5IRkpSSWl5a3h1ZlUweVhONjZuYXdYamdSaDFEMTVsRFFTS2ZjRkNqajhYTlRyWTRSQllIVWY1cHpMVmo5SmR5MGJuVG40VzkwTFlRRUdTQTlKUHIzX3VXby1SSW1GbHJheEY2Z2pmbFl3aTJ3aU9sc3BONkJ4cEdhWi0takFsWnhCdEpSU0s3Qk9YRkowX2lXYjhXd0h1azdMMnhjVTBXLVhxQy1ENXQxSUs3aG15Y0hhV29VNEpfSHJkTDJjN05kQ0ttSDlmSU1heFlIek44N1Z2VQ?oc=5"
-    },
-    {
-      "title": "Meta to Build C$13 Billion Alberta Data Center, its First in Canada",
-      "summary": "",
-      "tag": "aidc",
-      "source": "EnergyNow.com",
-      "date": "2026-11-20",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOeHpJcTRfS0hLbWRWNWpadFdJOHZBaFNyUTdaUkh5ZFRSN25wTGRwNHBRZXRwVHBXR3ZQRHhWZXJ5MjNVRG5nZzU4bE1wc2RlRWhPdF9BdkNtbk9NTFNveXRvNTNoaHJheFV5SG5LQlM1Vzg3M1VWZVFYUGFiLVp4eWYxaVctcHkzdGxRREpDTnJrQnNLcC1XQlllQkc?oc=5"
     },
     {
       "title": "SemiAnalysis's Dylan Patel: Permits, Not Chips, Are Pushing Gigawatts of AI Data Centers Into 2028",
@@ -187,6 +219,14 @@
       "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1xSFI3YkYxQ0NwSGN0RmpLVHNfeERWRG1pZnJUZ0NlZTJaNXJjM2hHV3VPOGc2T2xWM2ZkMWtYXzhQWnVBOVhxYzhyRDRoaHRMeG15ZS1CTVpITzh3MW9zcU5QVXRoQzRYWEt6di0yVnlyU2hj?oc=5"
     },
     {
+      "title": "Nvidia's shift in financing tone may spell trouble for Coreweave, other neoclouds",
+      "summary": "",
+      "tag": "demand",
+      "source": "CNBC",
+      "date": "2026-11-18",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9IZ2MtRFhGSXJRTVZCWWtGUGN6ZGNsb2VoUkhjcGZhV0UzbFJodkJsR2xNdTB5ZWRDMll6UkFZakJyZXYwaFFJQk1jUnhyaTNwVjBhcjBSaVZCMlhCbmNYM2QtTlctNktfSU95UGNiaw?oc=5"
+    },
+    {
       "title": "Nvidia Shrinks Neocloud Backing to $32 Billion as CoreWeave and Nebius Rallies Fade Fast",
       "summary": "",
       "tag": "demand",
@@ -203,12 +243,20 @@
       "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQYmF5eE1HUVRaVlFDOHRJZTNpS0lwd2ZnVU5QZDcwUlNJWGpYYkdXS0d0S2NpM0VfU3pFQjZ2UnVKd2MyM0hOT2wxbnJXbUtMeWJVLVJjSGVDWkVaMzc1OEhFbGIxdXFpd0VXMk52QlhabmRaMUIxQThDd21nZFBzYzdYdUM0c1NHRjMtR0JFanpsZE5uTS1HR2JFa1FuZE5FYzJrMVlBZW9jV2hnQzJuWjBBd2I1YjZxQkRKQWlsSzJDM0xi?oc=5"
     },
     {
-      "title": "Should You Buy the Dip in Neocloud Stocks & ETF After NVIDIA Result?",
+      "title": "CoreWeave and IREN Fall as Nvidia Signals Caution on Financing",
       "summary": "",
       "tag": "demand",
-      "source": "TradingView",
+      "source": "Barron's",
       "date": "2026-11-18",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNel9CcW85UkFDa3RjVzQwckZLTHJPdTdzR1FDbkhxMEhob3lnWThKQVdFWnJlTTljSUc5X3BNMFRsRHN3WXdqZWIxNlFjN01ySzA5UHptUl9XRTZZd2dDUXFlWmQ1Q2hyXzRpbkVLZTV5NDVsOTlVMWZGVlZabUVyNmdmR2tVYnAyY1dRZ25lV1pFRFJGQkJFX25tUkdhVy1GeWZ3Tzk2NFpHY3hIWXFpWkdoc085T2o2YVltNjBB?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNNnY2UEtlY1hWdWotVHBfN2VfMHdKU2dZcHdLSWlvcTdnQU5JVVpDcVlNNXpuZmdIOEt5TkhEVnVmYjVCZ0E5VFlkVTJTR0E4OHM3cVpXRE1oNS1sZ2N4N2FWYjJiSGFYSnJhSi1SeURvMllQaU9kS3F3QzFQdFhYLWNVMFE?oc=5"
+    },
+    {
+      "title": "Nvidia clarifies when it will — and won’t — keep financing neoclouds",
+      "summary": "",
+      "tag": "demand",
+      "source": "TechCrunch",
+      "date": "2026-11-18",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNWUd2cTU5UWdfX3BzdGk1R1kyTVFXOC16YXYydUhObnktRXY0Q094LS03NUJwcjRzNEttOWFpdnIxX2Q4LVlhbEdIc1hIUHZSMzFVVlVJdUo4TG9aLTV0bktrR2VaN1lLRUk0VjFnRTE5eHB4YmpyTjcyNlg4a2RkdlVhM2FxRDBUcTgtSmhLZ3FLMTlCOTMyZ3ItbFdzQzg?oc=5"
     },
     {
       "title": "Inside China's relentless race to develop humanoid robot helpers and get them into our homes",
@@ -235,12 +283,28 @@
       "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOay05N1JJSXFwUk1VakFZM3ZXRVVsSkEyWVhiSlVoUmt2b2c5bzJCcEx5cGE3WU5qbktYemF5WVBPZFlsMTd0NmJCM3ZNSnhBYndUblI1SHBvNTdNR0d0ZWNzS0xJOVNTS0hFZ3NoY05ialAwUHdLdlozNU5XbDl4ek05VlV4UWJQRDdvTw?oc=5"
     },
     {
+      "title": "SCHUNK spin-off for humanoid robot hands becomes TACTILIA Robotics",
+      "summary": "",
+      "tag": "apps",
+      "source": "Robotics Tomorrow",
+      "date": "2026-11-18",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNNk1UejJ3Y2FPcDdqX25qVFpDTVUzaFJ5R21rNFk5RUt2VTVOTTNXN3cxLWE3THozeU0wcUxtRl8zVnlneDE3Y1luMjJxZ3Y0dXRVRjJCaENtY0g3WjFKUmJQS1BHUllDQ3JObkxfbWloVHNYOVhfOEFKYkFqTzB5SDQzTHUzM0lQc1FBeEUwN2RaOVQ1bkVlRXRQNkxSVzZ1QUlZZUVzaW1ZY2k3dDdOOUJnckNjV0VuV1FnMUVVaw?oc=5"
+    },
+    {
       "title": "Microsoft and IBM Unite to Accelerate Enterprise AI Adoption",
       "summary": "",
       "tag": "apps",
       "source": "Cloud Wars",
       "date": "2026-11-18",
       "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPRVMtcEZLZ2RJVWpZTFpLYl9PcVdBQ2h6S1VFdnVXSF83eFA1S0wyUGRGcjNuWnJoRmxBd3g4SWphR2VJX1B4UlhJemIwWktFcjNIWDZieFBJRWk1cURMR1lTZmZTZFV2b3hCS1ppVGcwc3JicVZfdU5tNHNWR2NqeXZqdDA0SGNRbEZ5TVFZXzN6M0V6M19nUTNnTk1mVEtQS0xn?oc=5"
+    },
+    {
+      "title": "From reporting to reasoning: Getting enterprise data ready for AI agents",
+      "summary": "",
+      "tag": "apps",
+      "source": "Amazon Web Services (AWS)",
+      "date": "2026-11-18",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNQ09iMEFPWXloa3hudGY2bmtQMVlLZk9xV1FMZFhuQkJhTzVQZnM3eEZvYWVOMUxCNTlHZE5MUWlIbXFrbXAxalpqbkJyRGZ2ckJ0UjZJYWpWOXhtQVhfZU5Id3NaaFVwcDBiOENrUzBsTDA2QW1mSDJlbGRoSUo3akJJU1o2cV8zZjBxVEZhSGwycmxWb0R1ZGY1UTV3dEN6TGFPNEhTbW9ycEdFWjZlNHhGamMxOVZIamc?oc=5"
     },
     {
       "title": "Workday Eyes Honeydew to Accelerate Enterprise AI Adoption",
@@ -257,70 +321,6 @@
       "source": "ARNnet",
       "date": "2026-11-18",
       "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQTVZrTGJ1QlhYWUllZW84bDljamZvU1JoNDVmTWV3OGstU3FOc0hvam5meFNQWUNyZVNmZEtUOUtQb3k2ZURuWnZOVjU2a3hQQTdaRHhiTFBGNWFRcUg5MHduTU5pVkt4WVEwbUZLNG5HWGxpOVZmSjlWdl9rYjFsTjZSeGlCbHN0Y09aYjZQZzNNX2RacjFzX1J6TEJCT0tFRWdLc0ZOc2NmZHFNcUlpM2FNdmtxbkZuUko3QXJkRndoOUxuU3Q5YmpMUHM?oc=5"
-    },
-    {
-      "title": "AI agents just doubled inside the enterprise. Confidence rose faster than control did",
-      "summary": "",
-      "tag": "apps",
-      "source": "TechCrunch",
-      "date": "2026-11-18",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPOFdlZ2J6R0MydjAzYVJFTkZ2cjZ1WnpzVGNQWFpBUXNTZWpjYW5XZGE5UkdDaHlaMW9BUmx5dENNZXdjSUJFbGZoWlJXd0kxeGYxZFNyNUo0MmwxM1hvbDNTZ2J1YkZ2bDFvUHhmY3BRRE1Td1p5MnZKMGZ1ZTd1dmF2Q1VCaEJPbmVhUk5qMGNFblJyMXJONXktMHIzcUM3SkRmbFBWUHR4cWNfWU9wa2FwcjZKQy00NVlVRjVKZ1JiYWM?oc=5"
-    },
-    {
-      "title": "Data center builders seek clarity on rules in largest US grid",
-      "summary": "",
-      "tag": "aidc",
-      "source": "Reuters",
-      "date": "2026-11-17",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNdFpocGI2RUc2VlJqbWdjNXpPT1VjOGdLZVhxc2t0VGVCT2dyZjdYRDY0UENsU2U1SEZLU3lLR3hnNTNtMjBmVTRUZm00enlOUWxRaHBOQkpVUHV0SExhblZlaVdWb1pJQ3Z4WVFvazdiWWMwbWZSUHRMYzBMcjhHN3JNTHVmZjFqYXFhbFh1UFFZUXZ1Uml5MGhybG0yQ3picl9xb2U4aUJyc2JpX19kRmluWUw?oc=5"
-    },
-    {
-      "title": "The AI sell-off makes sense. Staying bearish may not",
-      "summary": "",
-      "tag": "aidc",
-      "source": "Financial Times",
-      "date": "2026-11-17",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5PWkxlVWg1MHR1c01TU3NlcDdFRkotZjktb0VJQ3RiN2xkZ3JCbk83cXpUMDFjeXVpdldhOGotX0ZLWmJ6aGt6NGdMN3BJakxjTDZmak5wMkhNMTNwNzgzZ0hhVFlyRWJxWlgxbEY5bEo?oc=5"
-    },
-    {
-      "title": "SemiAnalysis “Downgrading” Accelerator Capex Forecast by 28%, Hours Before Nvidia Reports",
-      "summary": "",
-      "tag": "aidc",
-      "source": "Yahoo Finance",
-      "date": "2026-11-17",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOX3RtOGhqWVgyay15S0E1aGswajF2aG4zUUxHczZfTFJGTnRId2k4YmUyQ0lGNnI5S2RkZTZpbWJscG13VlY5NVowSWxIanQ0RUwyOTJHT3J2WnlWai1vTl9XbDZyZjhDYUtVbml0OVh0MDZIUVdpTnd5SGwxVl9VZ3ZZWWVyTWpBSFdxajRoclZvZlJTM18wRldYNExyV0IxU1IzOVllYU9HX1ZkRDVkUllzVHlVUQ?oc=5"
-    },
-    {
-      "title": "Is the bubble popping? BofA fund manager survey sees tech cut by the most since 2006",
-      "summary": "",
-      "tag": "aidc",
-      "source": "Fortune",
-      "date": "2026-11-17",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOdnlOdUNheTNhTGhnd0NoV3NObWE5Tkt4MGlnd0JjVURnS3ZzZVJuZDR5VmtCZE9GTm1kNzlQWlBnTnFsUnJPc05rcW9nQzFIbWxrb0FlNTBsNkJaM0NCUHpLQkZMaWFfcjVrTmYzNUk5cEg1RkMxQ1ZibTlqbDZ3aGlVZlNqSUpuSDNIdGJnaUV6NWlSVnU5YVZzeHg3UQ?oc=5"
-    },
-    {
-      "title": "Bank of America survey: 52% of fund managers expect an AI hyperscaler to cut spending",
-      "summary": "",
-      "tag": "aidc",
-      "source": "Crypto Briefing",
-      "date": "2026-11-17",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5mcnUybVI0WUk3eklNdjJfQU5fWnFhZ1RiVjUtQ0lWNzNxbC1VQklKcFNCX3FjZXRCOFI5NWwtOENQd0lzSDBhNm4zRk51RGdOOS1oa2hCOVl5eUxEZUw1dTNnWmFCa1E2c2ZMSk5SRE5yeFozOXNmeldTY1o?oc=5"
-    },
-    {
-      "title": "OWASP公布AI資料中心十大資安風險，韌體遭竄改、高速網路防護不足列重大風險",
-      "summary": "",
-      "tag": "aidc",
-      "source": "iThome",
-      "date": "2026-11-17",
-      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1iZmNJMnU0azFmQWNYNk5QVWE0bWg5X1VYN2pEZEpuOVVRMFVKNVJudmpMbmMtTzBRaEdRbG5CZkdkaHYyRG1GQ0UyOW41Zw?oc=5"
-    },
-    {
-      "title": "New Street starts Anthropic coverage with 'buy' rating, estimates revenue above $500 billion by 2030",
-      "summary": "",
-      "tag": "demand",
-      "source": "Reuters",
-      "date": "2026-11-17",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNck0wUlQwaUFLZFczaDFkai1PQmhJSkV3SDRwbXFsY01CaEM3cEVJaU1oUG5qWlVOUmxIWTBoVFR1RzhmbDVXeWg3SUpxY0VlR3cxci1qU1l1NlZUcENIQVAyaG5XMXB0OWZQR1pBaGNGaEhWRzRpOUVGODBERGFsU3FzbEdNOFh2TC1MSEtLenVDc0djNUp5YlBibjExRXN1SUlnT2RabXhGTUJnRWlsS2pobXRYTkdhaUQyZzVmYjhaanc?oc=5"
     }
   ]
 }
